@@ -563,6 +563,24 @@ def format_location(location):
         4: "4th floor",
         5: "5th floor"
     }
+    # footnotes aren't part of the name; the wiki sometimes writes <ref group "l"> without the =
+    location = re.sub(r"<ref[^>]*?/>|<ref[^>]*>.*?</ref>", "", location, flags=re.S)
+    location = re.sub(r"<br\s*/?>", " ", location)
+    code = mw.parse(location)
+    for template in code.filter_templates(recursive=False):
+        name = template.name.strip().lower()
+        text = ""  # footnotes ({{Refn}}, {{NamedRef}}, {{efn}}) and anything unknown are dropped
+        if name == "fairycode" and template.has("1"):
+            text = str(template.get("1").value).strip().upper()
+        elif name.startswith("floor"):
+            param = "uk" if template.has("uk") else "1"
+            floor = str(template.get(param).value).strip() if template.has(param) else ""
+            text = floor_values.get(int(floor), "") if floor.isdigit() else ""
+            if template.has("caps"):
+                text = text.capitalize()
+        code.replace(template, text)
+    location = str(code)
+
     bracket_regex = r"(?<=\[\[).*?(?=\]\])"
     bracket_matches = re.finditer(bracket_regex, location, re.MULTILINE)
     for matchNum, match in enumerate(bracket_matches, start=1):
@@ -573,13 +591,7 @@ def format_location(location):
             part = parts[0]
         location = location.replace(match.group(), part).replace("[", "").replace("]", "")
 
-    brace_regex = r"(\{\{).*?(\d+)(\}\})"
-    brace_matches = re.finditer(brace_regex, location, re.MULTILINE)
-    for matchNum, match in enumerate(brace_matches, start=1):
-        floor = int(match.group(2))
-        location = location.replace(match.group(), floor_values.get(floor))
-
-    return location
+    return re.sub(r"\s+", " ", location).strip()
 
 
 def run():
