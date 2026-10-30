@@ -3,6 +3,66 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Tower of Life",
+        "tiles": "2646,3228,0"
+      }
+    ],
+    "source": "'Black-eye'"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life",
+        "tiles": "2647,3228,0"
+      }
+    ],
+    "source": "'Gummy'"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life",
+        "tiles": "2644,3223,0"
+      }
+    ],
+    "source": "'No fingers'"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life",
+        "tiles": "2644,3226,0"
+      }
+    ],
+    "source": "'The Guns'"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "1826,5148,2"
+      }
+    ],
+    "source": "A Doubt"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Underground Pass",
+        "tiles": "2452,9715,0"
+      }
+    ],
+    "source": "Abandoned Equipment"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Deepfin Mine",
         "tiles": "2051,9208,0;2053,9210,0;2055,9209,0;2056,9205,0;2058,9209,0;2059,9203,0;2060,9206,0"
       },
@@ -163,6 +223,16 @@
       }
     ],
     "source": "Abyssal walker"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Varies",
+        "tiles": "2328,3060,0;2329,3063,0;2331,3064,0;2333,3068,0;2339,3070,0;2341,3071,0;2345,3070,0;2347,3068,0;2346,3065,0;2345,3063,0;2341,3064,0;2342,3066,0;2342,3068,0;2344,3066,0;2350,3070,0;2351,3067,0;2343,3043,0;2342,3041,0;2345,3042,0;2347,3040,0;2348,3038,0;2350,3041,0;2351,3039,0;2352,3041,0;2355,3040,0;2355,3043,0;2355,3046,0;2357,3044,0;2360,3044,0;2362,3046,0;2356,3072,0;2358,3073,0;2360,3072,0;2362,3072,0;2364,3073,0;2366,3072,0;2368,3070,0;2369,3067,0;2371,3065,0;2372,3063,0;2375,3063,0;2375,3065,0;2373,3068,0;2372,3070,0;2371,3072,0;2369,3073,0;2368,3075,0;2373,3074,0;2374,3072,0;2375,3070,0;2379,3069,0;2377,3068,0;2377,3066,0;2380,3065,0;2379,3062,0;2360,3062,0;2362,3064,0;2363,3062,0;2363,3059,0;2373,3042,0;2375,3041,0;2377,3042,0;2379,3048,0;2376,3046,0;2385,3062,0;2387,3066,0;2388,3063,0;2389,3060,0;2387,3059,0;2386,3057,0;2400,3035,0;2404,3037,0;2404,3040,0;2405,3058,0;2402,3062,0;2402,3064,0;2405,3065,0;2406,3067,0;2410,3067,0;2413,3067,0;2415,3066,0;2420,3063,0;2418,3060,0;2418,3056,0;2411,3047,0;2413,3045,0;2414,3042,0;2416,3045,0;2416,3047,0;2434,3060,0;2443,3062,0;2439,3043,0;2460,3022,0;2464,3023,0;2463,3020,0;2475,3020,0;2477,3019,0;2478,3015,0;2476,3011,0;2589,2964,0;2595,2958,0;2603,2958,0;2605,2959,0;2615,2953,0;2624,2948,0;2625,2950,0;2629,2955,0;2625,2959,0;2615,2965,0;2614,2968,0;2610,2974,0;2606,2978,0;2605,2982,0;2604,2979,0;2601,2977,0;2599,2978,0;2600,2975,0;2601,2973,0;2602,2971,0;2604,2972,0;2625,2977,0;2626,2974,0;2625,2972,0"
+      }
+    ],
+    "source": "Achey Tree"
   },
   {
     "locations": [
@@ -917,12 +987,252 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Body Builder"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Bringer of chaos"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Building muscle"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting a grip"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Attack"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Defence"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Fishing"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Magic"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Mining"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Ranged"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Strength"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Getting started Woodcutting"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Honing my aim"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Mithril defence"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Sharpshooter"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Sticks and stones"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Striking a pose"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3232,3234,0"
+      }
+    ],
+    "source": "Adventurer Jon#Weapons master"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Mort'ton",
         "tiles": "3466,3306,0;3471,3285,0;3479,3300,0;3499,3298,0;3502,3277,0;3511,3300,0;3517,3285,0;3466,3309,0;3476,3288,0;3481,3305,0;3485,3271,0;3488,3284,0;3495,3285,0;3503,3302,0;3506,3304,0;3509,3284,0;3469,3308,0;3474,3293,0;3491,3291,0;3496,3271,0;3503,3288,0;3472,3304,0;3475,3274,0;3477,3308,0;3481,3277,0;3487,3277,0;3493,3299,0;3504,3281,0;3515,3302,0"
       }
     ],
     "source": "Afflicted"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wilderness Agility Course",
+        "tiles": "3005,3936,0"
+      }
+    ],
+    "source": "Agility dispenser#All Laps"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wilderness Agility Course",
+        "tiles": "3005,3936,0"
+      }
+    ],
+    "source": "Agility dispenser#Laps 1-15"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wilderness Agility Course",
+        "tiles": "3005,3936,0"
+      }
+    ],
+    "source": "Agility dispenser#Laps 16-30"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wilderness Agility Course",
+        "tiles": "3005,3936,0"
+      }
+    ],
+    "source": "Agility dispenser#Laps 31-60"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wilderness Agility Course",
+        "tiles": "3005,3936,0"
+      }
+    ],
+    "source": "Agility dispenser#Laps 61+"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Rellekka",
+        "tiles": "2643,3677,0"
+      }
+    ],
+    "source": "Agnar"
   },
   {
     "locations": [
@@ -1053,6 +1363,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Al Kharid",
+        "tiles": "3302,3211,0"
+      }
+    ],
+    "source": "Ali's Discount Wares."
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ardougne Sewers",
         "tiles": "2608,9671,0"
       }
@@ -1083,11 +1403,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Varrock Palace 1st floor",
+        "tiles": "3205,3472,1"
+      }
+    ],
+    "source": "Ambassador Ferrnook"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ardougne Castle 1st floor",
+        "tiles": "2573,3297,1"
+      }
+    ],
+    "source": "Ambassador Gimblewap"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "White Knights' Castle 1st floor",
+        "tiles": "2983,3337,1"
+      }
+    ],
+    "source": "Ambassador Spanfipple"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Mining Guild",
         "tiles": "3009,9727,0;3002,9724,0;3004,9721,0;3005,9721,0;3006,9720,0;3006,9719,0;3009,9718,0;3011,9714,0;3012,9712,0;3005,9711,0;3008,9711,0;3005,9710,0;3012,9710,0;3002,9709,0;3007,9709,0;3002,9708,0;3011,9708,0;3028,9707,0;3009,9706,0;3018,9706,0;3029,9704,0;3017,9703,0;3026,9703,0;3017,9701,0;3023,9701,0;3025,9701,0;3029,9701,0;3020,9699,0;3024,9698,0;3025,9698,0;3006,9727,0;3010,9727,0;3004,9726,0;3002,9723,0;3011,9722,0;3010,9720,0;3010,9716,0;3002,9714,0;3002,9713,0;3007,9713,0;3008,9712,0;3001,9711,0;3012,9711,0;3008,9710,0;3006,9709,0;3028,9706,0;3005,9705,0;3006,9705,0;3007,9705,0;3017,9704,0;3026,9704,0;3020,9703,0;3029,9703,0;3017,9702,0;3026,9702,0;3029,9702,0;3022,9701,0;3024,9701,0;3019,9699,0;3021,9699,0;3023,9698,0;3026,9698,0"
       }
     ],
     "source": "Amethyst crystals"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "2982,7679,0"
+      }
+    ],
+    "source": "Amitire plant"
   },
   {
     "locations": [
@@ -1118,6 +1478,36 @@
       }
     ],
     "source": "Amoxliatl#Post-quest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ungael laboratory",
+        "tiles": "2290,10474,0;2273,10455,0"
+      }
+    ],
+    "source": "Ancient Equipment"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ungael laboratory",
+        "tiles": "2273,10476,0;2279,10464,0"
+      }
+    ],
+    "source": "Ancient Incubator"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "2254,10465,0;2288,10456,0;1577,5078,0;1585,5063,0;1593,5084,0;2872,9675,0"
+      }
+    ],
+    "source": "Ancient Machinery (old notes)"
   },
   {
     "locations": [
@@ -1178,6 +1568,36 @@
       }
     ],
     "source": "Ancient Zygomite#Varlamore"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Great Olm's room, Chambers of Xeric",
+        "tiles": "3233,5751,0"
+      }
+    ],
+    "source": "Ancient chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Great Olm's room, Chambers of Xeric",
+        "tiles": "3233,5751,0"
+      }
+    ],
+    "source": "Ancient chest#Challenge Mode"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Great Olm's room, Chambers of Xeric",
+        "tiles": "3233,5751,0"
+      }
+    ],
+    "source": "Ancient chest#Normal Mode"
   },
   {
     "locations": [
@@ -1447,6 +1867,16 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Varrock",
+        "tiles": "3195,3404,0"
+      }
+    ],
+    "source": "Apothecary"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Ynysdail Cavern",
         "tiles": "2248,9862,0;2249,9837,0;2251,9852,0;2251,9859,0;2253,9835,0;2253,9841,0;2253,9863,0;2255,9846,0;2261,9845,0;2262,9852,0;2266,9842,0;2268,9848,0;2279,9872,0;2281,9867,0;2283,9861,0;2285,9865,0"
@@ -1648,6 +2078,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "The Fractured Archive",
+        "tiles": "4114,5539,0;4111,5538,0;4110,5536,0;4111,5535,0;4113,5533,0;4115,5532,0;4117,5534,0;4116,5535,0;4116,5537,0"
+      }
+    ],
+    "source": "Ascension rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Fossil Island Volcano",
         "tiles": "3804,3826,0;3785,3823,0;3794,3818,0;3812,3818,0;3802,3813,0;3786,3810,0;3820,3804,0;3818,3791,0;3800,3785,0;3821,3779,0;3781,3774,0;3794,3773,0;3810,3772,0;3789,3769,0;3800,3767,0;3789,3757,0"
       }
@@ -1808,6 +2248,16 @@
       }
     ],
     "source": "Baby tanglefoot"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple Trekking",
+        "tiles": "2086,5011,0;2087,5011,0;2089,5011,0;2086,5010,0;2086,5009,0;2087,5008,0;2089,5009,0;2096,5009,0;2097,5008,0;2098,5007,0"
+      }
+    ],
+    "source": "Backpack"
   },
   {
     "locations": [
@@ -2058,6 +2508,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Otto's Grotto",
+        "tiles": "2500,3490,0"
+      }
+    ],
+    "source": "Barbarian bed"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Barbarian Outpost",
         "tiles": "2544,3577,0;2546,3560,0;2546,3565,0;2548,3558,0;2549,3566,0;2549,3570,0;2550,3563,0"
       },
@@ -2143,6 +2603,106 @@
       }
     ],
     "source": "Barracuda shipwreck"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mos Le'Harmless, Morytania",
+        "tiles": "1825,4840,1"
+      }
+    ],
+    "source": "Barrel (Cabin Fever)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Cam Torum",
+        "tiles": "1504,9546,1"
+      }
+    ],
+    "source": "Barrel (Cam Torum)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Ruins of Camdozaal",
+        "tiles": "2911,5812,0;2979,5795,0;2958,5800,0;2938,5812,0;2961,5807,0"
+      }
+    ],
+    "source": "Barrel (Ruins of Camdozaal)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik",
+        "tiles": "1696,9633,2"
+      }
+    ],
+    "source": "Barrel (Ruins of Tapoyauik)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shaman Caves",
+        "tiles": "2756,9325,0;2756,9333,0;2758,9323,0;2760,9320,0;2762,9327,0;2762,9336,0;2763,9324,0;2768,9329,0;2768,9334,0;2776,9322,0"
+      }
+    ],
+    "source": "Barrel (Shaman Caves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Twilight Temple Basement",
+        "tiles": "1686,9702,0;1694,9702,0;1693,9698,0;1696,9699,0;1697,9698,0;1687,9702,0;1690,9700,0;1688,9698,0;1693,9701,0;1696,9698,0"
+      }
+    ],
+    "source": "Barrel (Twilight Temple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zaff's Superior Staffs!",
+        "tiles": "3201,3437,0"
+      }
+    ],
+    "source": "Barrel (Zaff's Superior Staffs!)#Easy diary"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zaff's Superior Staffs!",
+        "tiles": "3201,3437,0"
+      }
+    ],
+    "source": "Barrel (Zaff's Superior Staffs!)#Elite diary"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zaff's Superior Staffs!",
+        "tiles": "3201,3437,0"
+      }
+    ],
+    "source": "Barrel (Zaff's Superior Staffs!)#Hard diary"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zaff's Superior Staffs!",
+        "tiles": "3201,3437,0"
+      }
+    ],
+    "source": "Barrel (Zaff's Superior Staffs!)#Medium diary"
   },
   {
     "locations": [
@@ -2433,11 +2993,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Shaman Caves",
+        "tiles": "2782,9330,0"
+      }
+    ],
+    "source": "Bed (Shaman Caves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Meiyerditch",
+        "tiles": "3594,3271,0"
+      }
+    ],
+    "source": "Bed (old diary)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kebos Lowlands",
+        "tiles": "1287,3762,0"
+      }
+    ],
+    "source": "Bed (tatty note)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Bedabin Camp",
         "tiles": "3160,3031,0;3162,3033,0;3164,3031,0;3177,3033,0;3178,3030,0;3180,3033,0"
       }
     ],
     "source": "Bedabin Nomad Fighter"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "1926,5044,0"
+      }
+    ],
+    "source": "Beekeeper (random event)"
   },
   {
     "locations": [
@@ -2648,6 +3248,76 @@
       }
     ],
     "source": "Bird snare (spawn)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Birdhouse (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Eagles' Peak",
+        "tiles": "1958,4906,2"
+      }
+    ],
+    "source": "Birdseed holder"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3476,9679,0;3474,9679,0;3476,9683,0;3474,9683,0"
+      }
+    ],
+    "source": "Black Chest (black)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3487,9675,0;3462,9679,0;3487,9679,0;3462,9675,0;3460,9675,0;3485,9675,0;3460,9679,0;3485,9679,0"
+      }
+    ],
+    "source": "Black Chest (brown)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3487,9684,0;3462,9688,0;3460,9688,0;3487,9688,0;3485,9684,0;3460,9684,0;3485,9688,0;3462,9684,0"
+      }
+    ],
+    "source": "Black Chest (crimson)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3471,9670,0;3473,9666,0;3471,9666,0;3473,9670,0"
+      }
+    ],
+    "source": "Black Chest (purple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3487,9670,0;3462,9666,0;3460,9666,0;3485,9666,0;3460,9670,0;3485,9670,0;3487,9666,0;3462,9670,0"
+      }
+    ],
+    "source": "Black Chest (red)"
   },
   {
     "locations": [
@@ -3183,6 +3853,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Darkmeyer",
+        "tiles": "3633,3359,0"
+      }
+    ],
+    "source": "Blisterwood tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Mort Myre Swamp",
         "tiles": "3558,3453,0;3471,3346,0;3486,3442,0;3496,3444,0;3531,3438,0;3534,3428,0;3519,3439,0"
       },
@@ -3333,6 +4013,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Trouble Brewing",
+        "tiles": "3806,3000,0"
+      }
+    ],
+    "source": "Blue flowers (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Buccaneers' Haven",
         "tiles": "2022,3637,0"
       },
@@ -3377,12 +4067,182 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "Fremennik Strait",
+        "tiles": "2343,3719,0"
+      }
+    ],
+    "source": "Boat fishing spot (Piscatoris Fishing Colony)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fremennik Strait",
+        "tiles": "2343,3719,0"
+      }
+    ],
+    "source": "Boat fishing spot (Piscatoris Fishing Colony)#Harpoon"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fremennik Strait",
+        "tiles": "2343,3719,0"
+      }
+    ],
+    "source": "Boat fishing spot (Piscatoris Fishing Colony)#Small net"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Gulf of Kourend",
+        "tiles": "1885,3762,0"
+      }
+    ],
+    "source": "Boat fishing spot (anglerfish)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Rimmington Strait",
+        "tiles": "2885,3194,0"
+      }
+    ],
+    "source": "Boat fishing spot (big net, harpoon)#Big net"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Rimmington Strait",
+        "tiles": "2885,3194,0"
+      }
+    ],
+    "source": "Boat fishing spot (big net, harpoon)#Harpoon"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mudskipper Sound",
+        "tiles": "2892,3134,0"
+      }
+    ],
+    "source": "Boat fishing spot (karambwan)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Bay of Sarim",
+        "tiles": "3097,3192,0"
+      }
+    ],
+    "source": "Boat fishing spot (small net, bait)#Bait"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Bay of Sarim",
+        "tiles": "3097,3192,0"
+      }
+    ],
+    "source": "Boat fishing spot (small net, bait)#Small net"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "Ruins of Camdozaal",
         "tiles": "3015,5808,0;3017,5810,0;3021,5812,0;3022,5808,0;3025,5802,0;3025,5805,0"
       }
     ],
     "source": "Body Golem"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Enakhra's Temple",
+        "tiles": "3104,9307,2;3105,9297,1"
+      }
+    ],
+    "source": "Boneguard"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wyrmscraig Cavern",
+        "tiles": "2590,8580,0"
+      }
+    ],
+    "source": "Bones (Wyrmscraig Cavern)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3172,2848,0"
+      }
+    ],
+    "source": "Book table"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Burthorpe",
+        "tiles": "2917,3559,0"
+      }
+    ],
+    "source": "Bookcase (A Tail of Two Cats)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Varrock Palace",
+        "tiles": "3212,3493,0"
+      }
+    ],
+    "source": "Bookcase (Shield of Arrav)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Varrock Palace",
+        "tiles": "3207,3496,0"
+      }
+    ],
+    "source": "Bookcase (The Lost Tribe)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Twilight Temple Basement",
+        "tiles": "1686,9712,0;1704,9714,0;1704,9713,0;1710,9713,0;1712,9715,0;1725,9707,0;1725,9706,0;1718,9708,0;1718,9705,0;1708,9710,0;1709,9710,0;1714,9710,0;1715,9710,0;1708,9703,0;1709,9703,0;1714,9703,0;1715,9703,0"
+      }
+    ],
+    "source": "Bookcase (Twilight Temple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tourist Information Centre",
+        "tiles": "2520,3426,1"
+      }
+    ],
+    "source": "Bookcase (Waterfall Quest)"
   },
   {
     "locations": [
@@ -3423,11 +4283,91 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "",
+        "tiles": "1934,3742,0"
+      }
+    ],
+    "source": "Bottle of headless unicornman's heady beer"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "1821,2439,0"
+      }
+    ],
+    "source": "Bottle of puzzlers poteen"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "1675,2478,0"
+      }
+    ],
+    "source": "Bottle of spinning comp-kvass"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "2453,3597,0"
+      }
+    ],
+    "source": "Bottle of tangled toad's legs cider"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shaman Caves",
+        "tiles": "2809,9327,0;2809,9323,0;2809,9319,0"
+      }
+    ],
+    "source": "Boulder (Shaman Caves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Volcanic Mine",
+        "tiles": "3791,10127,1;3807,10127,1;3823,10127,1;3791,10136,1;3807,10136,1;3823,10136,1;3791,10149,1;3807,10149,1;3823,10149,1;3791,10172,1;3807,10172,1;3823,10172,1;3807,10200,1;3823,10198,1;3791,10196,1"
+      }
+    ],
+    "source": "Boulder (Volcanic Mine)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Fight Arena",
         "tiles": "2608,3162,0"
       }
     ],
     "source": "Bouncer"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Rellekka",
+        "tiles": "2664,3686,0"
+      }
+    ],
+    "source": "Boxes (Ballad of the Basilisk)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Elemental Workshop",
+        "tiles": "2724,9894,0"
+      }
+    ],
+    "source": "Boxes (Elemental Workshop)"
   },
   {
     "locations": [
@@ -3468,6 +4408,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Witch's house",
+        "tiles": "2899,9871,0;2899,9872,0;2900,9872,0;2905,9872,0;2906,9872,0;2908,9867,0;2908,9873,0;2914,9861,0"
+      }
+    ],
+    "source": "Boxes (witch's house)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Near Trollweiss Mountain",
+        "tiles": "2782,3865,0"
+      }
+    ],
+    "source": "Brambickle"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "God Wars Dungeon (Saradomin boss room)",
         "tiles": "2902,5274,0"
       }
@@ -3488,6 +4448,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Mount Karuulm",
+        "tiles": "1309,3785,0"
+      }
+    ],
+    "source": "Brimstone chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Brine Rat Cavern ({{Fairycode|dks}})",
         "tiles": "2702,10135,0;2704,10131,0;2705,10133,0;2707,10137,0;2708,10131,0;2710,10134,0;2712,10132,0"
       }
@@ -3503,6 +4473,76 @@
       }
     ],
     "source": "Broddi"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jiggig",
+        "tiles": "2443,9459,2"
+      }
+    ],
+    "source": "Broken lectern"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Meiyerditch Laboratories",
+        "tiles": "3629,9695,0"
+      }
+    ],
+    "source": "Broken rune case"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3510,9721,0;3476,9721,0"
+      }
+    ],
+    "source": "Bronze Chest (black)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3507,9721,0;3479,9721,0"
+      }
+    ],
+    "source": "Bronze Chest (brown)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3476,9725,0;3510,9725,0"
+      }
+    ],
+    "source": "Bronze Chest (crimson)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3475,9723,0;3511,9723,0"
+      }
+    ],
+    "source": "Bronze Chest (purple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3479,9725,0;3507,9725,0"
+      }
+    ],
+    "source": "Bronze Chest (red)"
   },
   {
     "locations": [
@@ -3573,6 +4613,16 @@
       }
     ],
     "source": "Bronze pickaxe (Piscatoris Fishing Colony)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Clock Tower, south of Ardougne",
+        "tiles": "2569,3249,0"
+      }
+    ],
+    "source": "Brother Kojo"
   },
   {
     "locations": [
@@ -3683,11 +4733,31 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Chambers of Xeric",
+        "tiles": "3274,5457,0;3281,5454,0;3280,5451,0;3302,5459,0;3308,5449,0;3343,5461,0;3337,5453,0;3345,5445,0;3306,5461,0"
+      }
+    ],
+    "source": "Bubbles"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Misthalin Manor",
         "tiles": "1619,4816,0"
       }
     ],
     "source": "Bucket (Misthalin Mystery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tempoross Cove",
+        "tiles": "3033,2851,0;3048,2859,0;3046,2839,0;3061,2847,0"
+      }
+    ],
+    "source": "Buckets (Tempoross Cove)"
   },
   {
     "locations": [
@@ -3753,6 +4823,66 @@
       }
     ],
     "source": "Bunny"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shaman Caves",
+        "tiles": "2779,9284,0"
+      }
+    ],
+    "source": "Buried skeleton (Shaman Caves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Smoke Dungeon",
+        "tiles": "3248,9364,0"
+      }
+    ],
+    "source": "Burnt chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island Volcano",
+        "tiles": "3872,3834,0;3871,3831,0;3787,3826,0;3798,3821,0;3799,3829,0;3804,3827,0;3804,3822,0;3810,3823,0;3815,3819,0;3820,3815,0;3825,3804,0;3826,3796,0;3831,3791,0;3829,3784,0;3826,3779,0;3824,3788,0;3822,3787,0;3817,3790,0;3816,3782,0;3822,3781,0;3822,3777,0;3764,3812,0;3767,3811,0;3771,3807,0;3768,3805,0;3774,3798,0;3770,3796,0;3722,3791,0;3778,3780,0;3780,3775,0;3785,3775,0;3796,3774,0;3804,3770,0;3802,3763,0;3798,3762,0;3790,3754,0;3789,3746,0;3777,3748,0;3778,3751,0;3780,3752,0;3776,3755,0;3778,3758,0;2334,2763,0;3785,3818,0;3788,3817,0;3722,3805,0;3777,3798,0;3772,3794,0;3777,3791,0;3824,3797,0;3795,3772,0;3799,3764,0;3788,3761,0;3790,3756,0;3788,3753,0;3790,3747,0;3783,3740,0;2338,2771,0;3880,3833,0;3799,3826,0;3812,3819,0;3766,3809,0;3774,3788,0;3772,3784,0;3787,3768,0;3808,3772,0;3809,3767,0;3814,3769,0;3819,3775,0;3817,3784,0"
+      }
+    ],
+    "source": "Burnt tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Varies",
+        "tiles": "2323,3563,0;2322,3570,0;2327,3573,0;2332,3578,0;2332,3568,0;2336,3571,0;2337,3565,0;2343,3568,0;2525,2882,0;2531,2890,0;2533,2885,0;2540,2886,0;2542,2881,0;2553,2888,0;2351,3619,0;2358,3620,0;2362,3615,0;2354,3609,0;2357,3607,0;2349,3604,0;2355,3601,0;2360,3602,0"
+      }
+    ],
+    "source": "Bush (Hunter)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Digsite",
+        "tiles": "3357,3372,0;3332,3375,0;3334,3377,0;3334,3382,0;3336,3373,0;3336,3382,0;3337,3385,0;3339,3371,0;3339,3383,0;3340,3354,0;3343,3354,0;3343,3359,0;3344,3355,0;3345,3378,0;3345,3381,0;3346,3354,0;3347,3352,0;3347,3358,0;3349,3357,0;3349,3375,0;3352,3351,0;3355,3372,0;3364,3367,0;3366,3369,0;3370,3365,0;3329,3420,0;3330,3442,0;3338,3428,0;3338,3430,0;3339,3423,0;3339,3432,0;3340,3431,0;3341,3430,0;3342,3425,0;3342,3432,0;3345,3401,0;3358,3397,0;3366,3398,0;3385,3421,0;3387,3404,0;3387,3433,0;3388,3407,0;3388,3416,0;3389,3408,0;3389,3413,0;3389,3423,0;3389,3438,0;3390,3404,0;3390,3411,0;3390,3431,0;3391,3423,0"
+      }
+    ],
+    "source": "Bush (The Dig Site)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "North of the Watchtower",
+        "tiles": "2544,3134,0;2549,3135,0;2546,3130,0;2559,3123,0;2558,3132,0;2544,3124,0;2544,3128,0;2544,3130,0;2545,3132,0;2546,3123,0;2546,3125,0;2546,3128,0;2546,3135,0;2548,3122,0;2548,3125,0;2548,3130,0;2548,3133,0;2549,3124,0;2550,3131,0;2551,3122,0;2551,3127,0;2551,3134,0;2552,3128,0;2552,3132,0;2553,3119,0;2553,3122,0;2553,3125,0;2553,3127,0;2554,3124,0;2554,3134,0;2555,3122,0;2555,3127,0;2555,3131,0;2556,3120,0;2556,3133,0;2557,3123,0;2557,3134,0;2558,3127,0;2559,3121,0;2559,3125,0;2560,3119,0;2560,3131,0;2561,3124,0;2561,3126,0;2561,3129,0;2562,3122,0;2563,3125,0;2565,3130,0"
+      }
+    ],
+    "source": "Bush (Watchtower)"
   },
   {
     "locations": [
@@ -3913,6 +5043,56 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Catherby",
+        "tiles": "2827,3453,0"
+      }
+    ],
+    "source": "Cabinet (Current Affairs)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "East Ardougne",
+        "tiles": "2590,3337,0"
+      }
+    ],
+    "source": "Cabinet (Song of the Elves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "South-east of Varrock",
+        "tiles": "3264,3366,0;3271,3367,0;3268,3370,0;3277,3374,0"
+      }
+    ],
+    "source": "Cadava bush (wild)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "North of Twilight Temple",
+        "tiles": "1698,3290,0;1696,3285,0;1702,3288,0;1707,3277,0;1717,3278,0;1713,3282,0"
+      }
+    ],
+    "source": "Caerula bush"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Underground Pass",
+        "tiles": "2396,9605,0;2397,9605,0;2398,9605,0"
+      }
+    ],
+    "source": "Cage (Underground Pass, unicorn)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Cam Torum mine",
         "tiles": "1499,9546,1;1514,9546,1;1497,9543,1;1521,9543,1;1497,9540,1;1501,9537,1;1518,9537,1;1498,9546,1;1517,9546,1;1521,9542,1;1505,9537,1;1516,9546,1;1497,9542,1;1521,9541,1;1502,9537,1;1517,9537,1"
       }
@@ -3963,11 +5143,101 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Near Ruins of Ullek",
+        "tiles": "3379,2791,0"
+      }
+    ],
+    "source": "Camping Equipment"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kebos Lowlands",
+        "tiles": "1312,3470,0"
+      }
+    ],
+    "source": "Camping Equipment (The Garden of Death)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Entrana",
+        "tiles": "2853,3353,0"
+      }
+    ],
+    "source": "Candles"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Port Roberts",
         "tiles": "1867,3297,0"
       }
     ],
     "source": "Cannonball stall"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "3265,3422,0;2958,3436,0;3015,3498,0;2591,3378,0;3289,3261,0;3006,3318,0;2630,3237,0;3192,3233,0"
+      }
+    ],
+    "source": "Capt' Arnav's Chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "White Wolf Mountain",
+        "tiles": "2849,3500,0"
+      }
+    ],
+    "source": "Captain Bleemadge"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Emir's Arena",
+        "tiles": "3354,3222,0"
+      }
+    ],
+    "source": "Captain Daerkin"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Al Kharid",
+        "tiles": "3280,3212,0"
+      }
+    ],
+    "source": "Captain Dalbur"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Karamja",
+        "tiles": "2972,2974,0"
+      }
+    ],
+    "source": "Captain Klemfoodle"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "White Wolf Tunnel",
+        "tiles": "2869,9877,0"
+      }
+    ],
+    "source": "Captain Ninto"
   },
   {
     "locations": [
@@ -4028,6 +5298,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Wyrmscraig",
+        "tiles": "2577,2203,0"
+      }
+    ],
+    "source": "Cattle prod supply"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Dorgesh-Kaan South Dungeon",
         "tiles": "2712,5233,0;2713,5237,0;2715,5240,0;2715,5241,0;2716,5227,0;2716,5235,0;2717,5222,0;2745,5220,0;2747,5217,0;2697,5221,0;2711,5231,0;2715,5224,0;2738,5193,0;2738,5206,0;2744,5221,0"
       },
@@ -4078,6 +5358,16 @@
       }
     ],
     "source": "Cave crawler"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Dorgesh-Kaan",
+        "tiles": "2695,5331,0;2719,5331,0;2697,5332,0;2711,5331,0;2717,5294,0;2743,5358,0;2732,5275,0;2712,5342,0;2735,5275,0;2693,5332,0;2729,5329,0;2721,5294,0;2701,5352,0;2707,5286,0;2702,5352,0;2726,5372,1;2723,5336,0;2743,5284,0;2713,5293,0;2694,5333,0;2734,5275,0;2725,5349,0;2698,5264,0"
+      }
+    ],
+    "source": "Cave goblin (Dorgesh-Kaan)"
   },
   {
     "locations": [
@@ -4368,6 +5658,126 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Ancient Vault",
+        "tiles": "3289,6404,0"
+      }
+    ],
+    "source": "Chest (Ancient Vault)#Blood quartz"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ancient Vault",
+        "tiles": "3289,6404,0"
+      }
+    ],
+    "source": "Chest (Ancient Vault)#Ice quartz"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ancient Vault",
+        "tiles": "3289,6404,0"
+      }
+    ],
+    "source": "Chest (Ancient Vault)#Shadow quartz"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ancient Vault",
+        "tiles": "3289,6404,0"
+      }
+    ],
+    "source": "Chest (Ancient Vault)#Smoke quartz"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Anglers' Retreat",
+        "tiles": "2478,2736,0"
+      }
+    ],
+    "source": "Chest (Anglers' Retreat)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ardougne Castle",
+        "tiles": "2588,3291,1;2588,3302,1"
+      }
+    ],
+    "source": "Chest (Ardougne Castle)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Barrows crypt",
+        "tiles": "3552,9695,0"
+      }
+    ],
+    "source": "Chest (Barrows)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kruk's Dungeon",
+        "tiles": "2653,9163,1"
+      }
+    ],
+    "source": "Chest (Bronze key)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Bryophyta's Lair in Varrock Sewers",
+        "tiles": "3229,9934,0"
+      }
+    ],
+    "source": "Chest (Bryophyta's lair)#Free-to-play"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Bryophyta's Lair in Varrock Sewers",
+        "tiles": "3229,9934,0"
+      }
+    ],
+    "source": "Chest (Bryophyta's lair)#Members"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Chaos Druid Tower dungeon",
+        "tiles": "2586,9734,0;2586,9737,0;2584,3337,0"
+      }
+    ],
+    "source": "Chest (Chaos Druid Tower)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Next to the panning Point at the Digsite.",
+        "tiles": "3374,3378,0"
+      }
+    ],
+    "source": "Chest (Chemical powder)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Civitas illa Fortis, ground floor",
         "tiles": "1623,3162,0;1637,3110,0;1665,3082,0;1694,3121,0;1740,3089,0;1775,3072,0"
       },
@@ -4388,6 +5798,26 @@
       }
     ],
     "source": "Chest (Civitas illa Fortis)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Next to the ladder inside the Experiment Cave",
+        "tiles": "3500,9967,0"
+      }
+    ],
+    "source": "Chest (Creature of Fenkenstrain)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Inside the witch's house in the Underground Pass",
+        "tiles": "2157,4564,1"
+      }
+    ],
+    "source": "Chest (Doll of Iban)"
   },
   {
     "locations": [
@@ -4467,6 +5897,36 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Behind the magic door at the Dwarven Mine",
+        "tiles": "3057,9841,0"
+      }
+    ],
+    "source": "Chest (Dwarven Mine)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wyrmscraig Cavern",
+        "tiles": "2567,8660,0"
+      }
+    ],
+    "source": "Chest (Fallen From Grace)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "North-eastern-most house at the Fight Arena",
+        "tiles": "2613,3189,0"
+      }
+    ],
+    "source": "Chest (Fight Arena)"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Etceteria",
         "tiles": "2603,3881,0;2612,3880,0;2616,3898,0"
@@ -4478,6 +5938,146 @@
       }
     ],
     "source": "Chest (Fremennik)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Western section of Glarial's Tomb",
+        "tiles": "2530,9844,0"
+      }
+    ],
+    "source": "Chest (Glarial's amulet)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Carnillean Mansion",
+        "tiles": "2571,3269,2"
+      }
+    ],
+    "source": "Chest (Hazeel Cult)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shrimp and Parrot",
+        "tiles": "2766,3199,0"
+      }
+    ],
+    "source": "Chest (Heroes' Quest)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Isle of Souls Dungeon",
+        "tiles": "2139,9299,0"
+      }
+    ],
+    "source": "Chest (Isle of Souls Dungeon)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jatizso",
+        "tiles": "2407,3800,0"
+      }
+    ],
+    "source": "Chest (Jester costume)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Laguna Aurorae",
+        "tiles": "1146,2795,0"
+      }
+    ],
+    "source": "Chest (Laguna Aurorae)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lassar Undercity",
+        "tiles": "2614,6306,0;2358,6306,0"
+      }
+    ],
+    "source": "Chest (Lassar Undercity)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Scattered inside the maze",
+        "tiles": "2890,4599,0;2901,4560,0;2900,4578,0;2918,4590,0;2899,4579,0;2917,4590,0;2891,4585,0;2925,4573,0;2895,4592,0;2930,4595,0;2924,4572,0;2896,4591,0"
+      }
+    ],
+    "source": "Chest (Maze)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Inside the basement of Melzar's Maze",
+        "tiles": "2935,9657,0"
+      }
+    ],
+    "source": "Chest (Melzar's Maze)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Movario's base",
+        "tiles": "4124,4984,0"
+      }
+    ],
+    "source": "Chest (Movario's base, runes)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Obor's Lair in Edgeville Dungeon",
+        "tiles": "3085,9797,0"
+      }
+    ],
+    "source": "Chest (Obor's lair)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "North-east of the stairs inside the Observatory Dungeon",
+        "tiles": "2359,9376,0"
+      }
+    ],
+    "source": "Chest (Observatory Dungeon, antipoison)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Pandemonium Cave",
+        "tiles": "3048,9377,0"
+      }
+    ],
+    "source": "Chest (Pandemonium Cave)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Upstairs inside the Blue Moon Inn",
+        "tiles": "3219,3396,1;3109,3029,1"
+      }
+    ],
+    "source": "Chest (Pirate's Treasure)"
   },
   {
     "locations": [
@@ -4498,6 +6098,106 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Iorwerth Camp",
+        "tiles": "2200,9681,0"
+      }
+    ],
+    "source": "Chest (Song of the Elves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zemouregal's Base",
+        "tiles": "3609,4565,0"
+      }
+    ],
+    "source": "Chest (The Curse of Arrav)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Fractured Archive",
+        "tiles": "4128,5792,1"
+      }
+    ],
+    "source": "Chest (The Fractured Archive)#Junk"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Fractured Archive",
+        "tiles": "4128,5792,1"
+      }
+    ],
+    "source": "Chest (The Fractured Archive)#Standard"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Fractured Archive",
+        "tiles": "4128,5792,1"
+      }
+    ],
+    "source": "Chest (The Fractured Archive)#Unique"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "At Lumbridge Castle inside the room with the spinning wheel",
+        "tiles": "3209,3217,1"
+      }
+    ],
+    "source": "Chest (The Lost Tribe)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kingstown",
+        "tiles": "1681,3677,1"
+      }
+    ],
+    "source": "Chest (The Queen of Thieves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Gu'Tanoth",
+        "tiles": "2575,3031,0"
+      }
+    ],
+    "source": "Chest (Toban)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Osmumten's burial chamber",
+        "tiles": "3674,5148,0;3674,5145,0;3674,5142,0;3674,5139,0;3687,5148,0;3687,5145,0;3687,5142,0;3687,5139,0"
+      }
+    ],
+    "source": "Chest (Tombs of Amascut)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Handelmort Mansion",
+        "tiles": "3342,5948,1"
+      }
+    ],
+    "source": "Chest (Tribal Totem)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Underwater, 1st floor",
         "tiles": "3783,10254,1;3785,10257,1"
       },
@@ -4508,6 +6208,26 @@
       }
     ],
     "source": "Chest (Underwater)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Alchemical Society",
+        "tiles": "1386,9315,0"
+      }
+    ],
+    "source": "Chest (alchemist's signet)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Tapoyauik",
+        "tiles": "1639,9661,0"
+      }
+    ],
+    "source": "Chest (moon key)"
   },
   {
     "locations": [
@@ -4788,6 +6508,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "",
+        "tiles": "2598,2966,0;2322,3077,0;2372,3077,0;2382,3067,0;2434,3067,0;2434,3029,0;2322,3029,0"
+      }
+    ],
+    "source": "Chompy bird"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Edgeville Dungeon (Wilderness)",
         "tiles": "3087,9937,0"
       }
@@ -4888,6 +6618,16 @@
       }
     ],
     "source": "Citizen (Tal Teklan)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Bazaar in Civitas illa Fortis",
+        "tiles": "1686,3109,0"
+      }
+    ],
+    "source": "Citizen (Twilight's Promise)"
   },
   {
     "locations": [
@@ -5153,6 +6893,66 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Lletya",
+        "tiles": "2356,3176,0"
+      }
+    ],
+    "source": "Closed Chest (Lletya)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mourner Headquarters",
+        "tiles": "2041,4649,0"
+      }
+    ],
+    "source": "Closed Chest (Mourner Headquarters)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Meiyerditch",
+        "tiles": "3600,9617,0"
+      }
+    ],
+    "source": "Closed Chest (vyre noble clothing)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of Light",
+        "tiles": "1917,4665,1"
+      }
+    ],
+    "source": "Closed chest (2 mirrors)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mos Le'Harmless, Morytania",
+        "tiles": "1823,4840,1"
+      }
+    ],
+    "source": "Closed chest (Cabin Fever)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sophanem",
+        "tiles": "3311,9188,0"
+      }
+    ],
+    "source": "Closed chest (Klenter's Pyramid)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Myreque Hideout under Hair of the Dog",
         "tiles": "3515,9837,0"
       },
@@ -5168,6 +6968,66 @@
       }
     ],
     "source": "Closed chest (Myreque Hideout)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of Ikov's ice area.",
+        "tiles": "2710,9850,0;2719,9838,0;2729,9850,0;2747,9848,0;2738,9835,0;2745,9821,0"
+      }
+    ],
+    "source": "Closed chest (Temple of Ikov)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of Light",
+        "tiles": "1858,4613,1"
+      }
+    ],
+    "source": "Closed chest (blue crystal)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of Light",
+        "tiles": "1917,4613,1"
+      }
+    ],
+    "source": "Closed chest (cyan crystal, 2 mirrors)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of Light",
+        "tiles": "1880,4659,0"
+      }
+    ],
+    "source": "Closed chest (fractured crystal, 2 mirrors)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of Light",
+        "tiles": "1910,4622,0"
+      }
+    ],
+    "source": "Closed chest (fractured crystal, 3 mirrors)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Movario's base",
+        "tiles": "4181,4936,1"
+      }
+    ],
+    "source": "Coal pile"
   },
   {
     "locations": [
@@ -6573,6 +8433,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Civitas illa Fortis",
+        "tiles": "1702,3112,0"
+      }
+    ],
+    "source": "Cobado"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Fremennik Slayer Cave ({{Fairycode|AJR}})",
         "tiles": "2785,10035,0;2786,10038,0;2789,10032,0;2791,10036,0;2795,10033,0;2797,10036,0;2799,10031,0"
       }
@@ -6743,6 +8613,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Ectofuntus",
+        "tiles": "3659,3513,1"
+      }
+    ],
+    "source": "Coffin (Necrovarus)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Yanille West gate",
         "tiles": "2535,3091,0"
       }
@@ -6778,6 +8658,36 @@
       }
     ],
     "source": "Confused barbarian"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Villa Lucens",
+        "tiles": "1449,2932,0"
+      }
+    ],
+    "source": "Constantinius"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Death Plateau",
+        "tiles": "2863,3590,0"
+      }
+    ],
+    "source": "Cooking pot (My Arm's Big Adventure)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "",
+        "tiles": "3178,3307,0;3232,3301,0;3016,3296,0;3175,3307,0;3229,3301,0;3173,3307,0;3227,3301,0"
+      }
+    ],
+    "source": "Coop"
   },
   {
     "locations": [
@@ -7133,6 +9043,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Gu'Tanoth",
+        "tiles": "2513,3036,0"
+      }
+    ],
+    "source": "Counter (Gu'Tanoth)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "",
+        "tiles": "3028,3194,0;3061,2985,0"
+      }
+    ],
+    "source": "Courier tasks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ardougne Farm",
         "tiles": "2657,3341,0;2658,3351,0;2660,3344,0;2664,3341,0;2664,3348,0;2664,3352,0;2666,3344,0;2670,3348,0;2671,3342,0;2672,3354,0"
       },
@@ -7268,6 +9198,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Villa Lucens",
+        "tiles": "1448,2934,0"
+      }
+    ],
+    "source": "Cozyac"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Mogre Camp",
         "tiles": "2972,9516,0;2972,9519,0;2975,9518,0;2976,9516,0;2977,9520,0;2977,9522,0;2978,9518,0;2981,9517,0;2983,9519,0;2984,9516,0"
       }
@@ -7303,6 +9243,46 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Meiyerditch",
+        "tiles": "3601,9610,0"
+      }
+    ],
+    "source": "Crate (A Taste of Hope, chains)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Meiyerditch",
+        "tiles": "3597,9615,0"
+      }
+    ],
+    "source": "Crate (A Taste of Hope, sickles)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "God Wars Dungeon",
+        "tiles": "2875,5265,0"
+      }
+    ],
+    "source": "Crate (Armadyl's Eyrie)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3177,7843,1"
+      }
+    ],
+    "source": "Crate (Blisterwood logs)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Cabin Fever",
         "tiles": "1824,4841,0"
       },
@@ -7318,11 +9298,111 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Outside Crash Site Cavern entrance",
+        "tiles": "2030,5609,0"
+      }
+    ],
+    "source": "Crate (Crash Site)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Goblin Cave",
+        "tiles": "2571,9850,0"
+      }
+    ],
+    "source": "Crate (Dwarf Cannon)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Elemental Workshop",
+        "tiles": "2717,9894,0"
+      }
+    ],
+    "source": "Crate (Elemental Workshop I, leather)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Elemental Workshop",
+        "tiles": "2700,9887,0"
+      }
+    ],
+    "source": "Crate (Elemental Workshop I, needle)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Elemental Workshop",
+        "tiles": "2713,9898,0"
+      }
+    ],
+    "source": "Crate (Elemental Workshop)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Elemental Workshop",
+        "tiles": "2709,9880,0"
+      }
+    ],
+    "source": "Crate (Elemental Workshop, thread)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Fairy Resistance Hideout",
         "tiles": "2335,4453,0;2336,4455,0;2337,4460,0;2328,4453,0;2328,4454,0;2328,4455,0;2329,4452,0;2329,4453,0;2329,4454,0;2333,4460,0;2334,4453,0;2334,4454,0;2334,4460,0;2335,4459,0;2335,4460,0;2336,4454,0;2336,4460,0;2341,4455,0;2341,4456,0;2341,4457,0;2342,4455,0;2328,4456,0;2329,4455,0;2330,4454,0;2330,4455,0;2334,4455,0;2334,4459,0;2335,4454,0;2335,4455,0;2336,4459,0;2340,4456,0;2340,4457,0"
       }
     ],
     "source": "Crate (Fairy Resistance Hideout)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Farming Guild",
+        "tiles": "1264,3721,0;1235,3738,0;1228,3722,0;1240,3751,0"
+      }
+    ],
+    "source": "Crate (Farming Guild)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Food Store",
+        "tiles": "3009,3207,0"
+      }
+    ],
+    "source": "Crate (Food Store, banana)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Food Store",
+        "tiles": "3010,3203,0"
+      }
+    ],
+    "source": "Crate (Food Store, cabbage)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Food Store",
+        "tiles": "3011,3203,0"
+      }
+    ],
+    "source": "Crate (Food Store, potato)"
   },
   {
     "locations": [
@@ -7358,11 +9438,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Kruk's Dungeon",
+        "tiles": "2204,5467,0;2209,5468,0;2209,5467,0;2205,5467,0;2210,5467,0"
+      }
+    ],
+    "source": "Crate (Glough's Laboratory)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Goblin Cave",
         "tiles": "2562,9848,0;2562,9850,0;2563,9833,0;2563,9843,0;2563,9844,0;2564,9842,0;2565,9841,0;2566,9845,0;2566,9852,0;2567,9841,0;2567,9846,0;2569,9853,0;2571,9848,0;2562,9835,0;2563,9845,0;2563,9846,0;2564,9844,0;2565,9833,0;2565,9852,0;2567,9851,0;2570,9848,0;2572,9846,0;2579,9853,0;2581,9834,0"
       }
     ],
     "source": "Crate (Goblin Cave)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Goblin Temple",
+        "tiles": "3755,4334,0;3722,4330,0;3728,4323,0;3733,4316,0;3762,4316,0;3747,4309,0;3748,4309,0;3761,4309,0;3728,4298,0"
+      }
+    ],
+    "source": "Crate (Goblin Temple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Goblin Village",
+        "tiles": "2959,3514,0;2951,3508,0;2955,3498,0"
+      }
+    ],
+    "source": "Crate (Goblin Village)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "H.A.M. Hideout",
+        "tiles": "3152,9645,0"
+      }
+    ],
+    "source": "Crate (H.A.M. Hideout)"
   },
   {
     "locations": [
@@ -7403,6 +9523,186 @@
       }
     ],
     "source": "Crate (Observatory Dungeon)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shaman Caves",
+        "tiles": "2797,9321,0"
+      }
+    ],
+    "source": "Crate (Shaman Caves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Underground Military Glider Hangar",
+        "tiles": "2396,9884,0"
+      }
+    ],
+    "source": "Crate (Spare controls)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Pandemonium",
+        "tiles": "3048,2979,0"
+      }
+    ],
+    "source": "Crate (The Pandemonium)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jaltevas Pyramid",
+        "tiles": "3363,9125,0"
+      }
+    ],
+    "source": "Crate (Tombs of Amascut)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Binding fluids"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Coloured balls"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Metal bars"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Metal sheets"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Pipe rings"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Pipes"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Rivets"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Triangle sandwiches"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Life (building)",
+        "tiles": "2647,3223,0;2648,3222,0;2652,3222,0;2654,3220,0;2655,3217,0;2643,3219,0;2644,3216,0;2651,3213,0;2654,3216,0;2650,3212,0;2651,3224,0;2655,3219,0;2646,3214,0;2647,3213,0;2647,3224,0;2648,3224,0;2652,3221,0;2653,3221,0;2655,3220,0;2644,3221,0;2643,3217,0;2644,3215,0;2651,3222,0;2646,3215,0;2647,3214,0;2650,3224,0;2654,3221,0;2648,3214,0;2652,3213,0"
+      }
+    ],
+    "source": "Crate (Tower of Life)#Valve wheels"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tree Gnome Village Dungeon",
+        "tiles": "2548,9565,0"
+      }
+    ],
+    "source": "Crate (Tree Gnome Village Dungeon)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ardougne",
+        "tiles": "2650,3273,0;2638,3320,0;2650,3271,0"
+      }
+    ],
+    "source": "Crate (Tribal Totem)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Underground Pass",
+        "tiles": "2417,9658,0"
+      }
+    ],
+    "source": "Crate (Underground Pass)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Waterfall Dungeon",
+        "tiles": "2589,9888,0"
+      }
+    ],
+    "source": "Crate (Waterfall Dungeon)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wintertodt's prison",
+        "tiles": "1626,3980,0;1634,3980,0;1626,3984,0;1634,3984,0;1626,3982,0;1634,3982,0"
+      }
+    ],
+    "source": "Crate (Wintertodt)"
   },
   {
     "locations": [
@@ -7463,6 +9763,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3751,3804,0"
+      }
+    ],
+    "source": "Crate (cleaning kit)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Marim",
         "tiles": "2769,2770,0"
       },
@@ -7503,6 +9813,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Ape Atoll",
+        "tiles": "2782,9172,0"
+      }
+    ],
+    "source": "Crate (m'amulet mould)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ape Atoll",
+        "tiles": "2767,2769,0"
+      }
+    ],
+    "source": "Crate (monkey dentures)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Marim",
         "tiles": "2769,2771,0"
       },
@@ -7523,6 +9853,16 @@
       }
     ],
     "source": "Crate (old)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "North Meiyerditch Myreque Hideout",
+        "tiles": "3634,9644,0"
+      }
+    ],
+    "source": "Crate (papyrus)"
   },
   {
     "locations": [
@@ -7557,6 +9897,46 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "The Pandemonium (Pub)",
+        "tiles": "3048,2965,0"
+      }
+    ],
+    "source": "Crate of crowbars"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shipyard",
+        "tiles": "2082,2721,0"
+      }
+    ],
+    "source": "Crate of hammers"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Rimmington",
+        "tiles": "2968,3217,0"
+      }
+    ],
+    "source": "Crate of onions (2026 Halloween event)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shipyard",
+        "tiles": "2082,2720,0"
+      }
+    ],
+    "source": "Crate of saws"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "Falador (plane 0)",
         "tiles": "2955,3390,0;2962,3350,0;2980,3350,0;3009,3335,0;3010,3335,0;3026,3332,0;3026,3355,0;3027,3338,0;3028,3339,0;3029,3354,0;3029,3355,0"
@@ -7573,6 +9953,26 @@
       }
     ],
     "source": "Crates (Falador)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Food Store",
+        "tiles": "3009,3209,0"
+      }
+    ],
+    "source": "Crates (Food Store, raw chicken)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3168,2830,0"
+      }
+    ],
+    "source": "Crates (damp egg)"
   },
   {
     "locations": [
@@ -7717,6 +10117,36 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "Taverley",
+        "tiles": "2914,3452,0"
+      }
+    ],
+    "source": "Crystal chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3290,6117,0;3307,6041,0;3210,6110,0;3213,6049,0;3237,6102,0;3308,6117,0;3240,6046,0;3214,6113,0;3290,6049,0;3234,6072,0;3240,6120,0;3234,6129,0"
+      }
+    ],
+    "source": "Crystal impling"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mage Training Arena",
+        "tiles": "3345,9654,0;3347,9628,0;3352,9622,0;3352,9654,0;3370,9621,0;3375,9657,0;3378,9625,0;3381,9653,0"
+      }
+    ],
+    "source": "Cube Pile"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "North of Falador",
         "tiles": "2986,3434,0"
@@ -7738,11 +10168,111 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "East Ardougne",
+        "tiles": "2574,3334,0"
+      }
+    ],
+    "source": "Cupboard (Edmond's house)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Brimhaven",
+        "tiles": "2775,3196,0"
+      }
+    ],
+    "source": "Cupboard (Heroes' Quest)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Legends' Guild",
+        "tiles": "2724,3370,0"
+      }
+    ],
+    "source": "Cupboard (Legends' Quest)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Glough's house",
+        "tiles": "2488,3464,2"
+      }
+    ],
+    "source": "Cupboard (Monkey Madness II)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "1st floor of  Morgan's home in Draynor Village",
+        "tiles": "3096,3269,1"
+      }
+    ],
+    "source": "Cupboard (Morgan's home)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Nardah",
         "tiles": "3420,2927,0;3420,2930,0"
       }
     ],
     "source": "Cupboard (Nardah)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Braindeath Island",
+        "tiles": "2157,5093,0"
+      }
+    ],
+    "source": "Cupboard (Rum Deal)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Exam Centre",
+        "tiles": "3355,3337,0"
+      }
+    ],
+    "source": "Cupboard (rock pick)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Exam Centre",
+        "tiles": "3354,3332,0"
+      }
+    ],
+    "source": "Cupboard (specimen jar)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Witch's house",
+        "tiles": "2898,9873,0"
+      }
+    ],
+    "source": "Cupboard (witch's house)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Varrock Museum",
+        "tiles": "3260,3451,0"
+      }
+    ],
+    "source": "Curator Haig Halen"
   },
   {
     "locations": [
@@ -7803,6 +10333,16 @@
       }
     ],
     "source": "Cyclops#Warriors' Guild Rooftop"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mage Training Arena",
+        "tiles": "3345,9623,0;3345,9657,0;3348,9652,0;3355,9621,0;3376,9624,0;3377,9653,0;3381,9627,0;3381,9657,0"
+      }
+    ],
+    "source": "Cylinder Pile"
   },
   {
     "locations": [
@@ -8038,6 +10578,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Tal Teklan",
+        "tiles": "1247,3088,0;1243,3084,0;1241,3085,0;1250,3110,0;1251,3113,0;1236,3133,0;1234,3135,0"
+      }
+    ],
+    "source": "Damiana"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Crumbling Tower basement",
         "tiles": "1928,9448,0;1929,9449,0;1929,9446,0;1930,9446,0"
       }
@@ -8253,6 +10803,16 @@
     "locations": [
       {
         "isMembers": false,
+        "location": "Stronghold of Security",
+        "tiles": "1860,5240,0"
+      }
+    ],
+    "source": "Dead Explorer"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
         "location": "Outside Callisto's Den",
         "tiles": "3302,3838,0;3319,3838,0;3265,3837,0;3274,3837,0;3325,3837,0;3312,3836,0;3289,3835,0;3267,3832,0"
       },
@@ -8283,6 +10843,16 @@
       }
     ],
     "source": "Dead tree (burnt)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sotfa Forest",
+        "tiles": "2905,7836,0"
+      }
+    ],
+    "source": "Dead venator"
   },
   {
     "locations": [
@@ -8333,6 +10903,26 @@
       }
     ],
     "source": "Deadly red spider"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Varies",
+        "tiles": "3052,3671,0;3273,3160,0;2994,3240,0;3068,3342,0;2848,3431,0;2729,3436,0;2912,3503,0;3294,3471,0;3045,3512,0;2621,3161,0"
+      }
+    ],
+    "source": "Deadman's chest (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Movario's base",
+        "tiles": "4179,4936,1"
+      }
+    ],
+    "source": "Death rune pile"
   },
   {
     "locations": [
@@ -8393,6 +10983,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "North-west of the Ruins of Uzer",
+        "tiles": "3419,3155,0"
+      }
+    ],
+    "source": "Desert Phoenix"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Kharidian Desert",
         "tiles": "3250,3057,0;3251,3059,0;3237,2968,0;3196,3063,0;3198,3061,0;3223,3011,0;3224,3013,0;3225,3011,0;3250,3126,0;3252,3125,0;3150,3044,0;3153,3047,0;3265,3066,0;3267,3066,0;3267,3068,0;3285,3066,0;3287,3065,0;3287,3067,0;3283,3084,0;3258,3078,0;3260,3077,0;3310,3068,0;3310,3070,0;3312,3068,0;3310,3076,0;3323,3094,0;3172,3009,0;3174,3010,0;3197,3012,0;3198,3040,0;3199,3016,0;3199,3036,0;3217,3124,0;3219,3125,0;3283,3108,0;3226,3060,0;3228,3060,0;3233,3075,0;3235,3074,0;3264,3008,0;3266,3008,0;3266,3010,0;3320,3054,0;3322,3011,0;3322,3032,0;3322,3052,0;3323,3055,0;3324,3013,0;3324,3030,0;3325,3010,0;3325,3033,0;3215,3092,0;3217,3092,0;3223,3035,0;3225,3034,0"
       },
@@ -8418,6 +11018,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Mourner Headquarters",
+        "tiles": "2043,4629,0"
+      }
+    ],
+    "source": "Desk (Mourner Headquarters)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shaman Caves",
+        "tiles": "2794,9327,0"
+      }
+    ],
+    "source": "Desk (Shaman Caves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Catacombs of Kourend",
         "tiles": "1646,9988,0;1651,9989,0;1656,9987,0;1657,9990,0;1602,10009,0;1604,10013,0;1606,10009,0;1606,10015,0;1609,10011,0;1619,10007,0;1619,10010,0;1621,10004,0"
       }
@@ -8438,6 +11058,26 @@
       }
     ],
     "source": "Dig Site specimen rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Digsite and near Varrock Museum",
+        "tiles": "3365,3429,0;3366,3425,0;3373,3418,0;3362,3416,0;3362,3408,0;3354,3408,0;3350,3401,0;3370,3387,0;3356,3385,0"
+      }
+    ],
+    "source": "Digsite workman"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Alchemical Society lab",
+        "tiles": "1389,9322,0;1389,9331,0;1399,9322,0;1399,9331,0"
+      }
+    ],
+    "source": "Digweed (plant)"
   },
   {
     "locations": [
@@ -8503,6 +11143,26 @@
       }
     ],
     "source": "Disciple of Iban"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Library Historical Archive",
+        "tiles": "1559,10219,0"
+      }
+    ],
+    "source": "Display Case (A Kingdom Divided)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "West of the Ruins of Uzer",
+        "tiles": "3407,3121,0;3405,3124,0;3393,3122,0;3400,3114,0;3414,3121,0;3411,3108,0"
+      }
+    ],
+    "source": "Disturbed sand"
   },
   {
     "locations": [
@@ -8583,11 +11243,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "",
+        "tiles": "3549,3555,2;3784,9225,0"
+      }
+    ],
+    "source": "Dr Fenkenstrain"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Karuulm Slayer Dungeon",
         "tiles": "1195,10189,0;1197,10196,0;1204,10199,0;1196,10202,0;1189,10203,0;1190,10195,0;1149,10200,0;1156,10213,0;1157,10206,0;1167,10201,0;1155,10192,0;1158,10199,0;1165,10194,0"
       }
     ],
     "source": "Drake"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Entrana Dungeon",
+        "tiles": "2860,9734,0"
+      }
+    ],
+    "source": "Dramen tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Brimstail's cave",
+        "tiles": "2411,9819,0;2411,9817,0;2411,9818,0"
+      }
+    ],
+    "source": "Drawers (Brimstail's cave)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Yanille",
+        "tiles": "2593,3103,1"
+      }
+    ],
+    "source": "Drawers (Zogre Flesh Eaters)"
   },
   {
     "locations": [
@@ -8637,6 +11337,16 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "3168,4832,0"
+      }
+    ],
+    "source": "Drill Demon"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Druids' Circle",
         "tiles": "2921,3485,0;2923,3478,0;2927,3481,0;2927,3489,0;2930,3484,0"
@@ -8668,6 +11378,16 @@
       }
     ],
     "source": "Drunken man"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ape Atoll",
+        "tiles": "2729,2765,0"
+      }
+    ],
+    "source": "Duke (monkey)"
   },
   {
     "locations": [
@@ -9068,6 +11788,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Tombs of Amascut",
+        "tiles": "3794,5154,1"
+      }
+    ],
+    "source": "Elidinis' Warden"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Black Knight Catacombs",
         "tiles": "4124,4692,1;4112,4706,1;4148,4706,1;4140,4688,1;4127,4706,1;4104,4726,1;4113,4749,1;4133,4720,1"
       },
@@ -9133,6 +11863,16 @@
       }
     ],
     "source": "Elite Dark Warrior"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Voices, upper level",
+        "tiles": "3273,6082,2"
+      }
+    ],
+    "source": "Elven Crystal Chest"
   },
   {
     "locations": [
@@ -9277,6 +12017,16 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "1867,5131,0;3279,3500,1;3097,3266,1;2954,3388,3;3221,3474,3;3229,3223,1;3097,9567,0;3287,3190,2;2964,3213,1;2519,3426,1;2700,3403,2;2536,3076,1;2434,3346,2;2787,3515,0;2616,3292,1;2898,3423,1;2708,3472,1;2663,3111,0;2651,3163,1;2772,3235,0;2613,3208,1;2207,4934,1;2968,3335,1;2935,3515,0;3212,3423,0;3076,3412,0;2993,3145,0;3025,3251,1;2974,3382,1;3214,3215,1;3112,3157,1;3246,3451,0;3283,3218,0;3045,3491,0;3083,3469,0"
+      }
+    ],
+    "source": "Evil twin"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Experiment cave",
         "tiles": "3473,9943,0;3474,9933,0;3481,9943,0;3487,9935,0;3488,9945,0;3493,9925,0;3498,9937,0"
@@ -9313,6 +12063,26 @@
       }
     ],
     "source": "Experiment#Level 51"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zanaris throne room next to Slayer master Chaeldar",
+        "tiles": "2447,4428,0"
+      }
+    ],
+    "source": "Fairy Godfather"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Enakhra's Temple",
+        "tiles": "3129,9325,0"
+      }
+    ],
+    "source": "Fallen statue"
   },
   {
     "locations": [
@@ -9667,12 +12437,42 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "Glough's house in the Tree Gnome Stronghold",
+        "tiles": "2487,3467,3"
+      }
+    ],
+    "source": "Fire remains (Monkey Madness II)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Movario's base",
+        "tiles": "4177,4936,1"
+      }
+    ],
+    "source": "Fire rune pile"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "South of Falador",
         "tiles": "2991,3271,0"
       }
     ],
     "source": "Fire wizard"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Meiyerditch",
+        "tiles": "3627,3253,0"
+      }
+    ],
+    "source": "Fireplace (Darkness of Hallowvale)"
   },
   {
     "locations": [
@@ -9743,11 +12543,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Port Khazard",
+        "tiles": "2669,3161,0"
+      }
+    ],
+    "source": "Fishing Trawler"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Braindeath Island",
         "tiles": "2113,5074,0;2162,5061,0;2173,5074,0"
       }
     ],
     "source": "Fishing spot (Braindeath Island)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Ruins of Camdozaal",
+        "tiles": "2926,5784,0;2928,5779,0;2928,5777,0;2928,5776,0;2922,5814,0;2921,5807,0;2927,5813,0"
+      }
+    ],
+    "source": "Fishing spot (Camdozaal)#Big net"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Ruins of Camdozaal",
+        "tiles": "2926,5784,0;2928,5779,0;2928,5777,0;2928,5776,0;2922,5814,0;2921,5807,0;2927,5813,0"
+      }
+    ],
+    "source": "Fishing spot (Camdozaal)#Small net"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Park in Civitas illa Fortis",
+        "tiles": "1738,3101,0"
+      }
+    ],
+    "source": "Fishing spot (Civitas illa Fortis)"
   },
   {
     "locations": [
@@ -9778,6 +12618,46 @@
       }
     ],
     "source": "Fishing spot (Piscatoris Fishing Colony)#Small net"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Evil Bob's Island (ScapeRune)",
+        "tiles": "2527,4777,0"
+      }
+    ],
+    "source": "Fishing spot (ScapeRune)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Piscatoris Fishing Colony",
+        "tiles": "2311,3696,0"
+      }
+    ],
+    "source": "Fishing spot (Swan Song)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tempoross Cove",
+        "tiles": "3048,2874,0;3051,2867,0;3037,2868,0;3036,2835,0;3048,2829,0;3046,2826,0"
+      }
+    ],
+    "source": "Fishing spot (Tempoross Cove)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Stranglewood",
+        "tiles": "1093,3368,0"
+      }
+    ],
+    "source": "Fishing spot (The Stranglewood)"
   },
   {
     "locations": [
@@ -10777,6 +13657,16 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "North-east of the Lumbridge Swamp training mine",
+        "tiles": "3244,3157,0"
+      }
+    ],
+    "source": "Fishing tutor"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Shade Catacombs",
         "tiles": "3460,9695,0;3460,9719,0;3463,9697,0;3463,9704,0;3463,9709,0;3463,9713,0;3463,9721,0;3464,9701,0;3465,9706,0;3465,9714,0"
@@ -10793,6 +13683,16 @@
       }
     ],
     "source": "Flawed Golem"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Miscellania",
+        "tiles": "2526,3854,0"
+      }
+    ],
+    "source": "Flax (Miscellania)"
   },
   {
     "locations": [
@@ -10943,11 +13843,31 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Dognose Island",
+        "tiles": "3048,2632,0;3057,2633,0;3053,2632,0;3051,2632,0"
+      }
+    ],
+    "source": "Floatsam"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "God Wars Dungeon (Armadyl boss room)",
         "tiles": "2828,5299,0"
       }
     ],
     "source": "Flockleader Geerin"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ape Atoll",
+        "tiles": "2768,2789,0"
+      }
+    ],
+    "source": "Food Stall"
   },
   {
     "locations": [
@@ -11003,6 +13923,36 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Centre of Aldarin",
+        "tiles": "1388,2927,0"
+      }
+    ],
+    "source": "Fountain (Aldarin)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Draynor Manor",
+        "tiles": "3087,3334,0"
+      }
+    ],
+    "source": "Fountain (Draynor Manor)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Witch's house",
+        "tiles": "2909,3470,0"
+      }
+    ],
+    "source": "Fountain (witch's house)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "South-east of Rellekka",
         "tiles": "2725,3602,0;2738,3597,0"
       },
@@ -11023,6 +13973,16 @@
       }
     ],
     "source": "Fox"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Freaky Forest",
+        "tiles": "2599,4775,0"
+      }
+    ],
+    "source": "Freaky Forester"
   },
   {
     "locations": [
@@ -11213,6 +14173,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Pothole Dungeon",
+        "tiles": "2862,9521,0;2829,9493,0;2850,9476,0;2851,9499,0;2842,9481,0;2869,9492,0;2869,9517,0;2871,9493,0;2861,9492,0;2854,9496,0;2831,9500,0;2870,9492,0;2856,9483,0;2830,9491,0;2848,9509,0;2848,9491,0;2858,9494,0;2863,9522,0;2848,9478,0;2860,9504,0"
+      }
+    ],
+    "source": "Fungus covered Cavern wall"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ardougne Market",
         "tiles": "2663,3296,0"
       },
@@ -11238,6 +14208,16 @@
       }
     ],
     "source": "Fur stall (Port Roberts)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Karamja Shipyard",
+        "tiles": "2955,3024,0"
+      }
+    ],
+    "source": "G.L.O. Caranock"
   },
   {
     "locations": [
@@ -11278,6 +14258,16 @@
       }
     ],
     "source": "Gargoyle"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "2805,2762,0;2698,9169,1;2434,3519,0;2479,3463,1"
+      }
+    ],
+    "source": "Garkor"
   },
   {
     "locations": [
@@ -11363,6 +14353,26 @@
       }
     ],
     "source": "General Graardor"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Marim",
+        "tiles": "2753,2775,0"
+      }
+    ],
+    "source": "General Stall"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Random event",
+        "tiles": "2856,3492,0;3218,9618,0;3104,3163,2"
+      }
+    ],
+    "source": "Genie"
   },
   {
     "locations": [
@@ -11778,6 +14788,16 @@
       }
     ],
     "source": "Giant crypt rat"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Eagles' Peak Dungeon",
+        "tiles": "2010,4974,3;2007,4973,3;2005,4972,3;2003,4969,3;2024,4964,3;2021,4960,3;2025,4959,3;2008,4952,3;2006,4948,3"
+      }
+    ],
+    "source": "Giant feathers"
   },
   {
     "locations": [
@@ -12268,6 +15288,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Abandoned Mine",
+        "tiles": "2791,4496,0;2778,4495,0;2779,4495,0;2780,4495,0;2781,4495,0;2782,4494,0;2793,4494,0;2777,4493,0;2780,4489,0;2778,4486,0;2780,4494,0;2792,4494,0;2782,4493,0;2793,4493,0;2781,4492,0;2780,4488,0;2781,4488,0;2779,4487,0"
+      }
+    ],
+    "source": "Glowing fungus (Abandoned Mine)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Tree Gnome Village",
         "tiles": "2521,3169,0;2521,3171,0;2522,3172,0;2526,3168,0;2529,3163,0;2530,3172,0;2536,3169,0"
       },
@@ -12453,6 +15483,16 @@
       }
     ],
     "source": "Gnome woman"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Feldip Hills",
+        "tiles": "2544,2971,0"
+      }
+    ],
+    "source": "Gnormadium Avlafrim"
   },
   {
     "locations": [
@@ -12803,6 +15843,56 @@
       }
     ],
     "source": "Goblin#Drop table 2"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3503,9674,0;3504,9673,0"
+      }
+    ],
+    "source": "Gold Chest (black)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3509,9681,0;3511,9679,0;3511,9675,0;3509,9673,0"
+      }
+    ],
+    "source": "Gold Chest (brown)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3505,9681,0;3503,9679,0;3503,9675,0;3505,9673,0"
+      }
+    ],
+    "source": "Gold Chest (crimson)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3511,9674,0;3510,9673,0"
+      }
+    ],
+    "source": "Gold Chest (purple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3503,9680,0;3504,9681,0;3510,9681,0;3511,9680,0"
+      }
+    ],
+    "source": "Gold Chest (red)"
   },
   {
     "locations": [
@@ -13453,6 +16543,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Wyrmscraig",
+        "tiles": "2596,2257,0;2595,2253,0"
+      }
+    ],
+    "source": "Golem (sunstone)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Island east of Gu'Tanoth",
         "tiles": "2577,3021,0"
       }
@@ -13503,11 +16603,121 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Dorgesh-Kaan",
+        "tiles": "2718,5313,0;2716,5310,0;2715,5313,0;2720,5309,0"
+      }
+    ],
+    "source": "Gourmet"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Puro Puro",
         "tiles": "2602,4346,0;2580,4343,0;2615,4342,0;2568,4327,0;2618,4321,0;2609,4317,0;2574,4311,0;2615,4298,0;2568,4296,0;2585,4296,0;2597,4293,0"
       }
     ],
     "source": "Gourmet impling"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Goutweed store in the Troll Stronghold",
+        "tiles": "2856,10074,0;2857,10074,0"
+      }
+    ],
+    "source": "Goutweed Crate"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 1"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 2"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 3"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 4"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 5"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 6"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 7"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1926,4434,0;1927,4468,0;1936,4452,0;1951,4427,0;1953,4468,0;1955,4450,0;1972,4431,0;1975,4458,0"
+      }
+    ],
+    "source": "Grand Gold Chest#Room 8"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Hallowed Sepulchre",
+        "tiles": "2272,5853,0"
+      }
+    ],
+    "source": "Grand Hallowed Coffin"
   },
   {
     "locations": [
@@ -13533,11 +16743,31 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Vinery",
+        "tiles": "1808,3556,0"
+      }
+    ],
+    "source": "Grape vine"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Near the Grave of Scorpius",
         "tiles": "2465,3229,0;2467,3228,0;2470,3230,0;2471,3222,0;2472,3224,0"
       }
     ],
     "source": "Grave scorpion"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "1928,5000,0"
+      }
+    ],
+    "source": "Gravedigger"
   },
   {
     "locations": [
@@ -14093,6 +17323,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "The Scar",
+        "tiles": "2049,6443,0"
+      }
+    ],
+    "source": "Growth (The Scar)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Forthos Dungeon",
+        "tiles": "1795,9925,0"
+      }
+    ],
+    "source": "Grubby Chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Neypotzli (Earthbound Cavern)",
         "tiles": "1379,9714,0;1392,9714,0;1383,9712,0;1397,9710,0;1384,9706,0;1388,9705,0;1376,9688,0;1377,9687,0;1383,9686,0;1399,9683,0;1377,9675,0;1376,9673,0"
       },
@@ -14268,6 +17518,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "West Ardougne",
+        "tiles": "1925,4642,0"
+      }
+    ],
+    "source": "Guard (Nissyen Edern)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Port Roberts",
         "tiles": "1911,3310,0;1893,3300,0;1893,3273,0;1878,3294,0"
       }
@@ -14388,6 +17648,16 @@
       }
     ],
     "source": "Guard (Shayzien)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mourner Tunnels",
+        "tiles": "1910,4635,1;1924,4639,0;1925,4633,0"
+      }
+    ],
+    "source": "Guard (Temple of Light)"
   },
   {
     "locations": [
@@ -14517,6 +17787,46 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "Temple of the Eye",
+        "tiles": "2445,5736,0;2446,5717,0;2446,5730,0;2448,5735,0;2452,5741,0;2453,5712,0;2471,5742,0;2473,5714,0;2475,5740,0;2477,5716,0;2477,5742,0;2478,5722,0;2479,5724,0;2479,5736,0;2480,5719,0;2480,5738,0;2444,5735,0;2447,5733,0;2448,5720,0;2449,5739,0;2451,5742,0;2452,5713,0;2474,5713,0;2475,5742,0;2477,5720,0;2478,5717,0;2478,5738,0;2480,5725,0;2480,5734,0;2481,5731,0"
+      }
+    ],
+    "source": "Guardian parts"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of the Eye",
+        "tiles": "2445,5733,0;2446,5722,0;2446,5737,0;2449,5714,0;2473,5741,0;2475,5713,0;2477,5739,0;2480,5721,0;2480,5732,0;2445,5719,0;2449,5741,0;2481,5716,0;2481,5737,0"
+      }
+    ],
+    "source": "Guardian remains"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Hunter Guild",
+        "tiles": "1556,3032,1"
+      }
+    ],
+    "source": "Guildmaster's chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Adventurous",
+        "tiles": "1816,4833,1"
+      }
+    ],
+    "source": "Gun Locker"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "Barbarian Village",
         "tiles": "3081,3444,0"
@@ -14533,6 +17843,16 @@
       }
     ],
     "source": "H.A.M. Guard"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "H.A.M. Hideout",
+        "tiles": "3144,9619,0;3150,9621,0;3152,9627,0;3157,9612,0;3158,9611,0;3160,9618,0;3161,9614,0;3162,9636,0;3164,9630,0;3166,9632,0;3167,9634,0;3169,9632,0;3169,9634,0;3172,9646,0;3173,9655,0;3182,9630,0;3149,9624,0;3161,9632,0;3164,9634,0;3166,9630,0;3166,9636,0;3172,9651,0;3174,9643,0;3175,9646,0;3177,9630,0;3181,9633,0;3186,3211,0;3148,3216,0;3139,3260,0;3164,3238,0;3139,3228,0"
+      }
+    ],
+    "source": "H.A.M. Member"
   },
   {
     "locations": [
@@ -14653,6 +17973,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Tempoross Cove",
+        "tiles": "3033,2846,0;3061,2852,0"
+      }
+    ],
+    "source": "Hammers (Tempoross Cove)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "North-east of Tai Bwo Wannai ({{Fairycode|dkp}})",
         "tiles": "2854,3106,0;2859,3106,0;2863,3109,0;2863,3115,0;2867,3105,0;2870,3112,0;2872,3117,0;2873,3108,0;2875,3123,0;2878,3114,0;2880,3112,0;2882,3115,0;2886,3116,0;2889,3113,0"
       },
@@ -14663,6 +17993,16 @@
       }
     ],
     "source": "Harpie Bug Swarm"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tempoross Cove",
+        "tiles": "3034,2845,0;3060,2853,0"
+      }
+    ],
+    "source": "Harpoons (Tempoross Cove)"
   },
   {
     "locations": [
@@ -14908,6 +18248,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "",
+        "tiles": "2678,3086,1"
+      }
+    ],
+    "source": "Hazelmere"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Shayzien Prison",
         "tiles": "1439,9962,0"
       },
@@ -14983,6 +18333,66 @@
       }
     ],
     "source": "Headless Beast"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Evil Dave's Basement of Doom",
+        "tiles": "3075,9880,0;3075,9881,0;3076,9880,0;3076,9881,0;3076,9886,0;3076,9887,0;3077,9883,0;3077,9885,0;3078,9881,0;3078,9886,0;3078,9894,0;3079,9882,0;3079,9888,0;3079,9890,0;3079,9895,0;3080,9880,0;3080,9888,0;3080,9893,0"
+      }
+    ],
+    "source": "Hell-Rat"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Basement of Doom",
+        "tiles": "3078,9901,0;3069,9895,0;3070,9881,0;3081,9875,0"
+      }
+    ],
+    "source": "Hell-Rat Behemoth"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Basement of Doom",
+        "tiles": "3078,9901,0;3069,9895,0;3070,9881,0;3081,9875,0"
+      }
+    ],
+    "source": "Hell-Rat Behemoth#north west"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Basement of Doom",
+        "tiles": "3078,9901,0;3069,9895,0;3070,9881,0;3081,9875,0"
+      }
+    ],
+    "source": "Hell-Rat Behemoth#northern"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Basement of Doom",
+        "tiles": "3078,9901,0;3069,9895,0;3070,9881,0;3081,9875,0"
+      }
+    ],
+    "source": "Hell-Rat Behemoth#south west"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Basement of Doom",
+        "tiles": "3078,9901,0;3069,9895,0;3070,9881,0;3081,9875,0"
+      }
+    ],
+    "source": "Hell-Rat Behemoth#southern"
   },
   {
     "locations": [
@@ -15223,6 +18633,26 @@
       }
     ],
     "source": "Herbiboar"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Miscellania",
+        "tiles": "2527,3849,0"
+      }
+    ],
+    "source": "Herbs (Miscellania)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "White Knights' Castle",
+        "tiles": "2962,3338,3"
+      }
+    ],
+    "source": "Herbs (enriched snapdragon)"
   },
   {
     "locations": [
@@ -15728,6 +19158,36 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Guardians of the Rift",
+        "tiles": "2437,5721,0;2437,5732,0"
+      }
+    ],
+    "source": "Huge guardian remains"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Feldip Hunter area",
+        "tiles": "2525,2916,0"
+      }
+    ],
+    "source": "Hunting expert"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Rellekka Hunter area",
+        "tiles": "2710,3829,0"
+      }
+    ],
+    "source": "Hunting expert (Rellekka Hunter area)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Karuulm Slayer Dungeon",
         "tiles": "1302,10240,0;1304,10260,0;1304,10267,0;1305,10247,0;1309,10266,0;1310,10261,0;1311,10246,0;1311,10271,0;1316,10240,0;1317,10245,0;1324,10267,0;1326,10261,0;1329,10267,0;1303,10235,0;1307,10231,0;1310,10235,0;1315,10235,0"
       }
@@ -16173,6 +19633,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Mage Training Arena",
+        "tiles": "3345,9628,0;3346,9651,0;3350,9621,0;3350,9657,0;3371,9657,0;3374,9621,0;3381,9623,0;3381,9650,0"
+      }
+    ],
+    "source": "Icosahedron Pile"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "South of Stonecutter Outpost",
         "tiles": "1728,2938,0;1729,2941,0;1742,2937,0;1772,2943,0;1765,2949,0;1758,2936,0"
       },
@@ -16348,6 +19818,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Lithkren Vault",
+        "tiles": "1556,5064,0;1570,5067,0"
+      }
+    ],
+    "source": "Incubator"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Mokhaiotl",
+        "tiles": "1278,9536,1;1278,9471,1;1345,9471,1;1345,9536,1;1289,9515,1;1295,9516,1;1300,9509,1;1321,9509,1;1325,9516,1;1332,9508,1"
+      }
+    ],
+    "source": "Infected root"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Slayer Tower (1st floor)",
         "tiles": "3433,3556,1;3434,3563,1;3434,3570,1;3434,3575,1;3435,3559,1;3438,3555,1;3439,3569,1;3439,3575,1;3440,3564,1;3442,3556,1;3443,3560,1;3443,3572,1;3446,3569,1;3446,3575,1;3448,3573,1"
       }
@@ -16373,6 +19863,16 @@
       }
     ],
     "source": "Infernal shale rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Rellekka",
+        "tiles": "2676,3676,0"
+      }
+    ],
+    "source": "Inga"
   },
   {
     "locations": [
@@ -17778,6 +21278,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Library Historical Archive",
+        "tiles": "1552,10224,0"
+      }
+    ],
+    "source": "Istoria"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "South of the Ancient Pyramid",
         "tiles": "3238,2845,0;3240,2845,0;3241,2843,0;3241,2847,0;3212,2863,0;3213,2866,0;3215,2863,0;3216,2865,0;3216,2868,0;3218,2831,0;3220,2830,0;3220,2833,0;3221,2831,0"
       },
@@ -18024,6 +21534,16 @@
       {
         "isMembers": true,
         "location": "Kharazi Jungle",
+        "tiles": "2759,2940,0;2759,2941,0;2759,2942,0;2760,2937,0;2760,2938,0;2761,2936,0;2761,2939,0;2761,2940,0;2762,2935,0;2762,2937,0;2762,2941,0;2762,2942,0;2764,2937,0;2764,2939,0;2764,2940,0;2764,2942,0;2765,2936,0;2765,2938,0;2765,2940,0;2790,2942,0;2792,2938,0;2792,2939,0;2792,2941,0;2794,2942,0;2795,2940,0;2795,2941,0;2796,2940,0;2797,2939,0;2797,2942,0;2798,2940,0;2798,2941,0;2799,2939,0;2799,2942,0;2801,2935,0;2816,2937,0;2816,2938,0;2817,2939,0;2818,2937,0;2820,2937,0;2821,2939,0;2822,2937,0;2825,2940,0;2860,2937,0;2860,2939,0;2863,2940,0;2864,2935,0;2864,2939,0;2866,2935,0;2866,2937,0;2867,2940,0;2868,2938,0;2868,2939,0;2870,2935,0;2871,2940,0;2872,2935,0;2931,2937,0;2932,2939,0;2932,2941,0;2934,2939,0;2934,2941,0;2934,2942,0;2936,2941,0;2937,2938,0;2938,2939,0;2939,2940,0;2940,2938,0;2940,2940,0;2940,2942,0;2759,2935,0;2760,2936,0;2760,2940,0;2760,2942,0;2761,2941,0;2762,2936,0;2763,2937,0;2763,2942,0;2764,2936,0;2765,2939,0;2791,2938,0;2791,2940,0;2791,2941,0;2793,2938,0;2793,2940,0;2793,2941,0;2794,2940,0;2794,2941,0;2795,2939,0;2795,2942,0;2796,2941,0;2797,2941,0;2798,2939,0;2799,2938,0;2799,2940,0;2799,2941,0;2800,2940,0;2800,2941,0;2801,2941,0;2816,2939,0;2817,2937,0;2818,2936,0;2818,2938,0;2819,2937,0;2819,2939,0;2820,2938,0;2821,2937,0;2822,2935,0;2822,2938,0;2860,2935,0;2862,2935,0;2862,2936,0;2862,2939,0;2863,2937,0;2864,2940,0;2865,2935,0;2866,2939,0;2867,2935,0;2867,2937,0;2868,2940,0;2869,2935,0;2870,2936,0;2870,2937,0;2870,2938,0;2871,2935,0;2871,2937,0;2932,2942,0;2933,2938,0;2933,2939,0;2933,2940,0;2935,2941,0;2936,2939,0;2938,2942,0;2940,2941,0"
+      }
+    ],
+    "source": "Jungle Bush"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kharazi Jungle",
         "tiles": "2918,2927,0;2775,2913,0;2941,2887,0;2801,2899,0;2813,2917,0;2824,2896,0;2827,2924,0;2893,2893,0;2911,2894,0;2915,2906,0;2919,2907,0;2887,2929,0;2789,2932,0;2842,2899,0;2861,2907,0;2862,2899,0"
       }
     ],
@@ -18108,6 +21628,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Sophanem Dungeon (Deceased)",
+        "tiles": "2284,4315,0"
+      }
+    ],
+    "source": "Kaleef"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Kalphite Lair",
         "tiles": "3223,9499,0;3217,9493,0;3208,9430,0;3207,9417,0"
       },
@@ -18158,6 +21688,26 @@
       }
     ],
     "source": "Kalphite Worker"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mogre Camp",
+        "tiles": "2949,9480,0;2950,9481,0;2951,9479,0;2951,9480,0;2952,9480,0;2955,9491,0;2956,9492,0;2964,9491,0;2965,9490,0;2966,9489,0;2966,9490,0;2968,9503,0;2974,9499,0;2978,9502,0;2981,9498,0;2982,9499,0;2985,9482,0;2986,9480,0;2986,9483,0;2987,9482,0;2987,9485,0;2988,9485,0;2989,9482,0;2989,9486,0;2991,9489,0;2991,9494,0;2991,9501,0;2992,9478,0;2992,9502,0;2992,9503,0;2992,9504,0;2993,9480,0;2993,9491,0;2993,9493,0;2993,9501,0;2993,9503,0;2993,9504,0;2993,9505,0;2994,9492,0;2994,9493,0;2994,9504,0;2994,9505,0;2995,9490,0;2995,9493,0;2995,9503,0;2995,9505,0;2996,9504,0;2997,9480,0;2997,9494,0;2997,9502,0;2997,9504,0;2999,9480,0"
+      }
+    ],
+    "source": "Kelp (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3551,5409,0"
+      }
+    ],
+    "source": "Kephri"
   },
   {
     "locations": [
@@ -18258,6 +21808,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Tree Gnome Village",
+        "tiles": "2542,3170,0"
+      }
+    ],
+    "source": "King Bolren"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Catacombs of Kourend",
         "tiles": "1701,9995,0;1705,9997,0;1706,10001,0;1707,9993,0;1709,9998,0;1711,9995,0;1720,9991,0;1721,9995,0;1721,9999,0;1723,9992,0;1724,9998,0"
       },
@@ -18308,6 +21868,36 @@
       }
     ],
     "source": "King worm (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "2464,4780,0"
+      }
+    ],
+    "source": "Kiss the frog"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Troll Stronghold",
+        "tiles": "2852,10049,1;2854,10049,1"
+      }
+    ],
+    "source": "Kitchen Drawers"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Grand Tree",
+        "tiles": "2449,3512,1"
+      }
+    ],
+    "source": "Kitchen cabinet"
   },
   {
     "locations": [
@@ -18438,11 +22028,31 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Alchemical Society",
+        "tiles": "1393,9309,0"
+      }
+    ],
+    "source": "Lab books"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Rellekka",
         "tiles": "2676,3665,0"
       }
     ],
     "source": "Lanzig"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of the Eye",
+        "tiles": "2487,5721,0;2487,5732,0"
+      }
+    ],
+    "source": "Large guardian remains"
   },
   {
     "locations": [
@@ -18473,6 +22083,36 @@
       }
     ],
     "source": "Large shipwreck"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ship west of Pirates' Hideout",
+        "tiles": "3018,3955,1"
+      }
+    ],
+    "source": "Larran's big chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "North-east of the Chaos Temple",
+        "tiles": "3281,3659,0"
+      }
+    ],
+    "source": "Larran's small chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Taverley",
+        "tiles": "2912,3418,0"
+      }
+    ],
+    "source": "Laundry Basket"
   },
   {
     "locations": [
@@ -18528,6 +22168,16 @@
       }
     ],
     "source": "Lead rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kharazi Jungle",
+        "tiles": "2779,2926,0;2794,2923,0;2777,2906,0;2788,2908,0;2810,2932,0;2814,2922,0;2817,2917,0;2827,2918,0;2831,2916,0;2845,2915,0;2864,2918,0;2887,2924,0;2892,2900,0;2908,2923,0;2921,2917,0;2929,2903,0;2935,2894,0;2935,2921,0"
+      }
+    ],
+    "source": "Leafy Palm Tree"
   },
   {
     "locations": [
@@ -18933,11 +22583,31 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Khazard Battlefield",
+        "tiles": "2520,3212,0"
+      }
+    ],
+    "source": "Lieutenant Schepbur"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Canifis",
         "tiles": "3479,3498,1"
       }
     ],
     "source": "Liliya"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "An island in the River Elid south of Pollnivneach and west of Nardah",
+        "tiles": "3353,2927,0"
+      }
+    ],
+    "source": "Lily"
   },
   {
     "locations": [
@@ -19163,6 +22833,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Trouble Brewing",
+        "tiles": "3809,2997,0;3810,2946,0"
+      }
+    ],
+    "source": "Log Store"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Avium Savannah",
         "tiles": "1683,2975,0"
       },
@@ -19243,6 +22923,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Temple of Ah Za Rhoon, east of Shilo Village",
+        "tiles": "2885,9317,0"
+      }
+    ],
+    "source": "Loose rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ancient Cavern",
         "tiles": "1761,5322,0"
       }
@@ -19258,6 +22948,56 @@
       }
     ],
     "source": "Lovakite rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Neypotzli",
+        "tiles": "1513,9580,0"
+      }
+    ],
+    "source": "Lunar Chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mage Arena bank",
+        "tiles": "3109,10357,0"
+      }
+    ],
+    "source": "Lundail#Easy Wilderness diary"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mage Arena bank",
+        "tiles": "3109,10357,0"
+      }
+    ],
+    "source": "Lundail#Elite Wilderness diary"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mage Arena bank",
+        "tiles": "3109,10357,0"
+      }
+    ],
+    "source": "Lundail#Hard Wilderness diary"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mage Arena bank",
+        "tiles": "3109,10357,0"
+      }
+    ],
+    "source": "Lundail#Medium Wilderness diary"
   },
   {
     "locations": [
@@ -19293,11 +23033,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Lithkren Vault",
+        "tiles": "1592,5064,0;1540,5064,0;1573,5094,0"
+      }
+    ],
+    "source": "Machinery (old notes)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ardeaglais",
         "tiles": "2532,2215,0"
       }
     ],
     "source": "Mad Angel"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "2658,7792,0;2575,7818,0;2653,7818,0;2678,7851,0"
+      }
+    ],
+    "source": "Maggot King"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "2658,7792,0;2575,7818,0;2653,7818,0;2678,7851,0"
+      }
+    ],
+    "source": "Maggot King#Take-eggs"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ape Atoll",
+        "tiles": "2757,2769,0"
+      }
+    ],
+    "source": "Magic Stall"
   },
   {
     "locations": [
@@ -19318,6 +23098,36 @@
       }
     ],
     "source": "Magic axe"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Magic birdhouse"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3218,3238,0"
+      }
+    ],
+    "source": "Magic combat tutor"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Movario's base",
+        "tiles": "4183,4936,1"
+      }
+    ],
+    "source": "Magic logs pile"
   },
   {
     "locations": [
@@ -19438,6 +23248,16 @@
       }
     ],
     "source": "Magical rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Mahogany birdhouse"
   },
   {
     "locations": [
@@ -19817,6 +23637,16 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Maple birdhouse"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "Corsair Cove Resource Area",
         "tiles": "2477,2895,0;2479,2899,0;2481,2895,0;2483,2898,0"
@@ -19948,6 +23778,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Karamja",
+        "tiles": "2757,3041,0;2758,3016,0;2759,3039,0;2759,3043,0;2760,3014,0;2760,3019,0;2761,3017,0;2761,3022,0;2762,3025,0;2763,3023,0;2763,3044,0;2764,3026,0;2764,3035,0;2765,3043,0;2767,3017,0;2768,3026,0;2768,3028,0;2773,3033,0;2775,3031,0;2776,3033,0"
+      }
+    ],
+    "source": "Marshy jungle vine"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Draynor Village",
+        "tiles": "3078,3258,0"
+      }
+    ],
+    "source": "Martin the Master Gardener"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Farming Guild",
         "tiles": "1236,3727,0;1247,3750,0;1264,3725,0"
       },
@@ -19997,6 +23847,16 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Varrock",
+        "tiles": "3188,3424,0"
+      }
+    ],
+    "source": "Master smithing tutor"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Stalker Den (single-combat)",
         "tiles": "1333,9753,0"
@@ -20033,6 +23893,16 @@
       }
     ],
     "source": "Me"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3218,3238,0"
+      }
+    ],
+    "source": "Melee combat tutor"
   },
   {
     "locations": [
@@ -20113,6 +23983,16 @@
       }
     ],
     "source": "Milla"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "2010,4757,0"
+      }
+    ],
+    "source": "Mime (Random Event)"
   },
   {
     "locations": [
@@ -21158,6 +25038,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Ardougne Zoo",
+        "tiles": "2599,3278,0;2599,3274,0;2601,3282,0;2601,3277,0;2602,3279,0;2604,3276,0;2605,3280,0;2605,3279,0;2606,3279,0"
+      }
+    ],
+    "source": "Monkey (Monkey Madness I)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Mos Le'Harmless",
         "tiles": "3748,3048,0;3754,3033,0;3758,3021,0;3832,3056,0;3789,3027,0;3774,3039,0;3743,3014,0;3720,3029,0;3716,3005,0;3712,3043,0;3693,3036,0;3702,3038,0;3750,2975,0;3667,3009,0;3668,3018,0;3724,2953,0;3738,2953,0;3834,3021,0"
       },
@@ -21258,6 +25148,36 @@
       }
     ],
     "source": "Monkey Zombie"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Theatre of Blood",
+        "tiles": "3233,4330,0;3226,4327,0;3226,4323,0;3240,4327,0;3240,4323,0"
+      }
+    ],
+    "source": "Monumental chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Theatre of Blood",
+        "tiles": "3233,4330,0;3226,4327,0;3226,4323,0;3240,4327,0;3240,4323,0"
+      }
+    ],
+    "source": "Monumental chest#Hard Mode"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Theatre of Blood",
+        "tiles": "3233,4330,0;3226,4327,0;3226,4323,0;3240,4327,0;3240,4323,0"
+      }
+    ],
+    "source": "Monumental chest#Normal Mode"
   },
   {
     "locations": [
@@ -21643,6 +25563,46 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Dorgesh-Kaan South Dungeon",
+        "tiles": "2706,5240,3"
+      }
+    ],
+    "source": "Movario"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "North of Icyene Graveyard",
+        "tiles": "3699,3201,0"
+      }
+    ],
+    "source": "Mud mound"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lava Maze",
+        "tiles": "3089,3859,0"
+      }
+    ],
+    "source": "Muddy chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3699,3875,0;3708,3876,0;3698,3847,0;3681,3859,0;3672,3890,0;3680,3836,0;3667,3862,0;3706,3811,0;3713,3840,0"
+      }
+    ],
+    "source": "Muddy patch"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Mogre Camp",
         "tiles": "2948,9522,0;2949,9525,0;2949,9528,0;2951,9522,0;2952,9525,0;2952,9528,0;2953,9523,0;2954,9530,0"
       }
@@ -21733,6 +25693,46 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Port Khazard",
+        "tiles": "2668,3163,0"
+      }
+    ],
+    "source": "Murphy"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3670,3889,0;3668,3865,0"
+      }
+    ],
+    "source": "Mushroom (herbiboar, red)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Witch's house",
+        "tiles": "2900,9875,0"
+      }
+    ],
+    "source": "Music stand"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Forthos Dungeon",
+        "tiles": "1804,9934,0;1805,9935,0;1804,9943,0;1805,9942,0;1796,9935,0;1797,9934,0;1796,9942,0;1797,9943,0"
+      }
+    ],
+    "source": "Musty bookshelf"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Buccaneers' Laboratory",
         "tiles": "2089,10093,0;2091,10101,0;2092,10096,0;2096,10094,0;2096,10100,0;2097,10089,0;2097,10104,0;2101,10099,0"
       },
@@ -21803,6 +25803,16 @@
       }
     ],
     "source": "Myre Blamish Snail#Round"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Anywhere",
+        "tiles": "3049,3356,1;2856,3492,0;3218,9618,0;3104,3163,2"
+      }
+    ],
+    "source": "Mysterious Old Man"
   },
   {
     "locations": [
@@ -21888,6 +25898,26 @@
       }
     ],
     "source": "Necromancer (Great Kourend)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Evil Chicken's Lair",
+        "tiles": "2453,4402,0"
+      }
+    ],
+    "source": "Nest (Evil Chicken's Lair)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Piscatoris Fishing Colony",
+        "tiles": "2354,3702,0;2356,3700,0"
+      }
+    ],
+    "source": "Net#Seaweed"
   },
   {
     "locations": [
@@ -22003,6 +26033,56 @@
       }
     ],
     "source": "Nikolai"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Oak birdhouse"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Obor's Lair (Edgeville Dungeon)",
+        "tiles": "3091,9799,0"
+      }
+    ],
+    "source": "Obor#Free-to-play"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Obor's Lair (Edgeville Dungeon)",
+        "tiles": "3091,9799,0"
+      }
+    ],
+    "source": "Obor#Members"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Observatory",
+        "tiles": "2443,3189,0"
+      }
+    ],
+    "source": "Observatory assistant"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Observatory reception",
+        "tiles": "2441,3187,0"
+      }
+    ],
+    "source": "Observatory professor"
   },
   {
     "locations": [
@@ -22153,6 +26233,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Jiggig",
+        "tiles": "2438,9458,2"
+      }
+    ],
+    "source": "Ogre Coffin (Zogre Flesh Eaters)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Eastern Feldip Hills",
         "tiles": "2615,2987,0"
       },
@@ -22213,6 +26303,16 @@
       }
     ],
     "source": "Old Bookshelf (Wise Old Man)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ah Za Rhoon",
+        "tiles": "2939,9285,0"
+      }
+    ],
+    "source": "Old sacks"
   },
   {
     "locations": [
@@ -22543,11 +26643,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Remote Island",
+        "tiles": "2964,2604,0;2965,2607,0;2961,2608,0;2957,2609,0;2966,2614,0;2964,2613,0;2960,2614,0;2959,2611,0;2957,2613,0;2956,2615,0;2952,2614,0"
+      }
+    ],
+    "source": "Palm (Troubled Tortugans)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Karamja",
+        "tiles": "2870,3115,0;2877,3120,0"
+      }
+    ],
+    "source": "Palm tree (Ardrigal)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Pirates' Cove",
         "tiles": "2211,3815,0"
       }
     ],
     "source": "Palmer"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Digsite",
+        "tiles": "3380,3378,0"
+      }
+    ],
+    "source": "Panning point"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Villa Lucens",
+        "tiles": "1444,2930,0"
+      }
+    ],
+    "source": "Pavo"
   },
   {
     "locations": [
@@ -22633,6 +26773,66 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Mage Training Arena",
+        "tiles": "3347,9620,0;3348,9625,0;3348,9655,0;3354,9658,0;3378,9658,0;3379,9621,0;3379,9655,0;3381,9630,0"
+      }
+    ],
+    "source": "Pentamid Pile"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Karamja",
+        "tiles": "2934,2978,0"
+      }
+    ],
+    "source": "Penwie"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ghorrock Prison",
+        "tiles": "3034,6434,0"
+      }
+    ],
+    "source": "Pestle and mortar (Duke Sucellus)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3139,3630,0"
+      }
+    ],
+    "source": "Pete Kayer"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3138,3633,0"
+      }
+    ],
+    "source": "Pete's crate"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Barbarian Assault",
+        "tiles": "1874,5417,0;1903,5415,0;1870,5413,0;1869,5410,0;1905,5408,0;1869,5405,0;1902,5404,0;1899,5401,0;1873,5397,0;1900,5397,0;1896,5396,0;1876,5395,0;1879,5393,0;1892,5393,0"
+      }
+    ],
+    "source": "Petrified mushroom"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ghorrock Dungeon",
         "tiles": "2909,10317,0"
       }
@@ -22658,6 +26858,26 @@
       }
     ],
     "source": "Phrin Shade"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Witch's house",
+        "tiles": "2907,9870,0"
+      }
+    ],
+    "source": "Piano (Witch's House)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ghorrock Prison",
+        "tiles": "3044,6434,0"
+      }
+    ],
+    "source": "Pickaxe (Duke Sucellus)"
   },
   {
     "locations": [
@@ -22753,6 +26973,16 @@
       }
     ],
     "source": "Pile of Rock"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "N/A",
+        "tiles": "1973,5046,0"
+      }
+    ],
+    "source": "Pinball"
   },
   {
     "locations": [
@@ -23028,11 +27258,41 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Rellekka",
+        "tiles": "2668,3653,0"
+      }
+    ],
+    "source": "Pontak"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Aldarin - surrounding woods",
         "tiles": "1416,2993,0;1349,2976,0;1367,2980,0;1400,2985,0;1353,2901,0;1327,2950,0;1328,2954,0;1332,2977,0;1338,2951,0;1340,2903,0"
       }
     ],
     "source": "Porcupine"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Prifddinas Agility Course",
+        "tiles": "3257,6111,2;3270,6116,2;3282,6138,2;3267,6147,2;3272,6157,2;3273,6171,2"
+      }
+    ],
+    "source": "Portal (Prifddinas Agility Course)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Meiyerditch",
+        "tiles": "3627,3248,0"
+      }
+    ],
+    "source": "Portrait (Darkness of Hallowvale)"
   },
   {
     "locations": [
@@ -23213,11 +27473,101 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Witch's house",
+        "tiles": "2900,3474,0"
+      }
+    ],
+    "source": "Potted plant (witch's house)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Adventurous",
+        "tiles": "1817,4832,1"
+      }
+    ],
+    "source": "Powder Barrel"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Cabin Fever",
+        "tiles": "1822,4831,1"
+      }
+    ],
+    "source": "Powder Barrel (enemy ship)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Piscatoris Hunter area ({{Fairycode|akq}})",
         "tiles": "2321,3644,0;2321,3643,0;2308,3642,0;2310,3642,0;2342,3641,0;2343,3641,0;2327,3635,0;2328,3635,0;2336,3632,0;2336,3631,0;2323,3628,0;2324,3628,0;2307,3621,0;2307,3620,0;2323,3614,0;2324,3614,0;2307,3606,0;2307,3605,0;2319,3595,0;2320,3595,0"
       }
     ],
     "source": "Prickly kebbit"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Goblin Cave",
+        "tiles": "3762,4321,0;3732,4302,0;3755,4339,0;3763,4310,0;3726,4317,0;3727,4331,0"
+      }
+    ],
+    "source": "Priest (Goblin)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "ScapeRune",
+        "tiles": "2093,4466,0"
+      }
+    ],
+    "source": "Prison Pete#Free-to-play"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "ScapeRune",
+        "tiles": "2093,4466,0"
+      }
+    ],
+    "source": "Prison Pete#Members"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wizards' Guild",
+        "tiles": "2591,3088,0"
+      }
+    ],
+    "source": "Professor Imblewyn"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Consortium",
+        "tiles": "2868,10198,0"
+      }
+    ],
+    "source": "Professor Manglethorp"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Wizards' Tower",
+        "tiles": "3109,3161,0"
+      }
+    ],
+    "source": "Professor Onglewip"
   },
   {
     "locations": [
@@ -23318,6 +27668,16 @@
       }
     ],
     "source": "Pyrelord"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Random",
+        "tiles": "1952,4768,0"
+      }
+    ],
+    "source": "Quiz Master"
   },
   {
     "locations": [
@@ -23528,6 +27888,16 @@
       }
     ],
     "source": "Ranalph Devere"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3218,3238,0"
+      }
+    ],
+    "source": "Ranged combat tutor"
   },
   {
     "locations": [
@@ -24563,6 +28933,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Trouble Brewing",
+        "tiles": "3807,2951,0"
+      }
+    ],
+    "source": "Red flowers (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ourania Hunter area",
         "tiles": "2464,3251,0;2468,3242,0;2472,3239,0;2474,3237,0;2476,3236,0;2449,3226,0;2448,3225,0;2449,3224,0;2453,3221,0"
       },
@@ -24588,6 +28968,16 @@
       }
     ],
     "source": "Redberry bush (wild)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Redwood birdhouse"
   },
   {
     "locations": [
@@ -24648,6 +29038,16 @@
       }
     ],
     "source": "Renegade knight"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "The Adventurous",
+        "tiles": "1816,4833,1"
+      }
+    ],
+    "source": "Repair Locker"
   },
   {
     "locations": [
@@ -24983,6 +29383,146 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Wintertodt Camp",
+        "tiles": "1636,3942,0"
+      }
+    ],
+    "source": "Reward Cart"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lobby of The Gauntlet",
+        "tiles": "3027,6123,1"
+      }
+    ],
+    "source": "Reward Chest (The Gauntlet)#Corrupted"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lobby of The Gauntlet",
+        "tiles": "3027,6123,1"
+      }
+    ],
+    "source": "Reward Chest (The Gauntlet)#Failure"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lobby of The Gauntlet",
+        "tiles": "3027,6123,1"
+      }
+    ],
+    "source": "Reward Chest (The Gauntlet)#Partial completion"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lobby of The Gauntlet",
+        "tiles": "3027,6123,1"
+      }
+    ],
+    "source": "Reward Chest (The Gauntlet)#Regular"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool#Levels 35\u201339"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool#Levels 40\u201345"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool#Levels 46\u201349"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool#Levels 50\u201375"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool#Levels 76\u201378"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool#Levels 79\u201380"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ruins of Unkah",
+        "tiles": "3150,2832,0"
+      }
+    ],
+    "source": "Reward pool#Levels 81+"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Temple of the Eye",
+        "tiles": "3610,9479,0"
+      }
+    ],
+    "source": "Rewards Guardian"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Shade Catacombs",
         "tiles": "3470,9716,0;3472,9705,0;3472,9713,0;3475,9702,0;3476,9696,0;3478,9706,0;3478,9716,0;3480,9713,0;3483,9708,0;3486,9698,0;3486,9716,0;3487,9706,0;3488,9713,0;3489,9701,0;3495,9708,0;3497,9697,0;3498,9716,0;3499,9702,0;3500,9707,0;3500,9713,0;3506,9716,0;3507,9699,0;3508,9707,0;3508,9713,0;3513,9697,0;3514,9705,0;3514,9716,0;3516,9713,0"
       }
@@ -25018,6 +29558,16 @@
       }
     ],
     "source": "Rock (pickaxe)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Karamja Jungle mine",
+        "tiles": "2851,3036,0;2850,3035,0;2851,3033,0"
+      }
+    ],
+    "source": "Rock (volencia moss)"
   },
   {
     "locations": [
@@ -25078,6 +29628,26 @@
       }
     ],
     "source": "Rock lobster"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kebos Lowlands mine",
+        "tiles": "1221,3653,0"
+      }
+    ],
+    "source": "Rocks (Getting Ahead)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wyrmscraig",
+        "tiles": "2601,2249,0"
+      }
+    ],
+    "source": "Rocks (Scrawled notebook)"
   },
   {
     "locations": [
@@ -25688,6 +30258,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "The Burrow",
+        "tiles": "1575,9450,0;1564,9441,0;1571,9439,0;1568,9423,0;1553,9422,0;1567,9420,0;1551,9419,0;1554,9416,0"
+      }
+    ],
+    "source": "Roots (Hunter Guild)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Last Man Standing - Deserted Island",
         "tiles": "3466,5770,0;3470,5774,0"
       },
@@ -25698,6 +30278,16 @@
       }
     ],
     "source": "Rope (spawn)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tempoross Cove",
+        "tiles": "3033,2847,0;3061,2851,0"
+      }
+    ],
+    "source": "Ropes (Tempoross Cove)"
   },
   {
     "locations": [
@@ -25773,6 +30363,36 @@
       }
     ],
     "source": "Rowdy slave"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Enakhra's Temple",
+        "tiles": "3108,9295,1"
+      }
+    ],
+    "source": "Rubble (Enakhra's Lament)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Myreque Hideout (Burgh De Rott)",
+        "tiles": "3494,9625,0;3498,9624,0;3499,9625,0;3494,9628,0;3498,9626,0;3494,9627,0;3497,9622,0;3496,9623,0;3495,9625,0;3497,9627,0;3496,9625,0;3494,9626,0;3499,9627,0;3495,9626,0;3495,9622,0;3497,9626,0;3496,9624,0;3497,9625,0;3499,9628,0;3499,9626,0;3497,9623,0;3498,9623,0;3496,9622,0;3495,9623,0;3495,9624,0;3499,9623,0;3498,9628,0;3497,9624,0;3494,9624,0;3498,9627,0;3498,9625,0"
+      }
+    ],
+    "source": "Rubble (In Aid of the Myreque)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Burgh de Rott",
+        "tiles": "3489,3227,0"
+      }
+    ],
+    "source": "Rubble Pile"
   },
   {
     "locations": [
@@ -26348,6 +30968,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Tombs of Amascut lobby",
+        "tiles": "3353,9117,0"
+      }
+    ],
+    "source": "Sack (Tombs of Amascut)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Shayzia Ruin",
         "tiles": "1583,3594,0;1587,3593,0;1587,3598,0;1587,3601,0;1589,3592,0"
       },
@@ -26418,11 +31048,51 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Sinclair Mansion",
+        "tiles": "2731,3582,0;2732,3582,0"
+      }
+    ],
+    "source": "Sacks (Murder Mystery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Yanille Agility Dungeon",
         "tiles": "2613,9523,0"
       }
     ],
     "source": "Salarin the twisted"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Duke Sucellus room",
+        "tiles": "3033,6448,0;3043,6448,0"
+      }
+    ],
+    "source": "Salt Deposit"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Hosidius",
+        "tiles": "1708,3545,0;1716,3518,0;1687,3512,0;1686,3529,0;1702,3508,0"
+      }
+    ],
+    "source": "Saltpetre (deposit)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Salvager Overlook",
+        "tiles": "1646,3286,0;1629,3299,0;1619,3298,0;1623,3294,0;1620,3300,0;1615,3293,0;1633,3291,0"
+      }
+    ],
+    "source": "Salvager"
   },
   {
     "locations": [
@@ -26508,6 +31178,26 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "North-eastern Piscarilius",
+        "tiles": "1848,3811,0;1846,3811,0;1847,3809,0;1842,3809,0;1839,3807,0;1845,3807,0;1840,3805,0;1842,3805,0;1845,3805,0;1839,3803,0;1844,3802,0;1841,3801,0;1839,3800,0;1842,3798,0;1842,3795,0"
+      }
+    ],
+    "source": "Sandworm castings"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Brimhaven",
+        "tiles": "2790,3176,0"
+      }
+    ],
+    "source": "Sandy"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Rellekka Hunter area {{fairycode|DKS}}",
         "tiles": "2703,3822,0;2708,3822,0;2715,3808,0;2720,3805,0;2720,3834,0;2734,3823,0;2741,3783,0;2740,3778,0;2730,3778,0;2721,3778,0;2700,3782,0;2704,3797,0"
       },
@@ -26578,6 +31268,106 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Klenter's Pyramid",
+        "tiles": "3284,9199,0;3286,9199,0;3288,9198,0;3288,9196,0;3288,9194,0;3288,9192,0;3286,9191,0;3284,9191,0;3282,9191,0;3280,9191,0;3278,9191,0;3276,9191,0;3275,9192,0;3275,9194,0;3275,9196,0;3275,9198,0;3309,9199,0;3311,9199,0;3312,9197,0;3312,9195,0;3312,9193,0;3311,9191,0;3309,9191,0;3307,9191,0;3305,9191,0;3303,9191,0;3301,9191,0;3299,9192,0;3299,9194,0;3299,9196,0;3299,9198,0;3301,9199,0;3303,9199,0"
+      }
+    ],
+    "source": "Sarcophagus (Klenter's Pyramid)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 1"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 2"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 3"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 4"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 5"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 6"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 7"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1927,4464,0;1949,4468,0;1971,4455,0;1933,4456,0;1954,4446,0;1928,4431,0;1948,4431,0;1976,4432,0"
+      }
+    ],
+    "source": "Sarcophagus (Pyramid Plunder)#Room 8"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Rellekka",
+        "tiles": "2628,3654,0"
+      }
+    ],
+    "source": "Sassilik"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Scabaras Dungeon",
         "tiles": "3408,9273,0;3409,9223,0;3412,9235,0;3412,9259,0;3414,9248,0;3423,9271,0;3424,9226,0;3433,9239,0;3435,9257,0;3436,9274,0;3437,9223,0"
       },
@@ -26593,6 +31383,36 @@
       }
     ],
     "source": "Scarab Mage"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Elemental Workshop",
+        "tiles": "1952,5148,2"
+      }
+    ],
+    "source": "Schematic crate"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ape Atoll",
+        "tiles": "2759,2775,0"
+      }
+    ],
+    "source": "Scimitar Stall"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tai Bwo Wannai",
+        "tiles": "2784,3067,0;2790,3049,0;2789,3047,0;2791,3047,0"
+      }
+    ],
+    "source": "Scorched earth"
   },
   {
     "locations": [
@@ -26723,6 +31543,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Trouble Brewing",
+        "tiles": "3784,2956,0;3787,2991,0;3788,3001,0;3789,2972,0;3795,2946,0;3814,2975,0;3834,2999,0;3835,2953,0"
+      }
+    ],
+    "source": "Scrapey tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Varrock Palace - Defender of Varrock instance",
         "tiles": "3920,4968,0"
       },
@@ -26848,6 +31678,26 @@
       }
     ],
     "source": "Seagull (Icyene Graveyard)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3728,3893,0;3715,3851,0;3713,3850,0;3710,3877,0"
+      }
+    ],
+    "source": "Seaweed (herbiboar)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Southern tent in the Kharidian Desert's Bandit Camp",
+        "tiles": "3169,2967,0"
+      }
+    ],
+    "source": "Secure chest"
   },
   {
     "locations": [
@@ -27002,6 +31852,26 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "Forthos Dungeon",
+        "tiles": "1797,9951,0"
+      }
+    ],
+    "source": "Shaeded Beast"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Shantay Pass",
+        "tiles": "3304,3124,0"
+      }
+    ],
+    "source": "Shantay"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "Shantay Pass",
         "tiles": "3299,3124,0;3303,3118,0;3305,3129,0;3307,3123,0"
@@ -27073,6 +31943,56 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Zanaris",
+        "tiles": "2415,4451,0;2416,4435,0;2423,4432,0;2410,4456,0;2415,4429,0"
+      }
+    ],
+    "source": "Sheep (Zanaris)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3176,2477,0"
+      }
+    ],
+    "source": "Shellbane gryphon"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Farming Guild",
+        "tiles": "1251,3733,0;1246,3733,0;1246,3736,0"
+      }
+    ],
+    "source": "Shelves (Farming Guild)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Gordon and Mary's house",
+        "tiles": "1240,3688,0"
+      }
+    ],
+    "source": "Shelves (Getting Ahead)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Misthalin Manor",
+        "tiles": "1639,4831,0"
+      }
+    ],
+    "source": "Shelves (Misthalin Mystery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Sorceress's house, ground floor",
         "tiles": "3319,3137,0;3324,3137,0"
       },
@@ -27083,6 +32003,26 @@
       }
     ],
     "source": "Shelves (Sorceress's house)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Groats' farm",
+        "tiles": "3227,3287,0"
+      }
+    ],
+    "source": "Shelves (The Ides of Milk)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Uzer Mastaba",
+        "tiles": "3725,4722,0"
+      }
+    ],
+    "source": "Shelves (Uzer Mastaba)"
   },
   {
     "locations": [
@@ -27098,6 +32038,56 @@
       }
     ],
     "source": "Shipyard worker"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Global",
+        "tiles": "3290,3353,0;3018,3444,0;3030,3348,0;2906,3355,0;2882,3474,0;2940,3280,0;2974,3241,0;2822,3238,0;2835,3296,0;2736,3221,0;2742,3143,0;2845,3037,0;2827,2999,0;2571,2964,0;2630,2993,0;2567,2858,0;2483,2886,0;2468,2842,0;2200,2792,0;3774,3814,0;3818,3801,0;3686,2969,0;2683,3699,0;2727,3683,0;2528,3887,0;2393,3814,0;2375,3832,0;2139,3938,0;1778,3493,0;1597,3648,0;1769,3709,0;1760,3853,0;1437,3840,0;1534,3747,0;2804,3434,0;2602,3086,0;2624,3141,0;2705,3333,0;2589,3478,0;2608,3233,0;1210,3651,0;1279,3817,0;1322,3816,0;1258,3564,0;3296,3298,0;3276,3164,0;3424,3160,0;3171,2910,0;3316,2867,0;3434,2889,0;3351,3281,0;3230,3155,0;3153,3150,0;3094,3235,0;3258,3408,0;3175,3362,0;3505,3485,0;3500,3219,0;3451,3233,0;3650,3214,0;3635,3340,0;2341,3635,0;2444,3490,0;2448,3436,0;2269,3158,0;2318,3269,0;2329,3163,0;3274,6055,0;2253,3299,0;2173,3409,0;1771,3102,0;1742,2954,0;1486,3089,0;1422,2873,0;1625,3275,0;1287,3413,0;3108,3569,0;3018,3593,0;3093,3756,0;3057,3887,0;3188,3932,0;3091,3962,0;3049,3940,0"
+      }
+    ],
+    "source": "Shooting Stars"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mor Ul Rek",
+        "tiles": "2524,5075,0"
+      }
+    ],
+    "source": "Shop Counter (gems)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mor Ul Rek",
+        "tiles": "2522,5075,0"
+      }
+    ],
+    "source": "Shop Counter (ore)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Woodcutting Guild",
+        "tiles": "1612,3513,0"
+      }
+    ],
+    "source": "Shrine"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lumbridge Castle",
+        "tiles": "3208,3226,1;3213,3226,1;3214,3225,1;3214,3218,1;3208,3218,1;3166,9631,0"
+      }
+    ],
+    "source": "Sigmund"
   },
   {
     "locations": [
@@ -27133,6 +32123,56 @@
       }
     ],
     "source": "Silk stall (Port Roberts)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3458,9710,0;3462,9722,0;3462,9719,0;3458,9706,0"
+      }
+    ],
+    "source": "Silver Chest (black)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3462,9697,0;3461,9697,0"
+      }
+    ],
+    "source": "Silver Chest (brown)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3460,9710,0;3460,9706,0"
+      }
+    ],
+    "source": "Silver Chest (crimson)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3461,9722,0;3461,9719,0"
+      }
+    ],
+    "source": "Silver Chest (purple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3461,9694,0;3462,9694,0"
+      }
+    ],
+    "source": "Silver Chest (red)"
   },
   {
     "locations": [
@@ -27563,6 +32603,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Yanille Agility dungeon",
+        "tiles": "2561,9507,0"
+      }
+    ],
+    "source": "Sinister chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Underground Pass (Level 3)",
         "tiles": "2422,9718,0"
       }
@@ -27618,6 +32668,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Chasm of Tears",
+        "tiles": "4067,4600,0;4070,4605,0"
+      }
+    ],
+    "source": "Skeletal remains"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Ancient Cavern",
         "tiles": "1757,5353,0;1763,5334,0;1788,5338,0"
       },
@@ -27628,6 +32688,16 @@
       }
     ],
     "source": "Skeleton (Ancient Cavern)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ancient Guthixian Temple",
+        "tiles": "4078,4441,0"
+      }
+    ],
+    "source": "Skeleton (Ancient Guthixian Temple)"
   },
   {
     "locations": [
@@ -27663,6 +32733,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Lithkren",
+        "tiles": "3555,10419,0"
+      }
+    ],
+    "source": "Skeleton (Dragon Slayer II)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Forthos Ruin",
         "tiles": "1670,3579,0;1671,3570,0;1673,3573,0;1676,3575,0;1677,3577,0;1679,3571,0;1680,3568,0"
       }
@@ -27673,11 +32753,41 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Hallowed Sepulchre",
+        "tiles": "2396,5979,0"
+      }
+    ],
+    "source": "Skeleton (Hallowed Sepulchre)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Karamjan Temple",
+        "tiles": "2838,9219,0"
+      }
+    ],
+    "source": "Skeleton (Karamjan Temple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Lucien's camp",
         "tiles": "2906,3808,0;2907,3806,0;2908,3809,0;2910,3805,0;2910,3808,0;2912,3812,0;2918,3805,0;2919,3823,0;2921,3802,0;2921,3824,0;2922,3827,0;2923,3823,0;2924,3825,0;2927,3811,0;2927,3827,0;2928,3815,0;2932,3797,0;2935,3785,0;2936,3796,0;2938,3786,0;2938,3812,0;2938,3832,0;2939,3829,0;2940,3816,0"
       }
     ],
     "source": "Skeleton (Lucien's camp)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Meiyerditch Laboratories",
+        "tiles": "3551,9778,0"
+      }
+    ],
+    "source": "Skeleton (Meiyerditch Laboratories)"
   },
   {
     "locations": [
@@ -27718,6 +32828,16 @@
       }
     ],
     "source": "Skeleton (Stronghold of Security)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tower of Magic",
+        "tiles": "1576,10213,0;1574,10193,0"
+      }
+    ],
+    "source": "Skeleton (Tale of the Righteous)"
   },
   {
     "locations": [
@@ -27798,6 +32918,36 @@
       }
     ],
     "source": "Skeleton (Tarn's Lair)#Medium level"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears",
+        "tiles": "4053,4569,0"
+      }
+    ],
+    "source": "Skeleton (The Fractured Archive)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Theatre of Blood",
+        "tiles": "3171,4397,1"
+      }
+    ],
+    "source": "Skeleton (Theatre of Blood, Dawnbringer)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Uzer Mastaba",
+        "tiles": "3857,4572,0;3876,4560,0;3875,4554,0;3870,4579,0;3892,4561,0;3880,4585,0"
+      }
+    ],
+    "source": "Skeleton (Uzer Mastaba)"
   },
   {
     "locations": [
@@ -28493,6 +33643,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "H.A.M. Storerooms",
+        "tiles": "2570,5192,0;2573,5193,0;2569,5199,0;2573,5198,0;2577,5209,0;2577,5208,0"
+      }
+    ],
+    "source": "Small chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Fishing Guild",
         "tiles": "2608,3398,0"
       },
@@ -28548,6 +33708,36 @@
       }
     ],
     "source": "Small shipwreck"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Underground Pass",
+        "tiles": "2371,9603,0"
+      }
+    ],
+    "source": "Smashed cage"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Mort'ton",
+        "tiles": "3482,3278,0"
+      }
+    ],
+    "source": "Smashed table (Mort'ton)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3681,3860,0;3680,3838,0;3694,3847,0;3697,3875,0"
+      }
+    ],
+    "source": "Smelly mushroom"
   },
   {
     "locations": [
@@ -28663,6 +33853,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Rellekka Hunter area",
+        "tiles": "2708,3819,1;2718,3820,1;2712,3831,1;2716,3827,1"
+      }
+    ],
+    "source": "Snow drift"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Weiss",
         "tiles": "2864,3957,0;2870,3955,0;2867,3954,0;2874,3952,0"
       },
@@ -28713,6 +33913,56 @@
       }
     ],
     "source": "Soft clay rocks"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3367,3397,0;3373,3397,0;3373,3401,0;3367,3401,0;3352,3396,0;3358,3396,0;3358,3401,0;3352,3401,0;3367,3403,0;3373,3403,0;3373,3415,0;3367,3415,0;3360,3402,0;3364,3402,0;3364,3415,0;3360,3415,0;3350,3424,0;3364,3424,0;3364,3431,0;3350,3431,0;3350,3415,0;3356,3415,0;3356,3419,0;3350,3419,0;3367,3423,0;3373,3423,0;3373,3431,0;3367,3431,0;3360,3424,0;3350,3404,0;3358,3404,0;3358,3413,0;3350,3413,0;3370,3437,0;3378,3437,0;3378,3443,0;3370,3443,0;3748,3801,0;3748,3795,0;3759,3795,0;3759,3801,0;3755,3817,0;3761,3817,0;3761,3810,0;3755,3810,0;3740,3823,0;3750,3823,0;3750,3816,0;3740,3816,0"
+      }
+    ],
+    "source": "Soil#Fossil Island"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3367,3397,0;3373,3397,0;3373,3401,0;3367,3401,0;3352,3396,0;3358,3396,0;3358,3401,0;3352,3401,0;3367,3403,0;3373,3403,0;3373,3415,0;3367,3415,0;3360,3402,0;3364,3402,0;3364,3415,0;3360,3415,0;3350,3424,0;3364,3424,0;3364,3431,0;3350,3431,0;3350,3415,0;3356,3415,0;3356,3419,0;3350,3419,0;3367,3423,0;3373,3423,0;3373,3431,0;3367,3431,0;3360,3424,0;3350,3404,0;3358,3404,0;3358,3413,0;3350,3413,0;3370,3437,0;3378,3437,0;3378,3443,0;3370,3443,0;3748,3801,0;3748,3795,0;3759,3795,0;3759,3801,0;3755,3817,0;3761,3817,0;3761,3810,0;3755,3810,0;3740,3823,0;3750,3823,0;3750,3816,0;3740,3816,0"
+      }
+    ],
+    "source": "Soil#Level 1 digs"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3367,3397,0;3373,3397,0;3373,3401,0;3367,3401,0;3352,3396,0;3358,3396,0;3358,3401,0;3352,3401,0;3367,3403,0;3373,3403,0;3373,3415,0;3367,3415,0;3360,3402,0;3364,3402,0;3364,3415,0;3360,3415,0;3350,3424,0;3364,3424,0;3364,3431,0;3350,3431,0;3350,3415,0;3356,3415,0;3356,3419,0;3350,3419,0;3367,3423,0;3373,3423,0;3373,3431,0;3367,3431,0;3360,3424,0;3350,3404,0;3358,3404,0;3358,3413,0;3350,3413,0;3370,3437,0;3378,3437,0;3378,3443,0;3370,3443,0;3748,3801,0;3748,3795,0;3759,3795,0;3759,3801,0;3755,3817,0;3761,3817,0;3761,3810,0;3755,3810,0;3740,3823,0;3750,3823,0;3750,3816,0;3740,3816,0"
+      }
+    ],
+    "source": "Soil#Level 2 digs"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3367,3397,0;3373,3397,0;3373,3401,0;3367,3401,0;3352,3396,0;3358,3396,0;3358,3401,0;3352,3401,0;3367,3403,0;3373,3403,0;3373,3415,0;3367,3415,0;3360,3402,0;3364,3402,0;3364,3415,0;3360,3415,0;3350,3424,0;3364,3424,0;3364,3431,0;3350,3431,0;3350,3415,0;3356,3415,0;3356,3419,0;3350,3419,0;3367,3423,0;3373,3423,0;3373,3431,0;3367,3431,0;3360,3424,0;3350,3404,0;3358,3404,0;3358,3413,0;3350,3413,0;3370,3437,0;3378,3437,0;3378,3443,0;3370,3443,0;3748,3801,0;3748,3795,0;3759,3795,0;3759,3801,0;3755,3817,0;3761,3817,0;3761,3810,0;3755,3810,0;3740,3823,0;3750,3823,0;3750,3816,0;3740,3816,0"
+      }
+    ],
+    "source": "Soil#Level 3 digs"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3367,3397,0;3373,3397,0;3373,3401,0;3367,3401,0;3352,3396,0;3358,3396,0;3358,3401,0;3352,3401,0;3367,3403,0;3373,3403,0;3373,3415,0;3367,3415,0;3360,3402,0;3364,3402,0;3364,3415,0;3360,3415,0;3350,3424,0;3364,3424,0;3364,3431,0;3350,3431,0;3350,3415,0;3356,3415,0;3356,3419,0;3350,3419,0;3367,3423,0;3373,3423,0;3373,3431,0;3367,3431,0;3360,3424,0;3350,3404,0;3358,3404,0;3358,3413,0;3350,3413,0;3370,3437,0;3378,3437,0;3378,3443,0;3370,3443,0;3748,3801,0;3748,3795,0;3759,3795,0;3759,3801,0;3755,3817,0;3761,3817,0;3761,3810,0;3755,3810,0;3740,3823,0;3750,3823,0;3750,3816,0;3740,3816,0"
+      }
+    ],
+    "source": "Soil#Training digs"
   },
   {
     "locations": [
@@ -28893,6 +34143,16 @@
       }
     ],
     "source": "Spade (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Digsite",
+        "tiles": "3353,3386,0;3367,3387,0"
+      }
+    ],
+    "source": "Specimen tray"
   },
   {
     "locations": [
@@ -29133,6 +34393,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Wyrmscraig",
+        "tiles": "2578,2202,0"
+      }
+    ],
+    "source": "Spikes supply"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Calidum Reach - south-east of Laguna Aurorae",
         "tiles": "1296,2611,0;1303,2602,0;1314,2599,0;1323,2605,0;1337,2611,0;1342,2601,0;1331,2591,0;1319,2588,0;1324,2577,0;1336,2572,0;1347,2577,0"
       },
@@ -29338,6 +34608,66 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Wintertodt's prison",
+        "tiles": "1649,4007,0;1611,4007,0;1625,3978,0;1635,3978,0"
+      }
+    ],
+    "source": "Sprouting Roots"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sorceress's Garden",
+        "tiles": "2891,5475,0;2912,5450,0;2931,5463,0;2915,5491,0"
+      }
+    ],
+    "source": "Sq'irk tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sorceress's Garden",
+        "tiles": "2891,5475,0;2912,5450,0;2931,5463,0;2915,5491,0"
+      }
+    ],
+    "source": "Sq'irk tree#Autumn"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sorceress's Garden",
+        "tiles": "2891,5475,0;2912,5450,0;2931,5463,0;2915,5491,0"
+      }
+    ],
+    "source": "Sq'irk tree#Spring"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sorceress's Garden",
+        "tiles": "2891,5475,0;2912,5450,0;2931,5463,0;2915,5491,0"
+      }
+    ],
+    "source": "Sq'irk tree#Summer"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sorceress's Garden",
+        "tiles": "2891,5475,0;2912,5450,0;2931,5463,0;2915,5491,0"
+      }
+    ],
+    "source": "Sq'irk tree#Winter"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Enchanted Valley",
         "tiles": "3050,4494,0;3037,4503,0"
       },
@@ -29363,6 +34693,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Wyrmscraig Cavern",
+        "tiles": "2615,8601,0"
+      }
+    ],
+    "source": "Stalagmite (Wyrmscraig)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Lunar Isle mine",
         "tiles": "2319,10344,2;2319,10339,2;2321,10343,2;2320,10325,2;2331,10328,2;2333,10330,2;2336,10328,2;2343,10327,2;2345,10325,2;2348,10330,2;2349,10337,2;2356,10339,2;2355,10343,2;2359,10346,2;2316,10339,2;2320,10344,2;2349,10330,2;2349,10343,2;2353,10348,2"
       }
@@ -29378,6 +34718,56 @@
       }
     ],
     "source": "Starlight"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3513,9713,0;3473,9713,0;3517,9713,0;3469,9713,0"
+      }
+    ],
+    "source": "Steel Chest (black)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3481,9713,0;3509,9713,0;3477,9713,0;3505,9713,0"
+      }
+    ],
+    "source": "Steel Chest (brown)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3489,9715,0;3497,9713,0;3485,9713,0;3501,9715,0;3489,9713,0;3497,9715,0;3501,9713,0;3485,9715,0"
+      }
+    ],
+    "source": "Steel Chest (crimson)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3513,9715,0;3517,9715,0;3473,9715,0;3469,9715,0"
+      }
+    ],
+    "source": "Steel Chest (purple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shade Catacombs",
+        "tiles": "3481,9713,0;3509,9713,0;3477,9713,0;3505,9713,0"
+      }
+    ],
+    "source": "Steel Chest (red)"
   },
   {
     "locations": [
@@ -29463,6 +34853,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Lizardman Temple",
+        "tiles": "1300,10085,0;1300,10089,0;1302,10087,0"
+      }
+    ],
+    "source": "Stone chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "House on the Hill",
         "tiles": "3760,3867,0;3760,3870,0;3770,3869,0;3764,3872,0"
       },
@@ -29473,6 +34873,116 @@
       }
     ],
     "source": "Stone chest (House on the Hill)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lizardman Temple",
+        "tiles": "1292,10077,0"
+      }
+    ],
+    "source": "Stone chest (stone tablet)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Lithkren Vault",
+        "tiles": "1548,5101,0"
+      }
+    ],
+    "source": "Stone crate (old notes)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Varrock Museum",
+        "tiles": "3267,3442,0;3266,3442,0"
+      }
+    ],
+    "source": "Storage crate"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "1333,9754,0"
+      }
+    ],
+    "source": "Strange creature (Shadows of Custodia)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ah Za Rhoon",
+        "tiles": "2901,9379,0"
+      }
+    ],
+    "source": "Strange looking stone"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Maze",
+        "tiles": "2912,4576,0"
+      }
+    ],
+    "source": "Strange shrine"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Digsite",
+        "tiles": "3363,3397,0;3370,3416,0;3348,3424,0"
+      }
+    ],
+    "source": "Student"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Witchaven",
+        "tiles": "2708,3294,0"
+      }
+    ],
+    "source": "Study desk (The Slug Menace)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Sotfa Forest",
+        "tiles": "2960,7890,0"
+      }
+    ],
+    "source": "Stump (The Blood Moon Rises)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tar swamp, Fossil island",
+        "tiles": "3678,3806,0;3663,3802,0;3663,3781,0;3683,3775,0;3683,3758,0;3678,3733,0"
+      }
+    ],
+    "source": "Sulliuscep"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Poison Waste",
+        "tiles": "2220,3124,0;2222,3125,0;2224,3127,0;2226,3127,0;2221,3125,0;2224,3126,0;2225,3128,0;2219,3124,0;2220,3125,0;2221,3126,0;2225,3127,0;2228,3128,0;2258,3128,0;2258,3129,0;2259,3120,0;2259,3129,0;2259,3130,0;2269,3128,0;2270,3127,0;2271,3126,0;2272,3125,0;2256,3115,0;2256,3124,0;2257,3117,0;2257,3123,0;2257,3128,0;2257,3129,0;2258,3118,0;2258,3120,0;2258,3122,0;2259,3119,0;2259,3121,0;2261,3130,0;2267,3128,0;2268,3128,0;2268,3129,0;2269,3129,0;2271,3127,0;2272,3126,0;2273,3124,0;2273,3125,0;2295,3116,0;2296,3116,0;2296,3117,0;2297,3116,0;2256,3126,0;2257,3127,0;2258,3130,0;2260,3130,0;2270,3128,0"
+      }
+    ],
+    "source": "Sulphur (scenery)"
   },
   {
     "locations": [
@@ -29524,6 +35034,16 @@
       {
         "isMembers": true,
         "location": "Wyrmscraig mine",
+        "tiles": "2600,2248,0"
+      }
+    ],
+    "source": "Sunstone monolith"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wyrmscraig mine",
         "tiles": "2596,2240,0;2597,2241,0;2597,2242,0;2597,2244,0;2598,2245,0;2599,2244,0;2599,2238,0;2600,2240,0;2600,2241,0;2601,2242,0;2602,2243,0;2603,2244,0;2602,2245,0"
       },
       {
@@ -29553,6 +35073,16 @@
       }
     ],
     "source": "Suqah"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "ScapeRune",
+        "tiles": "1887,5025,0"
+      }
+    ],
+    "source": "Surprise Exam"
   },
   {
     "locations": [
@@ -29618,6 +35148,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Rellekka",
+        "tiles": "2739,3639,0"
+      }
+    ],
+    "source": "Swaying tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "West of Outer Fortis",
         "tiles": "1632,3066,0;1632,3070,0;1632,3072,0;1632,3073,0;1633,3065,0;1633,3067,0;1633,3069,0;1633,3071,0;1633,3072,0;1634,3064,0;1634,3066,0;1634,3067,0;1634,3068,0;1634,3069,0;1634,3070,0;1634,3071,0;1634,3072,0;1634,3073,0;1634,3074,0;1635,3065,0;1635,3066,0;1635,3067,0;1635,3068,0;1635,3069,0;1635,3070,0;1635,3071,0;1635,3072,0;1635,3073,0;1636,3064,0;1636,3065,0;1636,3066,0;1636,3067,0;1636,3068,0;1636,3069,0;1636,3070,0;1636,3071,0;1636,3072,0;1636,3073,0;1636,3074,0;1637,3065,0;1637,3067,0;1637,3068,0;1637,3069,0;1637,3070,0;1637,3071,0;1637,3072,0;1637,3073,0;1637,3074,0;1637,3075,0;1638,3064,0;1638,3066,0;1638,3067,0;1638,3068,0;1638,3069,0;1638,3070,0;1638,3071,0;1638,3072,0;1638,3073,0;1638,3074,0;1639,3065,0;1639,3066,0;1639,3067,0;1639,3068,0;1639,3069,0;1639,3070,0;1639,3071,0;1639,3072,0;1639,3073,0;1639,3074,0;1639,3075,0;1640,3064,0;1640,3066,0;1640,3067,0;1640,3068,0;1640,3070,0;1640,3071,0;1640,3072,0;1640,3073,0;1640,3074,0;1641,3064,0;1641,3065,0;1641,3066,0;1641,3067,0;1641,3068,0;1641,3069,0;1641,3070,0;1641,3071,0;1641,3072,0;1641,3073,0;1641,3075,0;1642,3063,0;1642,3064,0;1642,3065,0;1642,3066,0;1642,3067,0;1642,3068,0;1642,3070,0;1642,3071,0;1642,3072,0;1642,3073,0;1642,3074,0;1643,3064,0;1643,3065,0;1643,3066,0;1643,3067,0;1643,3068,0;1643,3069,0;1643,3070,0;1643,3071,0;1643,3072,0;1643,3073,0;1643,3075,0;1644,3063,0;1644,3065,0;1644,3066,0;1644,3067,0;1644,3068,0;1644,3069,0;1644,3070,0;1644,3071,0;1644,3072,0;1644,3073,0;1644,3074,0;1645,3064,0;1645,3065,0;1645,3066,0;1645,3067,0;1645,3068,0;1645,3069,0;1645,3070,0;1645,3071,0;1645,3072,0;1645,3073,0;1645,3075,0;1646,3063,0;1646,3064,0;1646,3065,0;1646,3066,0;1646,3067,0;1646,3068,0;1646,3069,0;1646,3070,0;1646,3071,0;1646,3072,0;1646,3073,0;1646,3074,0;1647,3064,0;1647,3065,0;1647,3066,0;1647,3067,0;1647,3068,0;1647,3069,0;1647,3070,0;1647,3071,0;1647,3072,0;1647,3073,0;1647,3075,0;1648,3063,0;1648,3065,0;1648,3066,0;1648,3067,0;1648,3068,0;1648,3069,0;1648,3070,0;1648,3071,0;1648,3072,0;1648,3073,0;1648,3074,0;1649,3064,0;1649,3065,0;1649,3066,0;1649,3067,0;1649,3068,0;1649,3069,0;1649,3070,0;1649,3071,0;1649,3072,0;1649,3073,0;1649,3074,0;1650,3063,0;1650,3065,0;1650,3067,0;1650,3069,0;1650,3071,0;1650,3072,0;1650,3073,0;1651,3064,0;1651,3066,0;1651,3068,0;1651,3070,0"
       },
@@ -29633,6 +35173,56 @@
       }
     ],
     "source": "Sweetcorn (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Black Knight Catacombs",
+        "tiles": "4113,4849,1"
+      }
+    ],
+    "source": "Table (Black Knight Catacombs, runes)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Black Knight Catacombs",
+        "tiles": "4124,4851,1"
+      }
+    ],
+    "source": "Table (Black Knight Catacombs, supplies)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Misthalin Manor",
+        "tiles": "1639,4831,0"
+      }
+    ],
+    "source": "Table (Misthalin Mystery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Shaman Caves",
+        "tiles": "2784,9333,0"
+      }
+    ],
+    "source": "Table (Shaman Caves)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zemouregal's Base",
+        "tiles": "3610,4567,0;3607,4567,0;3612,4567,0"
+      }
+    ],
+    "source": "Table (The Curse of Arrav)"
   },
   {
     "locations": [
@@ -29748,6 +35338,16 @@
       }
     ],
     "source": "Tea stall"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Teak birdhouse"
   },
   {
     "locations": [
@@ -29953,6 +35553,46 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Wyrmscraig",
+        "tiles": "2599,2223,0"
+      }
+    ],
+    "source": "Tent (Wyrmscraig)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Colossal Wyrm Agility Course",
+        "tiles": "1655,2918,1;1649,2910,1;1635,2910,1;1627,2914,1;1627,2931,1;1635,2907,1;1625,2916,1;1624,2931,1"
+      }
+    ],
+    "source": "Termites (NPC)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Colossal Wyrm Agility Course",
+        "tiles": "1655,2918,1;1649,2910,1;1635,2910,1;1627,2914,1;1627,2931,1;1635,2907,1;1625,2916,1;1624,2931,1"
+      }
+    ],
+    "source": "Termites (NPC)#Advanced"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Colossal Wyrm Agility Course",
+        "tiles": "1655,2918,1;1649,2910,1;1635,2910,1;1627,2914,1;1627,2931,1;1635,2907,1;1625,2916,1;1624,2931,1"
+      }
+    ],
+    "source": "Termites (NPC)#Basic"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Bay of Sarim - south-east of Mudskipper Point",
         "tiles": "3041,3110,0;3047,3117,0;3025,3116,0;3009,3130,0;3015,3123,0;3011,3117,0;3015,3108,0;3014,3098,0;2988,3097,0;2987,3085,0;2990,3073,0;2999,3091,0;3008,3080,0;3010,3087,0;3017,3064,0;3023,3075,0;3032,3067,0;3028,3054,0;3044,3079,0;3031,3084,0;3038,3091,0"
       },
@@ -30153,6 +35793,16 @@
       }
     ],
     "source": "Thief (Varlamore)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3087,3254,1"
+      }
+    ],
+    "source": "Thing under the bed"
   },
   {
     "locations": [
@@ -30593,6 +36243,36 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Underground Pass",
+        "tiles": "2357,9801,0"
+      }
+    ],
+    "source": "Tomb (Iban)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tomb of Bervirius",
+        "tiles": "2766,9364,0"
+      }
+    ],
+    "source": "Tomb dolmen (Tomb of Bervirius)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Varrock Museum",
+        "tiles": "3259,3442,0"
+      }
+    ],
+    "source": "Tools (Varrock Museum)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Lumbridge Swamp - Lumbridge Swamp shed",
         "tiles": "3203,3170,0"
       },
@@ -30898,6 +36578,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Varies",
+        "tiles": "2496,3000,0"
+      }
+    ],
+    "source": "Tree (Varlamore)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "East of Shilo Village",
         "tiles": "2938,2995,0;2940,2991,0;2918,2987,0"
       },
@@ -31013,6 +36703,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Tombs of Amascut",
+        "tiles": "3823,5154,1"
+      }
+    ],
+    "source": "Tumeken's Warden"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Fremennik Slayer Dungeon ({{Fairycode|ajr}})",
         "tiles": "2717,10007,0;2718,10006,0;2718,10008,0;2719,10011,0;2720,10003,0;2721,10003,0;2721,10009,0;2721,10014,0;2722,10008,0;2723,9994,0;2723,10002,0;2723,10010,0;2724,9996,0;2724,10013,0;2725,9995,0;2725,10012,0;2726,10010,0;2726,10013,0;2727,9995,0;2727,10011,0;2728,9996,0;2728,9997,0"
       }
@@ -31028,6 +36728,16 @@
       }
     ],
     "source": "Twig"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "South of Draynor Village bank",
+        "tiles": "3096,3227,0"
+      }
+    ],
+    "source": "Twiggy O'Korn"
   },
   {
     "locations": [
@@ -31128,6 +36838,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "",
+        "tiles": "2740,10159,0"
+      }
+    ],
+    "source": "Ulfric"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Forthos Dungeon",
         "tiles": "1808,9961,0;1808,9964,0;1808,9967,0;1808,9970,0;1812,9961,0;1812,9964,0;1812,9967,0;1812,9970,0;1847,9939,0;1848,9937,0;1848,9941,0;1851,9937,0;1851,9941,0;1852,9939,0;1799,9937,0;1799,9940,0;1802,9937,0;1802,9940,0"
       }
@@ -31173,6 +36893,26 @@
       }
     ],
     "source": "Undead one"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "",
+        "tiles": "3143,3365,0;3140,3360,0;3143,3357,0;3138,3352,0;3111,3348,0;3103,3347,0;3108,3346,0;3107,3344,0;3115,3344,0;3120,3344,0;3107,3342,0;3111,3339,0;3107,3337,0;3122,3335,0;3556,3470,0;3570,3507,0;3577,3493,0;3579,3477,0;3586,3482,0;3596,3477,0;3600,3506,0;3607,3497,0;3610,3465,0;3613,3491,0;3617,3514,0;3619,3502,0;3628,3476,0;3629,3509,0;3630,3489,0"
+      }
+    ],
+    "source": "Undead tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Burthorpe",
+        "tiles": "2917,3562,0;2917,3566,0;2920,3566,0;2920,3562,0"
+      }
+    ],
+    "source": "Unferth's patch"
   },
   {
     "locations": [
@@ -31283,11 +37023,31 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Rantz's cave",
+        "tiles": "2637,9398,0"
+      }
+    ],
+    "source": "Unlocked Ogre chest"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Shade Catacombs",
         "tiles": "3499,9672,0;3499,9677,0;3499,9682,0;3502,9685,0;3504,9669,0;3507,9686,0;3510,9669,0;3512,9685,0;3515,9672,0;3515,9677,0;3515,9682,0"
       }
     ],
     "source": "Urium Shade"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Jalsavrah Pyramid",
+        "tiles": "1923,4471,0;1923,4468,0;1925,4467,0;1932,4469,0;1949,4470,0;1953,4471,0;1956,4469,0;1957,4470,0;1970,4461,0;1975,4457,0;1974,4456,0;1977,4455,0;1940,4455,0;1941,4452,0;1938,4450,0;1952,4451,0;1961,4450,0;1958,4446,0;1955,4444,0;1926,4439,0;1923,4436,0;1928,4435,0;1930,4431,0;1943,4430,0;1947,4428,0;1954,4428,0;1951,4423,0;1970,4434,0;1968,4430,0;1972,4428,0;1976,4429,0;1923,4469,0;1926,4468,0;1925,4465,0;1929,4465,0;1952,4471,0;1959,4470,0;1957,4469,0;1957,4465,0;1973,4464,0;1971,4462,0;1970,4459,0;1979,4457,0;1939,4457,0;1933,4455,0;1938,4453,0;1936,4450,0;1940,4450,0;1953,4452,0;1959,4453,0;1952,4449,0;1961,4449,0;1957,4447,0;1927,4439,0;1924,4438,0;1923,4434,0;1931,4435,0;1929,4434,0;1943,4428,0;1946,4428,0;1954,4429,0;1948,4424,0;1952,4423,0;1971,4434,0;1968,4431,0;1971,4428,0;1977,4429,0;1923,4470,0;1932,4470,0;1925,4468,0;1926,4467,0;1926,4465,0;1949,4471,0;1951,4471,0;1956,4470,0;1959,4469,0;1950,4466,0;1979,4459,0;1971,4457,0;1974,4457,0;1975,4456,0;1936,4457,0;1940,4457,0;1938,4452,0;1935,4450,0;1939,4450,0;1954,4453,0;1961,4451,0;1958,4447,0;1957,4446,0;1923,4435,0;1929,4435,0;1928,4434,0;1931,4434,0;1946,4429,0;1947,4429,0;1954,4427,0;1950,4423,0;1974,4435,0;1972,4434,0;1978,4431,0;1976,4428,0;1970,4428,0"
+      }
+    ],
+    "source": "Urn (Pyramid Plunder)"
   },
   {
     "locations": [
@@ -31378,6 +37138,16 @@
       }
     ],
     "source": "Vampyre kraken"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Kharazi Jungle",
+        "tiles": "2817,2894,0"
+      }
+    ],
+    "source": "Vanilla plant"
   },
   {
     "locations": [
@@ -31508,6 +37278,66 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "McGrubor's Wood",
+        "tiles": "2631,3500,0"
+      }
+    ],
+    "source": "Vine (McGrubor's Wood)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Ancient Guthixian Temple",
+        "tiles": "4097,4419,0"
+      }
+    ],
+    "source": "Vine flower (scenery)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Moonrise Brewery and Winery",
+        "tiles": "1370,2915,0"
+      }
+    ],
+    "source": "Vineyard foreman"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Void Knights' Outpost",
+        "tiles": "2654,2663,0;2659,2665,0;2662,2649,0;2662,2653,0"
+      }
+    ],
+    "source": "Void Knights' Reward Options#Herb pack"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Void Knights' Outpost",
+        "tiles": "2654,2663,0;2659,2665,0;2662,2649,0;2662,2653,0"
+      }
+    ],
+    "source": "Void Knights' Reward Options#Mineral pack"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Void Knights' Outpost",
+        "tiles": "2654,2663,0;2659,2665,0;2662,2649,0;2662,2653,0"
+      }
+    ],
+    "source": "Void Knights' Reward Options#Seed pack"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Sulphur mine",
         "tiles": "1423,3872,0;1445,3863,0;1439,3869,0;1432,3866,0;1446,3873,0"
       }
@@ -31598,6 +37428,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Rogues' Den",
+        "tiles": "3055,4977,0;3057,4977,0;3055,4970,0;3057,4970,0"
+      }
+    ],
+    "source": "Wall safe (lobby)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Waterbirth Dungeon (Sub-level 1 Room 2 (Centre))",
         "tiles": "2496,10148,0;2498,10146,0;2500,10148,0;2502,10143,0;2503,10145,0;2504,10143,0;2504,10147,0;2506,10150,0;2508,10145,0;2508,10149,0;2509,10142,0;2512,10144,0;2512,10147,0;2513,10142,0;2514,10148,0;2517,10144,0;2517,10150,0;2518,10141,0;2520,10144,0;2520,10148,0;2522,10142,0;2522,10149,0;2523,10145,0;2525,10147,0;2526,10142,0;2529,10144,0;2530,10141,0;2533,10142,0;2536,10142,0"
       },
@@ -31628,6 +37468,16 @@
       }
     ],
     "source": "Wallasalki"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Yanille",
+        "tiles": "2590,3103,1"
+      }
+    ],
+    "source": "Wardrobe (Zogre Flesh Eaters)"
   },
   {
     "locations": [
@@ -31772,6 +37622,16 @@
   {
     "locations": [
       {
+        "isMembers": true,
+        "location": "Bazaar",
+        "tiles": "1684,3087,0;1685,3106,0;1717,3104,0;1680,3091,0;1711,3105,0;1675,3107,0;1680,3082,0;1680,3102,0;1714,3101,0"
+      }
+    ],
+    "source": "Wealthy citizen"
+  },
+  {
+    "locations": [
+      {
         "isMembers": false,
         "location": "House in South-East Varrock, 1st floor",
         "tiles": "3246,3384,1"
@@ -31793,6 +37653,16 @@
       }
     ],
     "source": "Weeds (Chambers of Xeric)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Etceteria",
+        "tiles": "2582,3863,0"
+      }
+    ],
+    "source": "Weedy patch"
   },
   {
     "locations": [
@@ -32073,6 +37943,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Varrock Castle",
+        "tiles": "3230,3475,0"
+      }
+    ],
+    "source": "White Tree patch"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "West side of Mons Gratia",
         "tiles": "1421,3233,0"
       },
@@ -32108,6 +37988,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Feldip Hills",
+        "tiles": "2489,2905,0"
+      }
+    ],
+    "source": "Wild broav"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Brimhaven Dungeon",
         "tiles": "2694,9542,0;2740,9502,0;2740,9508,0;2743,9503,0;2657,9515,0;2662,9515,0;2662,9517,0;2662,9522,0;2666,9523,0;2667,9513,0;2671,9519,0;2672,9515,0"
       }
@@ -32128,6 +38018,16 @@
       }
     ],
     "source": "Wild kebbit"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Willow birdhouse"
   },
   {
     "locations": [
@@ -32368,6 +38268,26 @@
       }
     ],
     "source": "Wingman Skree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Nardah",
+        "tiles": "3380,2893,0"
+      }
+    ],
+    "source": "Wingstone"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Dorgesh-Kaan",
+        "tiles": "2716,5271,0;2716,5272,0;2716,5274,0;2715,5272,0"
+      }
+    ],
+    "source": "Wire machine"
   },
   {
     "locations": [
@@ -32613,11 +38533,61 @@
     "locations": [
       {
         "isMembers": false,
+        "location": "Lumbridge",
+        "tiles": "3227,3246,0"
+      }
+    ],
+    "source": "Woodsman tutor"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Farm south of Farming Guild",
+        "tiles": "1239,3698,0"
+      }
+    ],
+    "source": "Workbench (Gordon and Mary's farm)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Tal Teklan",
+        "tiles": "1210,3112,0"
+      }
+    ],
+    "source": "Workbench (Tal Teklan)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Trouble Brewing",
+        "tiles": "3817,2997,0;3816,2954,0"
+      }
+    ],
+    "source": "Workbench (Trouble Brewing, tools)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
         "location": "Port Sarim jail",
         "tiles": "3014,3189,0"
       }
     ],
     "source": "Wormbrain"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Weiss",
+        "tiles": "2855,3970,0"
+      }
+    ],
+    "source": "Wrecked boat"
   },
   {
     "locations": [
@@ -32667,6 +38637,26 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Falador Park",
+        "tiles": "3027,3379,0"
+      }
+    ],
+    "source": "Wyson the gardener"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Villa Lucens",
+        "tiles": "1442,2926,0"
+      }
+    ],
+    "source": "Xocotla"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Canifis",
         "tiles": "3479,3492,0"
@@ -32693,6 +38683,36 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "",
+        "tiles": "1503,10091,0"
+      }
+    ],
+    "source": "Yama"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "1503,10091,0"
+      }
+    ],
+    "source": "Yama#Contract"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "1503,10091,0"
+      }
+    ],
+    "source": "Yama#Junk"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "The Crown Jewel",
         "tiles": "1706,2662,0"
       },
@@ -32708,6 +38728,16 @@
       }
     ],
     "source": "Yellowfin shoal"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "tiles": "3677,3882,0;3678,3815,0;3763,3755,0;3768,3761,0"
+      }
+    ],
+    "source": "Yew birdhouse"
   },
   {
     "locations": [
@@ -33448,6 +39478,16 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Kharazi Jungle",
+        "tiles": "2778,2916,0;2808,2904,0;2831,2921,0;2867,2923,0;2894,2921,0;2911,2905,0"
+      }
+    ],
+    "source": "Yommi tree"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Puro Puro",
         "tiles": "2590,4348,0;2595,4343,0;2574,4331,0;2612,4327,0;2619,4322,0;2564,4321,0;2574,4321,0;2612,4309,0;2587,4300,0;2592,4291,0"
       }
@@ -33523,6 +39563,26 @@
       }
     ],
     "source": "Zamorak warrior"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Abandoned Mine",
+        "tiles": "3444,3258,0"
+      }
+    ],
+    "source": "Zealot"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "",
+        "tiles": "3921,5408,0"
+      }
+    ],
+    "source": "Zebak"
   },
   {
     "locations": [
@@ -33783,6 +39843,16 @@
       }
     ],
     "source": "Zombie (Wilderness)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Wilderness",
+        "tiles": "3372,3627,0;3374,3625,0;3371,3623,0"
+      }
+    ],
+    "source": "Zombie Pirate's Locker"
   },
   {
     "locations": [
