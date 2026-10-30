@@ -1,4 +1,5 @@
-from items import format_location, map_tiles, parse_tiles, version_locations
+from items import format_location, map_tiles, parse_tiles, required_key, version_locations
+import mwparserfromhell as mw
 
 assert parse_tiles({"1": "3030,3637,qty:5", "name": "Air rune"}, "0") == ["3030,3637,0"]
 assert parse_tiles({"1": "2906,3538,respawn:45"}, "1") == ["2906,3538,1"]
@@ -21,4 +22,7 @@ assert [l["location"] for l in version_locations(locs("Regular", "Regular, Free-
 assert [l["location"] for l in version_locations(locs("Standard", "Wilderness Slayer Cave"), "Missing")] == ["0", "1"]
 assert [l["location"] for l in version_locations(locs("Standard", ""), "")] == ["0", "1"]
 assert "dropversion" not in version_locations(locs("a"), "a")[0]
+assert required_key(mw.parse("{{Infobox Scenery|name=Muddy chest}}\nIt can only be opened with a [[muddy key]].\n==Loot==\n[[Steel key]]")) == "Muddy key"
+assert required_key(mw.parse("{{Infobox Scenery|examine=a [[spare key]]}}\nAn open chest.\n==Loot==\n[[Steel key]]")) == ""
+assert required_key(mw.parse("{{Infobox Monster|name=Rat}}\nDrops a [[brass key]].")) == ""
 print("parse_tiles ok")

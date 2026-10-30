@@ -465,6 +465,17 @@ def template_params(template: Template) -> Dict[str, str]:
     return {param.name.strip(): param.value.strip() for param in template.params}
 
 
+def required_key(code) -> str:
+    # chests name their key only in the intro prose, e.g. "can only be opened with a [[muddy key]]"
+    if not code.filter_templates(recursive=False, matches=lambda t: t.name.matches("Infobox Scenery")):
+        return ""
+    lead = mw.parse(str(code).split("\n==")[0])
+    for template in lead.filter_templates(recursive=False):
+        lead.remove(template)
+    match = re.search(r"\[\[([^\]|#]*\bkey)(?:\|[^\]]*)?\]\]", str(lead), re.I)
+    return match.group(1)[0].upper() + match.group(1)[1:] if match else ""
+
+
 def version_locations(locations: List[Dict], version: str) -> List[Dict]:
     # LocLine "dropversion" lists the drop table versions found there, e.g. "Regular, Free-to-play, Level 86";
     # keep the source's own version, or every location when none is tagged with it
@@ -527,7 +538,7 @@ def get_source_locations(drop_names: List[str]):
                     })
 
             if locations:
-                source_locations.append({"source": source, "locations": locations})
+                source_locations.append({"source": source, "requiredItem": required_key(code), "locations": locations})
 
         except (KeyboardInterrupt, SystemExit):
             raise
