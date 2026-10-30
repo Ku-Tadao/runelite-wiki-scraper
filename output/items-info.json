@@ -154176,6 +154176,94 @@
     "version": null
   },
   {
+    "examineText": "Karil the Tainted's leather skirt.",
+    "group": "Karil's leatherskirt (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34609,
+    "name": "Karil's leatherskirt",
+    "url": "https://oldschool.runescape.wiki/w/Karil%27s_leatherskirt_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A sturdy chestplate.",
+    "group": "Bandos chestplate (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34611,
+    "name": "Bandos chestplate",
+    "url": "https://oldschool.runescape.wiki/w/Bandos_chestplate_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A Penance Fighter torso armour.",
+    "group": "Fighter torso (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34613,
+    "name": "Fighter torso",
+    "url": "https://oldschool.runescape.wiki/w/Fighter_torso_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A solid redwood shield covered in black dragon leather.",
+    "group": "Black d'hide shield (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34615,
+    "name": "Black d'hide shield",
+    "url": "https://oldschool.runescape.wiki/w/Black_d%27hide_shield_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "An ancient warrior's full helm.",
+    "group": "Torva full helm (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34617,
+    "name": "Torva full helm",
+    "url": "https://oldschool.runescape.wiki/w/Torva_full_helm_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "A weapon from the Abyss, embedded in a slimy tentacle.",
+    "group": "Abyssal tentacle (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34619,
+    "name": "Abyssal tentacle",
+    "url": "https://oldschool.runescape.wiki/w/Abyssal_tentacle_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "These will protect my feet.",
+    "group": "Dragon boots (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": true,
+    "itemID": 34621,
+    "name": "Dragon boots",
+    "url": "https://oldschool.runescape.wiki/w/Dragon_boots_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
+    "examineText": "I hope this tastes better than it looks.",
+    "group": "Anglerfish (Pete Kayer's Challenges)",
+    "isDefaultVersion": true,
+    "isMembers": false,
+    "isTradeable": false,
+    "itemID": 34623,
+    "name": "Anglerfish",
+    "url": "https://oldschool.runescape.wiki/w/Anglerfish_%28Pete_Kayer%27s_Challenges%29",
+    "version": null
+  },
+  {
     "examineText": "The cape worn by only the most experienced players.",
     "group": "Imbued ancient max cape",
     "isDefaultVersion": true,
@@ -154267,7 +154355,7 @@
     "examineText": "Contains some useful supplies.",
     "group": "Supply crate (Pete Kayer's Challenges)",
     "isDefaultVersion": true,
-    "isMembers": true,
+    "isMembers": false,
     "isTradeable": false,
     "itemID": 34643,
     "name": "Supply crate",
