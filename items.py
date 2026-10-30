@@ -94,6 +94,7 @@ def get_shop_items(info_items: list[dict]):
             coords = "?"
             plane = "0"
             map_id = "0"
+            tiles = []
             if "map" in infobox_data:
                 shop_map = mw.parse(infobox_data["map"], skip_style_tags=True)
                 map_templates = shop_map.filter_templates(
@@ -128,6 +129,8 @@ def get_shop_items(info_items: list[dict]):
 
                     if "mapID" in map_params:
                         map_id = str(map_params["mapID"])
+
+                    tiles = map_tiles(map_params, plane)
 
             raw_page_stores: List[Template] = code.filter_templates(
                 matches=lambda t: t.name.matches("StoreTableHead") or t.name.matches("StoreLine") or t.name.matches("Tzhaar shop row"))
@@ -201,7 +204,9 @@ def get_shop_items(info_items: list[dict]):
                     "location": format_location(infobox_data["location"]) if "location" in infobox_data else "",
                     "isMembers": True if ("members" in infobox_data and infobox_data["members"] == "Yes") else False,
                     "items": items,
+                    # averaged point, kept for clients that predate "tiles"
                     "coords": coords,
+                    "tiles": ";".join(tiles),
                     "plane": plane,
                     "mapID": map_id
                 }
@@ -440,9 +445,24 @@ def parse_tiles(params: Dict[str, str], plane: str) -> List[str]:
         # drop extras like "respawn:45" or "qty:5"
         parts = [p.strip().removeprefix("x:").removeprefix("y:") for p in value.split(",")]
         parts = [p for p in parts if ":" not in p]
-        if len(parts) == 2 and parts[0].isdigit() and parts[1].isdigit():
-            tiles.append(f"{parts[0].strip()},{parts[1].strip()},{plane}")
+        if len(parts) == 2 and all(re.fullmatch(r"\d+(\.\d+)?", p) for p in parts):
+            tiles.append(f"{int(float(parts[0]))},{int(float(parts[1]))},{plane}")
     return tiles
+
+
+def map_tiles(params: Dict[str, str], plane: str) -> List[str]:
+    """
+    map_tiles reads a {{Map}} template's points, falling back to
+    its x= and y= centre
+    """
+    tiles = parse_tiles(params, plane)
+    if not tiles and params.get("x", "").isdigit() and params.get("y", "").isdigit():
+        tiles = [f"{params['x']},{params['y']},{plane}"]
+    return tiles
+
+
+def template_params(template: Template) -> Dict[str, str]:
+    return {param.name.strip(): param.value.strip() for param in template.params}
 
 
 def get_source_locations(drop_names: List[str]):
@@ -478,6 +498,20 @@ def get_source_locations(drop_names: List[str]):
                     "isMembers": params.get("members", "").lower() in ("yes", "y"),
                     "tiles": ";".join(tiles),
                 })
+
+            if not locations:
+                infobox = code.filter_templates(matches=lambda t: str(t.name).strip().startswith("Infobox"))
+                info = template_params(infobox[0]) if infobox else {}
+                tiles = []
+                for map_template in code.filter_templates(matches=lambda t: t.name.matches("Map")):
+                    params = template_params(map_template)
+                    tiles += map_tiles(params, params.get("plane") or "0")
+                if tiles:
+                    locations.append({
+                        "location": format_location(info.get("location", "")),
+                        "isMembers": info.get("members", "").lower() in ("yes", "y"),
+                        "tiles": ";".join(dict.fromkeys(tiles)),
+                    })
 
             if locations:
                 source_locations.append({"source": source, "locations": locations})

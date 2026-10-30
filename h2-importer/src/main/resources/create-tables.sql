@@ -76,6 +76,7 @@ CREATE TABLE SHOPS
     LOCATION        TEXT    NOT NULL,
     IS_MEMBERS      BOOL    NOT NULL,
     COORDS          TEXT    NOT NULL,
+    TILES           TEXT    NULL,
     PLANE           TEXT    NOT NULL,
     MAP_ID          TEXT    NOT NULL
 );
