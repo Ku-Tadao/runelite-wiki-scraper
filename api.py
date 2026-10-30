@@ -6,7 +6,7 @@ import urllib.parse
 from typing import *
 
 use_cache: bool = True
-user_agent: dict[str, str] = {"User-Agent": "Not Enough Runes Scraper/1.0 (+HannahRyanster@gmail.com)"}
+user_agent: dict[str, str] = {"User-Agent": "Item Atlas Scraper/1.0 (+https://github.com/Ku-Tadao/runelite-wiki-scraper)"}
 
 
 def get_wiki_api(args: dict[str, str], continue_key: str) -> Iterator[any]:

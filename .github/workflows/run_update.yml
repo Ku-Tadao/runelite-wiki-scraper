@@ -7,23 +7,25 @@ on:
   push:
     branches:
       - master
-      - sqlite
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
-    - uses: actions/setup-python@v4
+    - uses: actions/setup-python@v5
       with:
         python-version: '3.10'
-    - uses: actions/setup-java@v3
+    - uses: actions/setup-java@v4
       with:
         distribution: temurin
         java-version: 11
-    - uses: gradle/gradle-build-action@v2
+    - uses: gradle/actions/setup-gradle@v4
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pipenv
@@ -39,32 +41,15 @@ jobs:
     - name: Generate H2 checksum
       run: |
         sha256sum ./output/data.sqlite | cut -d " " -f 1 > ./output/data.sqlite.sha256
-    - name: Copy to target branch
+    - name: Publish to wiki-data
       run: |
-        git config user.name temp
-        git config user.email temp@temp.com
-        git checkout -b wiki-data-temp
-        git add ./output
-        git commit -m "temp data"
-        git checkout wiki-data
-        git checkout --force wiki-data-temp ./output
-        git config --unset user.name
-        git config --unset user.email
-    - name: Get current date
-      id: date
-      run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-    - uses: peter-evans/create-pull-request@v5
-      with:
-        token: ${{ secrets.PAT }}
-        add-paths: |
-          output/
-        branch: wiki-data-${{ steps.date.outputs.date }}
-        base: wiki-data
-        title: Wiki scrape data ${{ steps.date.outputs.date }}
-        commit-message: Wiki scrape data ${{ steps.date.outputs.date }}
-        delete-branch: true
-    - name: Display output PR
-      if: ${{ steps.cpr.outputs.pull-request-number }}
-      run: |
-        echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
-        echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git worktree add ../data origin/wiki-data
+        rm -rf ../data/output
+        cp -r output ../data/output
+        cd ../data
+        git add -A output
+        git diff --cached --quiet && exit 0
+        git commit -m "Wiki scrape data $(date +'%Y-%m-%d')"
+        git push origin HEAD:wiki-data
