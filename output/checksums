@@ -2,7 +2,7 @@
   "items-drop-sources.min.json": "aac6a27a1bb57ca1a480c3eb31c156247b2ca181a847d84046eaad2708a7a2ba",
   "items-info.min.json": "09fa78b8b80dab2dbb08de97f60c64bea6799531bb41e605c9c6586f999155d3",
   "items-production.min.json": "129d848ab696894476a37d139732a28f9c0896cc95d3a6b4928c6c1a6be803d2",
-  "items-shopitems.min.json": "7dc58b5f64b1a9c3b9681e2e30ef178a13a1714c6a626df5d0a236a41a6bb14a",
-  "items-source-locations.min.json": "d89195e5bb32fc51935dad83ef3bb70dab8b8bcdf7275fa40c4eff935592ad4b",
-  "items-spawns.min.json": "d95b637f83ae1bdc5920e391ebcdd7f7cdb66890d909ba589eeb33de2ced3b5e"
+  "items-shopitems.min.json": "128783fc0edebdad40aea15c3dc6476b24222d799eeabda9719b22c02307c9e8",
+  "items-source-locations.min.json": "bcdb392112f2e763c4d680428165320d4046d87bf0f0289f13534241d03c1b09",
+  "items-spawns.min.json": "a706083f34abd176e7d905c99d891c629c4077eac4afbd932919af87073afc24"
 }

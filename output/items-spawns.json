@@ -921,7 +921,7 @@
       {
         "coords": "1922,8967",
         "isMembers": true,
-        "location": "Myths' Guild basement<ref group=\"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Myths' Guild basement",
         "mapID": "31",
         "name": "Blue dragon scale",
         "plane": "0",
@@ -1834,7 +1834,7 @@
       {
         "coords": "2164,2983",
         "isMembers": true,
-        "location": "Isle of Souls - near spinning wheel (telegrab) \nNote: Ironmen cannot loot it.",
+        "location": "Isle of Souls - near spinning wheel (telegrab) Note: Ironmen cannot loot it.",
         "mapID": "0",
         "name": "Box trap",
         "plane": "0",
@@ -1885,7 +1885,7 @@
       {
         "coords": "3191,9820",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Varrock - west bank basement",
         "mapID": "12",
         "name": "Brass necklace",
         "plane": "0",
@@ -3586,7 +3586,7 @@
       {
         "coords": "1689,9661",
         "isMembers": true,
-        "location": "Ruins of Tapoyauik{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Ruins of Tapoyauik",
         "mapID": "-1",
         "name": "Bug lantern",
         "plane": "0",
@@ -3897,7 +3897,7 @@
       {
         "coords": "3141,3452",
         "isMembers": false,
-        "location": "Cooks' Guild  (1st floor)",
+        "location": "Cooks' Guild (1st floor)",
         "mapID": "0",
         "name": "Cake tin",
         "plane": "1",
@@ -4166,7 +4166,7 @@
       {
         "coords": "3390,3268",
         "isMembers": false,
-        "location": "Emir's Arena{{Refn|name=telegrab|This spawn must be telekinetic grabbed.}}",
+        "location": "Emir's Arena",
         "mapID": "0",
         "name": "Cheese",
         "plane": "0",
@@ -4925,7 +4925,7 @@
       {
         "coords": "1356,3040",
         "isMembers": true,
-        "location": "Kastori (1st floor){{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Kastori (1st floor)",
         "mapID": "0",
         "name": "Cooked sweetcorn",
         "plane": "1",
@@ -5934,7 +5934,7 @@
       {
         "coords": "1743,3176",
         "isMembers": true,
-        "location": "Civitas illa Fortis - Thieves hideout (1st floor){{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Civitas illa Fortis - Thieves hideout (1st floor)",
         "mapID": "0",
         "name": "Gold bar",
         "plane": "1",
@@ -5943,7 +5943,7 @@
       {
         "coords": "2057,8985",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon - eastern end{{Refn|name=telegrab}}",
+        "location": "Corsair Cove Dungeon - eastern end",
         "mapID": "31",
         "name": "Gold bar",
         "plane": "0",
@@ -5952,7 +5952,7 @@
       {
         "coords": "1965,9082",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon - northern end{{Refn|name=dragon_slayer|This spawn requires completion of Dragon Slayer I and permission from Haris to access the area.}}",
+        "location": "Corsair Cove Dungeon - northern end",
         "mapID": "31",
         "name": "Gold bar",
         "plane": "0",
@@ -5961,7 +5961,7 @@
       {
         "coords": "3192,9822",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=telegrab,crack_the_clue_iii|This spawn requires telekinetic grab or completion of Crack the Clue III to obtain.}}",
+        "location": "Varrock - west bank basement",
         "mapID": "12",
         "name": "Gold bar",
         "plane": "0",
@@ -5975,7 +5975,7 @@
       {
         "coords": "2068,8986",
         "isMembers": false,
-        "location": "Corsair Cove Dungeon{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.|group=s}}",
+        "location": "Corsair Cove Dungeon",
         "mapID": "31",
         "name": "Gold necklace",
         "plane": "0",
@@ -5984,7 +5984,7 @@
       {
         "coords": "3192,9821",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.|group=s}}",
+        "location": "Varrock - west bank basement",
         "mapID": "12",
         "name": "Gold necklace",
         "plane": "0",
@@ -6043,7 +6043,7 @@
       {
         "coords": "3195,9821",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Varrock - west bank basement",
         "mapID": "12",
         "name": "Gold ore",
         "plane": "0",
@@ -6823,7 +6823,7 @@
       {
         "coords": "1700,3185",
         "isMembers": true,
-        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Civitas illa Fortis",
         "mapID": "0",
         "name": "Iron battleaxe",
         "plane": "0",
@@ -7340,7 +7340,7 @@
       {
         "coords": "1737,3168",
         "isMembers": true,
-        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Civitas illa Fortis",
         "mapID": "0",
         "name": "Jug",
         "plane": "0",
@@ -8743,7 +8743,7 @@
       {
         "coords": "2671,3737",
         "isMembers": true,
-        "location": "Rellekka - on a small island near the rock crabs{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Rellekka - on a small island near the rock crabs",
         "mapID": "0",
         "name": "Nature rune",
         "plane": "0",
@@ -8752,7 +8752,7 @@
       {
         "coords": "3311,3853",
         "isMembers": false,
-        "location": "Wilderness - on a small island south-east of the Demonic Ruins{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Wilderness - on a small island south-east of the Demonic Ruins",
         "mapID": "0",
         "name": "Nature rune",
         "plane": "0",
@@ -9029,7 +9029,7 @@
       {
         "coords": "1417,3065",
         "isMembers": true,
-        "location": "Varlamore - On an island east of Kastori{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain. Only the northernmost spawn is reachable from the east bank of the river. The other two are unreachable.}}",
+        "location": "Varlamore - On an island east of Kastori",
         "mapID": "0",
         "name": "Orange",
         "plane": "0",
@@ -10483,7 +10483,7 @@
       {
         "coords": "3196,9822",
         "isMembers": false,
-        "location": "Varrock - west bank basement{{Refn|name=cracktheclue|This spawn requires completing the steps to obtain the Robes of Ruin from Crack the Clue III to obtain.}}",
+        "location": "Varrock - west bank basement",
         "mapID": "12",
         "name": "Ruby ring",
         "plane": "0",
@@ -10497,7 +10497,7 @@
       {
         "coords": "2679,3740",
         "isMembers": true,
-        "location": "Rellekka - on a small island near the rock crabs{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Rellekka - on a small island near the rock crabs",
         "mapID": "0",
         "name": "Sapphire",
         "plane": "0",
@@ -10652,7 +10652,7 @@
       {
         "coords": "1628,3313",
         "isMembers": true,
-        "location": "Around Salvager Overlook{{Refn|name=telegrab|These spawns require telekinetic grab to obtain. One is not reachable.}}",
+        "location": "Around Salvager Overlook",
         "mapID": "-1",
         "name": "Seaweed",
         "plane": "0",
@@ -11213,7 +11213,7 @@
       {
         "coords": "1736,3168",
         "isMembers": true,
-        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Civitas illa Fortis",
         "mapID": "0",
         "name": "Snape grass",
         "plane": "0",
@@ -12179,7 +12179,7 @@
       {
         "coords": "1737,3169",
         "isMembers": true,
-        "location": "Civitas illa Fortis{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "Civitas illa Fortis",
         "mapID": "0",
         "name": "Tinderbox",
         "plane": "0",
@@ -12440,7 +12440,7 @@
       {
         "coords": "3185,2420",
         "isMembers": true,
-        "location": "The Great Conch{{Refn|name=telegrab|This spawn requires telekinetic grab to obtain.}}",
+        "location": "The Great Conch",
         "mapID": "0",
         "name": "Uncut ruby",
         "plane": "0",
@@ -12772,7 +12772,7 @@
       {
         "coords": "2848,3921",
         "isMembers": true,
-        "location": "Weiss{{Refn|Note that the 4 southern spawns in Weiss must be telegrabbed.|group=s}}",
+        "location": "Weiss",
         "mapID": "0",
         "name": "Wolf bones",
         "plane": "0",

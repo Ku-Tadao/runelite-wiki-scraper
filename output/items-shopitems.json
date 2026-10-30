@@ -4778,7 +4778,7 @@
         "version": null
       }
     ],
-    "location": "1st floor of the Grand Tree. <br/> {{*}} East of the Gnomeball Field",
+    "location": "The 1st floor of the Grand Tree. East of the Gnomeball Field",
     "mapID": "0",
     "name": "Barman (Blurberry Bar)",
     "plane": "0",
@@ -45284,7 +45284,7 @@
         "version": null
       }
     ],
-    "location": "{{FloorNumber|uk=0|caps=y}} of Warriors' Guild",
+    "location": "Ground floor of Warriors' Guild",
     "mapID": "0",
     "name": "Warrior Guild Food Shop",
     "plane": "0",

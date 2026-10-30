@@ -93,7 +93,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Abyssal Area ({{Fairycode|alr}})",
+        "location": "Abyssal Area (ALR)",
         "tiles": "3025,4916,0;3016,4891,0;3018,4902,0;3029,4899,0;3036,4905,0;3023,4877,0;3035,4883,0;3046,4874,0;3046,4887,0;3048,4917,0;3053,4892,0;3056,4909,0;3061,4882,0"
       },
       {
@@ -123,7 +123,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Abyssal Area ({{Fairycode|alr}})",
+        "location": "Abyssal Area (ALR)",
         "tiles": "3025,4916,0;3016,4891,0;3018,4902,0;3029,4899,0;3036,4905,0;3023,4877,0;3035,4883,0;3046,4874,0;3046,4887,0;3048,4917,0;3053,4892,0;3056,4909,0;3061,4882,0"
       },
       {
@@ -153,7 +153,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Abyssal Area ({{Fairycode|alr}})",
+        "location": "Abyssal Area (ALR)",
         "tiles": "3025,4916,0;3016,4891,0;3018,4902,0;3029,4899,0;3036,4905,0;3023,4877,0;3035,4883,0;3046,4874,0;3046,4887,0;3048,4917,0;3053,4892,0;3056,4909,0;3061,4882,0"
       },
       {
@@ -238,7 +238,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Lithkren Vault <ref group=\"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Lithkren Vault",
         "tiles": "1542,5081,0;1543,5067,0;1547,5073,0;1549,5066,0;1550,5079,0"
       }
     ],
@@ -2143,17 +2143,17 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement)<ref group \"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1888,9003,1"
       },
       {
         "isMembers": true,
-        "location": "Evil Chicken's Lair<ref group \"l\">Requires a rope and partial completion of Recipe for Disaster: Sir Amik Varze</ref>",
+        "location": "Evil Chicken's Lair",
         "tiles": "2438,4393,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon (upper level) <ref group \"1\">Requires a black dragon Slayer task.</ref>",
+        "location": "Taverley Dungeon (upper level)",
         "tiles": "2817,9818,1;2820,9819,1;2824,9818,1;2858,9828,1;2862,9826,1"
       }
     ],
@@ -2163,7 +2163,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement)<ref group \"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1897,9001,1;1897,9005,1;1900,8998,1"
       },
       {
@@ -2173,12 +2173,12 @@
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon<ref group \"l\">Requires either a dusty key or {{SCP|Agility|70|link=yes}}.</ref>",
+        "location": "Taverley Dungeon",
         "tiles": "2895,9765,0;2895,9769,0;2900,9763,0;2892,9799,0;2904,9796,0;2909,9806,0;2911,9797,0;2911,9808,0;2917,9801,0;2918,9792,0;2923,9793,0;2925,9788,0"
       },
       {
         "isMembers": true,
-        "location": "Ruins of Tapoyauik<ref group \"l\">Requires completion of Heart of Darkness</ref>",
+        "location": "Ruins of Tapoyauik",
         "tiles": "1607,9615,0;1606,9605,0;1611,9613,0;1616,9615,0;1616,9609,0;1614,9604,0;1606,9610,0"
       },
       {
@@ -2198,7 +2198,7 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement)<ref group \"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1900,9010,0"
       }
     ],
@@ -2223,7 +2223,7 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement)<ref group \"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1889,8995,1;1891,8998,1"
       },
       {
@@ -2478,7 +2478,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Feldip Hunter area ({{fairycode|AKS}})",
+        "location": "Feldip Hunter area (AKS)",
         "tiles": "2572,2931,0;2572,2929,0;2575,2926,0;2577,2926,0;2575,2916,0;2584,2914,0;2584,2912,0;2574,2911,0;2574,2909,0;2565,2903,0;2567,2903,0;2573,2898,0;2573,2896,0;2581,2886,0;2581,2884,0"
       }
     ],
@@ -2858,7 +2858,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Dungeon ({{Fairycode|ajr}})",
+        "location": "Fremennik Slayer Dungeon (AJR)",
         "tiles": "2738,10008,0;2740,10003,0;2740,10014,0;2742,10008,0;2743,10018,0;2745,10002,0;2746,10006,0;2746,10015,0"
       },
       {
@@ -3158,7 +3158,7 @@
       },
       {
         "isMembers": true,
-        "location": "South-west of the Kalphite Lair ({{Fairycode|BIQ}})",
+        "location": "South-west of the Kalphite Lair (BIQ)",
         "tiles": "3208,3080,0"
       },
       {
@@ -3658,12 +3658,12 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement) <ref group=\"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1942,8967,0;1946,8971,0"
       },
       {
         "isMembers": true,
-        "location": "Evil Chicken's Lair<ref group=\"l\">Requires partial completion of Recipe for Disaster: Sir Amik Varze</ref>",
+        "location": "Evil Chicken's Lair",
         "tiles": "2448,4359,0;2454,4370,0;2459,4359,0;2460,4376,0"
       },
       {
@@ -3673,17 +3673,17 @@
       },
       {
         "isMembers": true,
-        "location": "Mynydd<ref group=\"l\">Requires completion of Song of the Elves</ref>",
+        "location": "Mynydd",
         "tiles": "2155,3427,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon<ref group=\"l\"> Requires either a dusty key or {{SCP|Agility|70|link=yes}}.</ref>",
+        "location": "Taverley Dungeon",
         "tiles": "2829,9826,0;2835,9824,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon (Upper Level)<ref group=\"l\"> Requires a black dragon Slayer task.</ref>",
+        "location": "Taverley Dungeon (Upper Level)",
         "tiles": "2774,9620,0;2775,9611,0;2775,9642,0;2777,9634,0;2783,9646,0;2785,9616,0;2785,9631,0;2796,9649,0;2798,9617,0;2798,9636,0;2799,9626,0;2807,9622,0"
       },
       {
@@ -3703,12 +3703,12 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement) <ref group=\"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1942,8967,0;1946,8971,0"
       },
       {
         "isMembers": true,
-        "location": "Evil Chicken's Lair<ref group=\"l\">Requires partial completion of Recipe for Disaster: Sir Amik Varze</ref>",
+        "location": "Evil Chicken's Lair",
         "tiles": "2448,4359,0;2454,4370,0;2459,4359,0;2460,4376,0"
       },
       {
@@ -3718,17 +3718,17 @@
       },
       {
         "isMembers": true,
-        "location": "Mynydd<ref group=\"l\">Requires completion of Song of the Elves</ref>",
+        "location": "Mynydd",
         "tiles": "2155,3427,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon<ref group=\"l\"> Requires either a dusty key or {{SCP|Agility|70|link=yes}}.</ref>",
+        "location": "Taverley Dungeon",
         "tiles": "2829,9826,0;2835,9824,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon (Upper Level)<ref group=\"l\"> Requires a black dragon Slayer task.</ref>",
+        "location": "Taverley Dungeon (Upper Level)",
         "tiles": "2774,9620,0;2775,9611,0;2775,9642,0;2777,9634,0;2783,9646,0;2785,9616,0;2785,9631,0;2796,9649,0;2798,9617,0;2798,9636,0;2799,9626,0;2807,9622,0"
       },
       {
@@ -3808,7 +3808,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Feldip Hunter area ({{fairycode|aks}})",
+        "location": "Feldip Hunter area (AKS)",
         "tiles": "2563,2920,0;2551,2915,0;2540,2914,0;2532,2905,0;2540,2898,0;2550,2893,0;2566,2886,0"
       },
       {
@@ -3818,7 +3818,7 @@
       },
       {
         "isMembers": true,
-        "location": "Crypt of Tonali hunter area{{Refn|name=inaccessible|One spawn is completely surrounded by terrain and thus inaccessible.}}",
+        "location": "Crypt of Tonali hunter area",
         "tiles": "1275,3020,0;1293,3021,0;1288,3019,0;1283,3025,0;1288,3028,0;1290,3015,0;1285,3013,0;1281,3017,0;1283,3020,0;1282,3022,0;1286,3023,0;1280,3030,0"
       },
       {
@@ -3833,7 +3833,7 @@
       },
       {
         "isMembers": true,
-        "location": "The Great Conch  ({{fairycode|cjq}})",
+        "location": "The Great Conch (CJQ)",
         "tiles": "3219,2412,0;3220,2437,0;3204,2454,0;3225,2463,0;3232,2468,0;3237,2469,0;3222,2471,0;3229,2471,0;3233,2472,0;3227,2474,0;3226,2483,0;3232,2481,0;3238,2476,0;3243,2480,0;3166,2505,0;3149,2524,0;3126,2478,0;3111,2426,0;3117,2415,0;3136,2399,0;3196,2408,0;3199,2396,0;3216,2391,0;3223,2377,0;3235,2379,0"
       }
     ],
@@ -3968,12 +3968,12 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement){{Refn|Requires completion of Dragon Slayer II.|group=l}}",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1925,8968,1;1928,8973,1;1930,8986,1;1931,8967,1;1931,8979,1"
       },
       {
         "isMembers": true,
-        "location": "Heroes' Guild Basement{{Refn|Requires completion of Heroes' Quest.|group=l}}",
+        "location": "Heroes' Guild Basement",
         "tiles": "2908,9905,0"
       },
       {
@@ -3983,22 +3983,22 @@
       },
       {
         "isMembers": true,
-        "location": "Ogre Enclave{{Refn|Requires completion of Watchtower.|group=l}}",
+        "location": "Ogre Enclave",
         "tiles": "2590,9461,0;2592,9431,0;2609,9459,0;2568,9437,0;2579,9445,0;2604,9443,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon{{NamedRef|Taverley|group=l}}",
+        "location": "Taverley Dungeon",
         "tiles": "2897,9797,0;2899,9802,0;2904,9802,0;2903,9780,0;2903,9786,0;2906,9774,0;2911,9787,0;2912,9779,0;2920,9784,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon (Upper Level){{Refn|Requires a blue dragon Slayer task.|group=l}}{{Refn|Requires either a dusty key or {{SCP|Agility|70|link=yes}}.|name=Taverley|group=l}}",
+        "location": "Taverley Dungeon (Upper Level)",
         "tiles": "2889,9804,1;2891,9810,1;2896,9813,1;2917,9812,1;2922,9809,1;2926,9812,1;2942,9818,1;2944,9809,1;2946,9824,1;2951,9814,1;2953,9827,1;2955,9821,1"
       },
       {
         "isMembers": true,
-        "location": "Ruins of Tapoyauik (Bottom floor){{Refn|Requires completion of Heart of Darkness.|group=l}}",
+        "location": "Ruins of Tapoyauik (Bottom floor)",
         "tiles": "1610,9608,0;1575,9611,0;1576,9605,0;1581,9614,0;1588,9611,0;1589,9605,0;1592,9617,0"
       },
       {
@@ -4458,7 +4458,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Brine Rat Cavern ({{Fairycode|dks}})",
+        "location": "Brine Rat Cavern (DKS)",
         "tiles": "2702,10135,0;2704,10131,0;2705,10133,0;2707,10137,0;2708,10131,0;2710,10134,0;2712,10132,0"
       }
     ],
@@ -4673,7 +4673,7 @@
       },
       {
         "isMembers": true,
-        "location": "Ruins of Tapoyauik<ref group=\"l\">Requires completion of Heart of Darkness.</ref>",
+        "location": "Ruins of Tapoyauik",
         "tiles": "1646,9604,0;1647,9613,0;1652,9608,0;1656,9604,0;1656,9613,0"
       }
     ],
@@ -5248,12 +5248,12 @@
       },
       {
         "isMembers": true,
-        "location": "Feldip Hunter area ({{Fairycode|aks}})",
+        "location": "Feldip Hunter area (AKS)",
         "tiles": "2557,2936,0;2553,2935,0;2557,2932,0;2559,2918,0;2556,2914,0;2559,2911,0;2497,2909,0;2501,2906,0;2497,2901,0;2507,2885,0;2503,2881,0"
       },
       {
         "isMembers": true,
-        "location": "The Great Conch Southern Hunting Area ({{Fairycode|cjq}})",
+        "location": "The Great Conch Southern Hunting Area (CJQ)",
         "tiles": "3255,2378,0;3256,2373,0;3256,2376,0;3258,2379,0;3259,2375,0;3260,2373,0;3261,2376,0;3261,2379,0"
       },
       {
@@ -5263,7 +5263,7 @@
       },
       {
         "isMembers": true,
-        "location": "Red chinchompa hunting ground<ref>Requires completion of Hard Western Provinces Diary.</ref>",
+        "location": "Red chinchompa hunting ground",
         "tiles": "2518,9305,0;2528,9303,0;2518,9302,0;2523,9302,0;2512,9300,0;2529,9300,0;2520,9298,0;2513,9297,0;2525,9296,0;2513,9294,0;2519,9292,0;2528,9292,0;2515,9289,0;2526,9289,0;2520,9288,0"
       },
       {
@@ -5338,12 +5338,12 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Dorgesh-Kaan South Dungeon ({{Fairycode|ajq}})",
+        "location": "Dorgesh-Kaan South Dungeon (AJQ)",
         "tiles": "2712,5215,0;2710,5211,0;2712,5224,0;2711,5203,0;2708,5214,0"
       },
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Dungeon ({{Fairycode|ajr}})",
+        "location": "Fremennik Slayer Dungeon (AJR)",
         "tiles": "2784,9998,0;2795,9994,0;2787,9996,0;2781,10000,0;2785,9992,0;2790,9994,0;2782,9995,0;2793,9998,0"
       },
       {
@@ -5433,7 +5433,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Dorgesh-Kaan South Dungeon ({{Fairycode|ajq}})",
+        "location": "Dorgesh-Kaan South Dungeon (AJQ)",
         "tiles": "2696,5232,0;2697,5234,0;2698,5236,0;2699,5233,0;2700,5235,0;2700,5238,0;2726,5235,0;2728,5236,0;2731,5235,0"
       },
       {
@@ -5518,7 +5518,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Chaos Druid Tower<ref>Chaos Druid Tower north-west of East Ardougne requires 46 Thieving.</ref>",
+        "location": "Chaos Druid Tower",
         "tiles": "2561,3355,0;2561,3357,0;2563,3355,0;2563,3358,0"
       },
       {
@@ -5538,7 +5538,7 @@
       },
       {
         "isMembers": true,
-        "location": "Yanille Agility Dungeon<ref>The chaos druids in Yanille Agility Dungeon require 57 Agility to access if using the northern entrance, or 82 Thieving if using the southern entrance.</ref>",
+        "location": "Yanille Agility Dungeon",
         "tiles": "2611,9483,0;2611,9487,0;2612,9488,0;2613,9482,0;2614,9483,0;2615,9487,0;2616,9484,0;2613,9521,0;2614,9521,0;2614,9525,0;2616,9522,0"
       }
     ],
@@ -5823,7 +5823,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "{{FloorNumber|uk=0|caps=y}} of Dorgesh-Kaan",
+        "location": "Ground floor of Dorgesh-Kaan",
         "tiles": "2695,5304,0;2743,5253,0;2746,5295,0;2749,5324,0;2749,5328,0"
       },
       {
@@ -5843,7 +5843,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "{{FloorNumber|uk=0|caps=y}} of Dorgesh-Kaan",
+        "location": "Ground floor of Dorgesh-Kaan",
         "tiles": "2695,5304,0;2743,5253,0;2746,5295,0;2749,5324,0;2749,5328,0"
       },
       {
@@ -5863,7 +5863,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "{{FloorNumber|uk=0|caps=y}} of Dorgesh-Kaan",
+        "location": "Ground floor of Dorgesh-Kaan",
         "tiles": "2695,5304,0;2743,5253,0;2746,5295,0;2749,5324,0;2749,5328,0"
       },
       {
@@ -6488,7 +6488,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris Hunter area ({{fairycode|AKQ}})",
+        "location": "Piscatoris Hunter area (AKQ)",
         "tiles": "2332,3626,0;2330,3622,0;2341,3618,0;2339,3615,0;2321,3611,0;2316,3606,0;2321,3599,0;2314,3596,0;2339,3593,0;2334,3591,0;2342,3590,0;2360,3569,0;2364,3565,0;2361,3561,0;2315,3549,0;2315,3545,0;2322,3545,0;2350,3540,0;2356,3540,0;2317,3539,0;2354,3536,0;2351,3534,0"
       },
       {
@@ -6498,7 +6498,7 @@
       },
       {
         "isMembers": true,
-        "location": "Isle of Souls ({{fairycode|BJP}})",
+        "location": "Isle of Souls (BJP)",
         "tiles": "2126,2952,0;2129,2953,0;2128,2951,0;2126,2949,0;2130,2950,0"
       }
     ],
@@ -8443,7 +8443,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Cave ({{Fairycode|AJR}})",
+        "location": "Fremennik Slayer Cave (AJR)",
         "tiles": "2785,10035,0;2786,10038,0;2789,10032,0;2791,10036,0;2795,10033,0;2797,10036,0;2799,10031,0"
       }
     ],
@@ -8643,7 +8643,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris Hunter area ({{Fairycode|akq}})",
+        "location": "Piscatoris Hunter area (AKQ)",
         "tiles": "2322,3576,1;2331,3562,1;2341,3577,1"
       }
     ],
@@ -8693,7 +8693,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris Hunter area ({{Fairycode|AKQ}})",
+        "location": "Piscatoris Hunter area (AKQ)",
         "tiles": "2341,3604,0;2345,3601,0;2341,3599,0;2307,3596,0;2305,3593,0;2309,3593,0;2360,3591,0;2364,3591,0;2362,3588,0;2310,3587,0;2315,3587,0;2354,3587,0;2313,3584,0;2352,3584,0;2357,3584,0"
       },
       {
@@ -10058,7 +10058,7 @@
       },
       {
         "isMembers": true,
-        "location": "Near the Ruins of Ullek<ref group=\"\" name=\"Ullek\">Players will not need to drink from waterskins in the grassy area near the water.</ref>",
+        "location": "Near the Ruins of Ullek",
         "tiles": "3412,2774,0;3416,2773,0;3416,2777,0;3417,2764,0;3418,2782,0;3418,2788,0;3421,2772,0;3424,2761,0;3424,2767,0;3425,2783,0;3428,2774,0;3428,2790,0"
       }
     ],
@@ -10088,7 +10088,7 @@
       },
       {
         "isMembers": true,
-        "location": "Near the Ruins of Ullek<ref group=\"\" name=\"Ullek\">Players will not need to drink from waterskins in the grassy area near the water.</ref>",
+        "location": "Near the Ruins of Ullek",
         "tiles": "3412,2774,0;3416,2773,0;3416,2777,0;3417,2764,0;3418,2782,0;3418,2788,0;3421,2772,0;3424,2761,0;3424,2767,0;3425,2783,0;3428,2774,0;3428,2790,0"
       }
     ],
@@ -10208,7 +10208,7 @@
     "locations": [
       {
         "isMembers": false,
-        "location": "1st floor of  Morgan's home in Draynor Village",
+        "location": "1st floor of Morgan's home in Draynor Village",
         "tiles": "3096,3269,1"
       }
     ],
@@ -10613,7 +10613,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris falconry area ({{Fairycode|AKQ}})",
+        "location": "Piscatoris falconry area (AKQ)",
         "tiles": "2389,3598,0;2368,3594,0;2388,3590,0;2368,3589,0;2380,3581,0;2365,3579,0;2374,3575,0"
       }
     ],
@@ -10793,7 +10793,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris falconry area ({{Fairycode|AKQ}})",
+        "location": "Piscatoris falconry area (AKQ)",
         "tiles": "2390,3588,0;2375,3578,0;2367,3576,0"
       }
     ],
@@ -12243,7 +12243,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Haunted Woods {{Fairycode|ALQ}}",
+        "location": "Haunted Woods ALQ",
         "tiles": "3614,3431,0;3630,3430,0;3617,3477,0;3631,3471,0;3632,3459,0;3632,3475,0;3638,3472,0;3646,3467,0;3607,3466,0;3631,3499,0;3585,3478,0;3586,3480,0;3586,3496,0;3592,3477,0;3593,3458,0;3593,3508,0;3595,3491,0;3597,3479,0;3618,3514,0"
       },
       {
@@ -13288,7 +13288,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "North-eastern Karamja {{Fairycode|dkp}}",
+        "location": "North-eastern Karamja DKP",
         "tiles": "2899,3119,0;2912,3119,0;2768,3165,0;2928,3112,0"
       }
     ],
@@ -13298,7 +13298,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Holy Lake south of Tai Bwo Wannai Village {{Fairycode|ckr}}",
+        "location": "Holy Lake south of Tai Bwo Wannai Village CKR",
         "tiles": "2791,3019,0;2801,3010,0;2807,3021,0"
       }
     ],
@@ -14148,7 +14148,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Grimstone Dungeon ({{Fairycode|DLP}})",
+        "location": "Grimstone Dungeon (DLP)",
         "tiles": "2851,10455,0;2851,10471,0;2853,10462,0;2860,10466,0;2862,10449,0;2862,10458,0;2864,10473,0;2873,10451,0;2872,10463,0;2874,10471,0;2889,10466,0;2890,10454,0;2894,10461,0;2895,10467,0;2898,10456,0;2898,10473,0;2900,10465,0;2905,10459,0;2911,10458,0;2913,10465,0"
       }
     ],
@@ -14303,7 +14303,7 @@
       },
       {
         "isMembers": true,
-        "location": "Keldagrim (partial completion of {{SCP|Quest}} The Giant Dwarf)",
+        "location": "Keldagrim (partial completion of The Giant Dwarf)",
         "tiles": "2887,10210,0"
       },
       {
@@ -14313,12 +14313,12 @@
       },
       {
         "isMembers": true,
-        "location": "Prifddinas (completion of {{SCP|Quest}} Song of the Elves)",
+        "location": "Prifddinas (completion of Song of the Elves)",
         "tiles": "3277,6101,0"
       },
       {
         "isMembers": true,
-        "location": "Civitas illa Fortis (completion of {{SCP|Quest}} Children of the Sun)",
+        "location": "Civitas illa Fortis (completion of Children of the Sun)",
         "tiles": "1674,3101,0;1676,3098,0"
       }
     ],
@@ -14583,22 +14583,22 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Waterbirth Island Dungeon sublevel 1{{Refn|In Waterbirth Island Dungeon a partner or a pet rock is required to open the door|name=wbid|group=T}}",
+        "location": "Waterbirth Island Dungeon sublevel 1",
         "tiles": "2497,10165,0;2500,10162,0;2504,10161,0;2504,10166,0;2508,10159,0;2508,10164,0;2512,10160,0;2513,10164,0;2516,10161,0;2518,10165,0;2521,10158,0;2521,10163,0;2523,10166,0;2526,10163,0;2528,10161,0;2531,10165,0;2532,10160,0;2536,10162,0;2537,10158,0;2538,10166,0;2540,10162,0;2542,10166,0;2544,10158,0;2546,10150,0;2546,10155,0;2546,10165,0;2549,10153,0"
       },
       {
         "isMembers": true,
-        "location": "Waterbirth Island Dungeon sublevel 2{{NamedRef|name=wbid|group=T}}",
+        "location": "Waterbirth Island Dungeon sublevel 2",
         "tiles": "1803,4365,2;1805,4370,2;1810,4363,2;1817,4362,2;1817,4367,2"
       },
       {
         "isMembers": true,
-        "location": "Waterbirth Island Dungeon sublevel 3{{NamedRef|name=wbid|group=T}}",
+        "location": "Waterbirth Island Dungeon sublevel 3",
         "tiles": "1829,4407,3;1835,4396,3;1836,4403,3;1841,4399,3;1842,4405,3;1849,4406,3"
       },
       {
         "isMembers": true,
-        "location": "Waterbirth Island Dungeon sublevel 5{{NamedRef|name=wbid|group=T}}",
+        "location": "Waterbirth Island Dungeon sublevel 5",
         "tiles": "2631,9751,0;2641,9742,0;2657,9737,0"
       },
       {
@@ -14608,7 +14608,7 @@
       },
       {
         "isMembers": true,
-        "location": "Isle of Serpents {{Refn|Inaccessible as the island cannot be moored on|name=ios|group=T}}",
+        "location": "Isle of Serpents",
         "tiles": "1838,2433,0;1841,2434,0;1845,2439,0;1849,2444,0;1846,2447,0;1851,2448,0;1850,2453,0;1855,2450,0;1855,2443,0"
       }
     ],
@@ -15518,7 +15518,7 @@
       },
       {
         "isMembers": true,
-        "location": "South-west of the Kalphite Lair ({{Fairycode|BIQ}})",
+        "location": "South-west of the Kalphite Lair (BIQ)",
         "tiles": "3206,3082,0;3207,3081,0;3207,3083,0;3208,3082,0;3209,3081,0"
       },
       {
@@ -16573,7 +16573,7 @@
       },
       {
         "isMembers": true,
-        "location": "Gorak Plane {{Fairycode|DIR}}",
+        "location": "Gorak Plane DIR",
         "tiles": "3023,5339,0;3023,5350,0;3033,5343,0;3035,5350,0;3037,5330,0;3038,5344,0;3038,5361,0;3040,5351,0;3042,5347,0;3052,5344,0;3052,5353,0"
       }
     ],
@@ -16593,7 +16593,7 @@
       },
       {
         "isMembers": true,
-        "location": "Gorak Plane {{Fairycode|DIR}}",
+        "location": "Gorak Plane DIR",
         "tiles": "3023,5339,0;3023,5350,0;3033,5343,0;3035,5350,0;3037,5330,0;3038,5344,0;3038,5361,0;3040,5351,0;3042,5347,0;3052,5344,0;3052,5353,0"
       }
     ],
@@ -17148,7 +17148,7 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement)<ref group \"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1939,8991,0;1944,8996,0"
       }
     ],
@@ -17183,7 +17183,7 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement)<ref group \"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1939,8991,0;1944,8996,0"
       }
     ],
@@ -17983,7 +17983,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "North-east of Tai Bwo Wannai ({{Fairycode|dkp}})",
+        "location": "North-east of Tai Bwo Wannai (DKP)",
         "tiles": "2854,3106,0;2859,3106,0;2863,3109,0;2863,3115,0;2867,3105,0;2870,3112,0;2872,3117,0;2873,3108,0;2875,3123,0;2878,3114,0;2880,3112,0;2882,3115,0;2886,3116,0;2889,3113,0"
       },
       {
@@ -18398,7 +18398,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Outside of the Wilderness Resource Area<ref group=c name=cannon>Dwarf multicannon can be placed.</ref>",
+        "location": "Outside of the Wilderness Resource Area",
         "tiles": "3169,3956,0;3172,3944,0;3176,3950,0;3180,3906,0;3180,3917,0;3191,3914,0"
       },
       {
@@ -18408,12 +18408,12 @@
       },
       {
         "isMembers": true,
-        "location": "Stronghold Slayer Cave<ref group=c name=cannon/><ref group=c name=taskonly>Can only be fought while on a Hellhound Slayer task.</ref>",
+        "location": "Stronghold Slayer Cave",
         "tiles": "2409,9786,0;2412,9784,0;2415,9786,0;2426,9773,0;2426,9782,0;2429,9770,0;2429,9786,0;2430,9775,0;2410,9801,0;2413,9797,0;2417,9796,0;2433,9771,0;2433,9784,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon<ref group=c name=cannon/>",
+        "location": "Taverley Dungeon",
         "tiles": "2851,9849,0;2855,9837,0;2856,9847,0;2857,9841,0;2859,9852,0;2861,9837,0;2864,9851,0;2867,9840,0;2868,9833,0;2869,9829,0;2870,9826,0;2871,9819,0;2871,9822,0"
       },
       {
@@ -18428,12 +18428,12 @@
       },
       {
         "isMembers": true,
-        "location": "Karuulm Slayer Dungeon<ref group=c name=cannon/>",
+        "location": "Karuulm Slayer Dungeon",
         "tiles": "1200,10263,0;1201,10268,0;1205,10261,0;1207,10258,0;1210,10262,0;1186,10258,0;1190,10256,0;1190,10264,0;1192,10276,0;1195,10273,0;1196,10262,0;1196,10266,0"
       },
       {
         "isMembers": true,
-        "location": "Buccaneers' Laboratory<ref group=c name=cannon/>",
+        "location": "Buccaneers' Laboratory",
         "tiles": "2075,10072,0;2078,10070,0;2076,10067,0;2081,10067,0;2082,10072,0"
       },
       {
@@ -18443,7 +18443,7 @@
       },
       {
         "isMembers": true,
-        "location": "Wilderness Slayer Cave<ref group=c name=cannon/>",
+        "location": "Wilderness Slayer Cave",
         "tiles": "3439,10082,0;3439,10088,0;3444,10077,0;3444,10096,0;3445,10085,0;3443,10081,0;3444,10089,0;3440,10085,0;3443,10093,0"
       }
     ],
@@ -18453,7 +18453,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Outside of the Wilderness Resource Area<ref group=c name=cannon>Dwarf multicannon can be placed.</ref>",
+        "location": "Outside of the Wilderness Resource Area",
         "tiles": "3169,3956,0;3172,3944,0;3176,3950,0;3180,3906,0;3180,3917,0;3191,3914,0"
       },
       {
@@ -18463,12 +18463,12 @@
       },
       {
         "isMembers": true,
-        "location": "Stronghold Slayer Cave<ref group=c name=cannon/><ref group=c name=taskonly>Can only be fought while on a Hellhound Slayer task.</ref>",
+        "location": "Stronghold Slayer Cave",
         "tiles": "2409,9786,0;2412,9784,0;2415,9786,0;2426,9773,0;2426,9782,0;2429,9770,0;2429,9786,0;2430,9775,0;2410,9801,0;2413,9797,0;2417,9796,0;2433,9771,0;2433,9784,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon<ref group=c name=cannon/>",
+        "location": "Taverley Dungeon",
         "tiles": "2851,9849,0;2855,9837,0;2856,9847,0;2857,9841,0;2859,9852,0;2861,9837,0;2864,9851,0;2867,9840,0;2868,9833,0;2869,9829,0;2870,9826,0;2871,9819,0;2871,9822,0"
       },
       {
@@ -18483,12 +18483,12 @@
       },
       {
         "isMembers": true,
-        "location": "Karuulm Slayer Dungeon<ref group=c name=cannon/>",
+        "location": "Karuulm Slayer Dungeon",
         "tiles": "1200,10263,0;1201,10268,0;1205,10261,0;1207,10258,0;1210,10262,0;1186,10258,0;1190,10256,0;1190,10264,0;1192,10276,0;1195,10273,0;1196,10262,0;1196,10266,0"
       },
       {
         "isMembers": true,
-        "location": "Buccaneers' Laboratory<ref group=c name=cannon/>",
+        "location": "Buccaneers' Laboratory",
         "tiles": "2075,10072,0;2078,10070,0;2076,10067,0;2081,10067,0;2082,10072,0"
       },
       {
@@ -18498,7 +18498,7 @@
       },
       {
         "isMembers": true,
-        "location": "Wilderness Slayer Cave<ref group=c name=cannon/>",
+        "location": "Wilderness Slayer Cave",
         "tiles": "3439,10082,0;3439,10088,0;3444,10077,0;3444,10096,0;3445,10085,0;3443,10081,0;3444,10089,0;3440,10085,0;3443,10093,0"
       }
     ],
@@ -18508,7 +18508,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Outside of the Wilderness Resource Area<ref group=c name=cannon>Dwarf multicannon can be placed.</ref>",
+        "location": "Outside of the Wilderness Resource Area",
         "tiles": "3169,3956,0;3172,3944,0;3176,3950,0;3180,3906,0;3180,3917,0;3191,3914,0"
       },
       {
@@ -18518,12 +18518,12 @@
       },
       {
         "isMembers": true,
-        "location": "Stronghold Slayer Cave<ref group=c name=cannon/><ref group=c name=taskonly>Can only be fought while on a Hellhound Slayer task.</ref>",
+        "location": "Stronghold Slayer Cave",
         "tiles": "2409,9786,0;2412,9784,0;2415,9786,0;2426,9773,0;2426,9782,0;2429,9770,0;2429,9786,0;2430,9775,0;2410,9801,0;2413,9797,0;2417,9796,0;2433,9771,0;2433,9784,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon<ref group=c name=cannon/>",
+        "location": "Taverley Dungeon",
         "tiles": "2851,9849,0;2855,9837,0;2856,9847,0;2857,9841,0;2859,9852,0;2861,9837,0;2864,9851,0;2867,9840,0;2868,9833,0;2869,9829,0;2870,9826,0;2871,9819,0;2871,9822,0"
       },
       {
@@ -18538,12 +18538,12 @@
       },
       {
         "isMembers": true,
-        "location": "Karuulm Slayer Dungeon<ref group=c name=cannon/>",
+        "location": "Karuulm Slayer Dungeon",
         "tiles": "1200,10263,0;1201,10268,0;1205,10261,0;1207,10258,0;1210,10262,0;1186,10258,0;1190,10256,0;1190,10264,0;1192,10276,0;1195,10273,0;1196,10262,0;1196,10266,0"
       },
       {
         "isMembers": true,
-        "location": "Buccaneers' Laboratory<ref group=c name=cannon/>",
+        "location": "Buccaneers' Laboratory",
         "tiles": "2075,10072,0;2078,10070,0;2076,10067,0;2081,10067,0;2082,10072,0"
       },
       {
@@ -18553,7 +18553,7 @@
       },
       {
         "isMembers": true,
-        "location": "Wilderness Slayer Cave<ref group=c name=cannon/>",
+        "location": "Wilderness Slayer Cave",
         "tiles": "3439,10082,0;3439,10088,0;3444,10077,0;3444,10096,0;3445,10085,0;3443,10081,0;3444,10089,0;3440,10085,0;3443,10093,0"
       }
     ],
@@ -18563,7 +18563,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Outside of the Wilderness Resource Area<ref group=c name=cannon>Dwarf multicannon can be placed.</ref>",
+        "location": "Outside of the Wilderness Resource Area",
         "tiles": "3169,3956,0;3172,3944,0;3176,3950,0;3180,3906,0;3180,3917,0;3191,3914,0"
       },
       {
@@ -18573,12 +18573,12 @@
       },
       {
         "isMembers": true,
-        "location": "Stronghold Slayer Cave<ref group=c name=cannon/><ref group=c name=taskonly>Can only be fought while on a Hellhound Slayer task.</ref>",
+        "location": "Stronghold Slayer Cave",
         "tiles": "2409,9786,0;2412,9784,0;2415,9786,0;2426,9773,0;2426,9782,0;2429,9770,0;2429,9786,0;2430,9775,0;2410,9801,0;2413,9797,0;2417,9796,0;2433,9771,0;2433,9784,0"
       },
       {
         "isMembers": true,
-        "location": "Taverley Dungeon<ref group=c name=cannon/>",
+        "location": "Taverley Dungeon",
         "tiles": "2851,9849,0;2855,9837,0;2856,9847,0;2857,9841,0;2859,9852,0;2861,9837,0;2864,9851,0;2867,9840,0;2868,9833,0;2869,9829,0;2870,9826,0;2871,9819,0;2871,9822,0"
       },
       {
@@ -18593,12 +18593,12 @@
       },
       {
         "isMembers": true,
-        "location": "Karuulm Slayer Dungeon<ref group=c name=cannon/>",
+        "location": "Karuulm Slayer Dungeon",
         "tiles": "1200,10263,0;1201,10268,0;1205,10261,0;1207,10258,0;1210,10262,0;1186,10258,0;1190,10256,0;1190,10264,0;1192,10276,0;1195,10273,0;1196,10262,0;1196,10266,0"
       },
       {
         "isMembers": true,
-        "location": "Buccaneers' Laboratory<ref group=c name=cannon/>",
+        "location": "Buccaneers' Laboratory",
         "tiles": "2075,10072,0;2078,10070,0;2076,10067,0;2081,10067,0;2082,10072,0"
       },
       {
@@ -18608,7 +18608,7 @@
       },
       {
         "isMembers": true,
-        "location": "Wilderness Slayer Cave<ref group=c name=cannon/>",
+        "location": "Wilderness Slayer Cave",
         "tiles": "3439,10082,0;3439,10088,0;3444,10077,0;3444,10096,0;3445,10085,0;3443,10081,0;3444,10089,0;3440,10085,0;3443,10093,0"
       }
     ],
@@ -19148,7 +19148,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Karamja Hunter area ({{fairycode|CKR}})",
+        "location": "Karamja Hunter area (CKR)",
         "tiles": "2766,3008,0;2767,3005,0;2774,3002,0;2781,3001,0"
       }
     ],
@@ -19218,7 +19218,7 @@
     "locations": [
       {
         "isMembers": false,
-        "location": "Frozen Waste Plateau (Wilderness){{Refn|name=Waste plateau|The Ice Giants located at the Frozen Waste Plateau span both in a free-to-play (5 total) area and a members only area (4 total).}}",
+        "location": "Frozen Waste Plateau (Wilderness)",
         "tiles": "2947,3921,0;2950,3932,0;2955,3945,0;2978,3956,0;2947,3895,0;2952,3902,0;2953,3889,0;2954,3894,0;2958,3898,0"
       },
       {
@@ -19228,7 +19228,7 @@
       },
       {
         "isMembers": true,
-        "location": "White Wolf Mountain On top{{Refn|name=pick|Requires a pickaxe and 50 Mining to access.}}",
+        "location": "White Wolf Mountain On top",
         "tiles": "2817,3514,0;2824,3510,0;2804,3507,0;2811,3506,0"
       },
       {
@@ -19238,7 +19238,7 @@
       },
       {
         "isMembers": true,
-        "location": "Ice Queen's Lair{{NamedRef|name=pick}}",
+        "location": "Ice Queen's Lair",
         "tiles": "2880,9927,0;2883,9932,0;2883,9965,0;2884,9959,0;2887,9955,0;2890,9950,0;2891,9941,0"
       },
       {
@@ -19258,7 +19258,7 @@
     "locations": [
       {
         "isMembers": false,
-        "location": "Frozen Waste Plateau (Wilderness){{Refn|name=Waste plateau|The Ice Giants located at the Frozen Waste Plateau span both in a free-to-play (5 total) area and a members only area (4 total).}}",
+        "location": "Frozen Waste Plateau (Wilderness)",
         "tiles": "2947,3921,0;2950,3932,0;2955,3945,0;2978,3956,0;2947,3895,0;2952,3902,0;2953,3889,0;2954,3894,0;2958,3898,0"
       },
       {
@@ -19268,7 +19268,7 @@
       },
       {
         "isMembers": true,
-        "location": "White Wolf Mountain On top{{Refn|name=pick|Requires a pickaxe and 50 Mining to access.}}",
+        "location": "White Wolf Mountain On top",
         "tiles": "2817,3514,0;2824,3510,0;2804,3507,0;2811,3506,0"
       },
       {
@@ -19278,7 +19278,7 @@
       },
       {
         "isMembers": true,
-        "location": "Ice Queen's Lair{{NamedRef|name=pick}}",
+        "location": "Ice Queen's Lair",
         "tiles": "2880,9927,0;2883,9932,0;2883,9965,0;2884,9959,0;2887,9955,0;2890,9950,0;2891,9941,0"
       },
       {
@@ -21418,7 +21418,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Dungeon ({{Fairycode|AJR}})",
+        "location": "Fremennik Slayer Dungeon (AJR)",
         "tiles": "2699,10029,0;2701,10023,0;2701,10027,0;2703,10025,0;2703,10031,0;2704,10028,0;2706,10029,0;2708,10024,0;2708,10027,0;2711,10029,0"
       },
       {
@@ -21438,7 +21438,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Dungeon ({{Fairycode|AJR}})",
+        "location": "Fremennik Slayer Dungeon (AJR)",
         "tiles": "2699,10029,0;2701,10023,0;2701,10027,0;2703,10025,0;2703,10031,0;2704,10028,0;2706,10029,0;2708,10024,0;2708,10027,0;2711,10029,0"
       },
       {
@@ -21788,7 +21788,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Killerwatt plane<ref group=\"l\">Requires completion of Ernest the Chicken</ref>",
+        "location": "Killerwatt plane",
         "tiles": "2642,5202,0;2642,5212,0;2643,5224,0;2644,5206,0;2646,5226,0;2647,5198,0;2647,5219,0;2650,5211,0;2651,5204,0;2652,5230,0;2655,5225,0;2656,5210,0;2656,5218,0;2657,5229,0;2660,5199,0;2663,5211,0;2663,5223,0;2664,5201,0;2666,5197,0;2666,5216,0;2666,5222,0;2669,5204,0;2671,5226,0;2672,5211,0;2673,5201,0;2675,5215,0"
       }
     ],
@@ -22003,7 +22003,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Dungeon {{Fairycode|AJR}}",
+        "location": "Fremennik Slayer Dungeon AJR",
         "tiles": "2694,9995,0;2694,9999,0;2698,9992,0;2699,10001,0;2701,9996,0"
       },
       {
@@ -22628,7 +22628,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Kharidian Desert ({{Fairycode|DLQ}})",
+        "location": "Kharidian Desert (DLQ)",
         "tiles": "3387,3068,0;3441,3061,0;3445,3034,0;3404,3062,0;3387,3017,0"
       }
     ],
@@ -23268,7 +23268,7 @@
       },
       {
         "isMembers": true,
-        "location": "Etceteria (no logs)<ref group=n>Mahogany trees can only be chopped in Etceteria with Queen Sigrid's approval upon completion of Royal Trouble and '''do not''' reward logs.</ref>",
+        "location": "Etceteria (no logs)",
         "tiles": "2598,3894,0;2607,3895,0;2613,3890,0"
       },
       {
@@ -23278,7 +23278,7 @@
       },
       {
         "isMembers": true,
-        "location": "Hardwood Grove<ref group=n>Players must pay 100 trading sticks to Murcaily in order to enter. Free entry if the Elite Karamja Diary is completed.</ref>",
+        "location": "Hardwood Grove",
         "tiles": "2819,3079,0;2819,3087,0;2821,3083,0;2823,3079,0"
       },
       {
@@ -23308,7 +23308,7 @@
       },
       {
         "isMembers": true,
-        "location": "Tlati Rainforest<ref group=n>Level 43 Agility required to access</ref>",
+        "location": "Tlati Rainforest",
         "tiles": "1256,3005,0;1257,2999,0;1263,2998,0;1267,3001,0"
       },
       {
@@ -23318,7 +23318,7 @@
       },
       {
         "isMembers": true,
-        "location": "East side of The Great Conch<ref group=n>Partial completion of Troubled Tortugans is required to access The Great Conch.</ref>",
+        "location": "East side of The Great Conch",
         "tiles": "3248,2396,0;3244,2400,0"
       },
       {
@@ -23338,7 +23338,7 @@
       },
       {
         "isMembers": true,
-        "location": "Etceteria (no logs)<ref group=n>Mahogany trees can only be chopped in Etceteria with Queen Sigrid's approval upon completion of Royal Trouble and '''do not''' reward logs.</ref>",
+        "location": "Etceteria (no logs)",
         "tiles": "2598,3894,0;2607,3895,0;2613,3890,0"
       },
       {
@@ -23348,7 +23348,7 @@
       },
       {
         "isMembers": true,
-        "location": "Hardwood Grove<ref group=n>Players must pay 100 trading sticks to Murcaily in order to enter. Free entry if the Elite Karamja Diary is completed.</ref>",
+        "location": "Hardwood Grove",
         "tiles": "2819,3079,0;2819,3087,0;2821,3083,0;2823,3079,0"
       },
       {
@@ -23378,7 +23378,7 @@
       },
       {
         "isMembers": true,
-        "location": "Tlati Rainforest<ref group=n>Level 43 Agility required to access</ref>",
+        "location": "Tlati Rainforest",
         "tiles": "1256,3005,0;1257,2999,0;1263,2998,0;1267,3001,0"
       },
       {
@@ -23388,7 +23388,7 @@
       },
       {
         "isMembers": true,
-        "location": "East side of The Great Conch<ref group=n>Partial completion of Troubled Tortugans is required to access The Great Conch.</ref>",
+        "location": "East side of The Great Conch",
         "tiles": "3248,2396,0;3244,2400,0"
       },
       {
@@ -23808,7 +23808,7 @@
       },
       {
         "isMembers": true,
-        "location": "North of East Ardougne{{refn|group=note|The Medium Ardougne Diary reward does not apply here{{CiteTwitter|author=Mod Ash|url=https://twitter.com/JagexAsh/status/886602198699974656|date=16 July 2017|archiveurl=https://archive.is/YiyvS|archivedate=30 May 2020|quote=Does the master farmer north of ardy count as \"in\" ardy for the medium diary? No, that's a bit too far outside the city.}}}}",
+        "location": "North of East Ardougne",
         "tiles": "2636,3364,0"
       },
       {
@@ -24893,7 +24893,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Mudskipper Point ({{Fairycode|aiq}})",
+        "location": "Mudskipper Point (AIQ)",
         "tiles": "2982,3113,0;2996,3106,0;3005,3117,0"
       }
     ],
@@ -24923,7 +24923,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Dorgesh-Kaan South Dungeon ({{Fairycode|ajq}})",
+        "location": "Dorgesh-Kaan South Dungeon (AJQ)",
         "tiles": "2703,5227,0;2704,5215,0;2712,5193,0;2713,5213,0;2727,5234,0;2730,5205,0;2732,5221,0;2740,5209,0;2742,5231,0;2747,5206,0"
       }
     ],
@@ -25333,7 +25333,7 @@
       },
       {
         "isMembers": true,
-        "location": "North east of Prifddinas{{efn|Cannot actually be fought, as this particular giant is only visible when the player is inside the walls of Prifddinas.}}",
+        "location": "North east of Prifddinas",
         "tiles": "2301,3381,0"
       },
       {
@@ -25418,7 +25418,7 @@
       },
       {
         "isMembers": true,
-        "location": "North east of Prifddinas{{efn|Cannot actually be fought, as this particular giant is only visible when the player is inside the walls of Prifddinas.}}",
+        "location": "North east of Prifddinas",
         "tiles": "2301,3381,0"
       },
       {
@@ -25538,22 +25538,22 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Mouse hole ({{FloorNumber|uk=0|caps=y}})",
+        "location": "Mouse hole (Ground floor)",
         "tiles": "2278,5533,0;2278,5549,0;2267,5516,0"
       },
       {
         "isMembers": true,
-        "location": "Mouse hole ({{FloorNumber|uk=1|nohelp=y}})",
+        "location": "Mouse hole (1st floor)",
         "tiles": "2278,5545,1;2267,5516,1;2277,5525,1"
       },
       {
         "isMembers": true,
-        "location": "Mouse hole ({{FloorNumber|uk=2|nohelp=y}})",
+        "location": "Mouse hole (2nd floor)",
         "tiles": "2270,5516,2;2277,5526,2;2279,5541,2;2279,5554,2"
       },
       {
         "isMembers": true,
-        "location": "Mouse hole ({{FloorNumber|uk=3|nohelp=y}})",
+        "location": "Mouse hole (3rd floor)",
         "tiles": "2264,5516,3;2278,5544,3;2278,5523,3"
       }
     ],
@@ -26418,17 +26418,17 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Abalone Cliffs ({{Fairycode|cjq}})",
+        "location": "Abalone Cliffs (CJQ)",
         "tiles": "3124,2526,0;3119,2526,0;3122,2528,0;3120,2530,0;3123,2530,0;3125,2530,0;3123,2533,0;3125,2534,0"
       },
       {
         "isMembers": true,
-        "location": "Uzer Hunter area ({{Fairycode|dlq}})",
+        "location": "Uzer Hunter area (DLQ)",
         "tiles": "3402,3134,0;3405,3133,0;3407,3132,0;3405,3101,0;3408,3095,0;3403,3090,0;3410,3088,0;3412,3081,0;3415,3080,0;3414,3075,0;3417,3073,0"
       },
       {
         "isMembers": true,
-        "location": "Necropolis Hunter area ({{Fairycode|akp}})",
+        "location": "Necropolis Hunter area (AKP)",
         "tiles": "3287,2739,0;3284,2738,0;3285,2741,0;3289,2737,0;3289,2741,0"
       }
     ],
@@ -26763,7 +26763,7 @@
       },
       {
         "isMembers": true,
-        "location": "North-west of Miscellania ({{Fairycode|AJS}})",
+        "location": "North-west of Miscellania (AJS)",
         "tiles": "2499,3893,0;2499,3896,0;2500,3895,0;2501,3896,0;2501,3897,0;2503,3898,0;2505,3897,0;2505,3899,0"
       }
     ],
@@ -27238,7 +27238,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Rellekka Hunter area ({{Fairycode|dks}})",
+        "location": "Rellekka Hunter area (DKS)",
         "tiles": "2711,3830,1;2717,3819,1"
       }
     ],
@@ -27503,7 +27503,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris Hunter area ({{Fairycode|akq}})",
+        "location": "Piscatoris Hunter area (AKQ)",
         "tiles": "2321,3644,0;2321,3643,0;2308,3642,0;2310,3642,0;2342,3641,0;2343,3641,0;2327,3635,0;2328,3635,0;2336,3632,0;2336,3631,0;2323,3628,0;2324,3628,0;2307,3621,0;2307,3620,0;2323,3614,0;2324,3614,0;2307,3606,0;2307,3605,0;2319,3595,0;2320,3595,0"
       }
     ],
@@ -27613,7 +27613,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Avium Savannah ({{fairycode|AJP}})",
+        "location": "Avium Savannah (AJP)",
         "tiles": "1610,2999,0;1613,2995,0;1613,2999,0;1613,3001,0;1616,3003,0;1617,2994,0;1617,2997,0;1620,3000,0;1621,2996,0;1622,2994,0;1622,3002,0"
       }
     ],
@@ -27623,7 +27623,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Cave ({{Fairycode|ajr}})",
+        "location": "Fremennik Slayer Cave (AJR)",
         "tiles": "2757,10008,0;2758,10001,0;2758,10004,0;2758,10012,0;2760,10007,0;2760,10009,0;2761,9998,0;2761,10003,0;2763,9999,0;2763,10001,0;2763,10007,0;2765,10002,0;2765,10005,0"
       },
       {
@@ -27633,7 +27633,7 @@
       },
       {
         "isMembers": true,
-        "location": "Isle of Souls ({{Fairycode|bjp}})",
+        "location": "Isle of Souls (BJP)",
         "tiles": "2247,2964,0;2251,2966,0;2252,2960,0;2253,2958,0;2254,2967,0;2255,2961,0;2257,2965,0;2259,2958,0;2260,2964,0;2262,2961,0"
       },
       {
@@ -27723,7 +27723,7 @@
       },
       {
         "isMembers": true,
-        "location": "Enchanted Valley ({{fairycode|BKQ}})",
+        "location": "Enchanted Valley (BKQ)",
         "tiles": "3032,4505,0;3034,4505,0;3059,4503,0;3045,4490,0"
       },
       {
@@ -28883,7 +28883,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris hunter area ({{fairycode|AKQ}})",
+        "location": "Piscatoris hunter area (AKQ)",
         "tiles": "2353,3595,0;2360,3611,0;2357,3624,0"
       }
     ],
@@ -28913,7 +28913,7 @@
       },
       {
         "isMembers": true,
-        "location": "Corsair Cove Dungeon/Myths' Guild (basement)<ref group \"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Corsair Cove Dungeon/Myths' Guild (basement)",
         "tiles": "1910,8995,1;1911,9002,1;1918,9005,1"
       },
       {
@@ -29678,12 +29678,12 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Dorgesh-Kaan South Dungeon ({{Fairycode|ajq}})",
+        "location": "Dorgesh-Kaan South Dungeon (AJQ)",
         "tiles": "2729,5223,0"
       },
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Dungeon ({{Fairycode|ajr}})",
+        "location": "Fremennik Slayer Dungeon (AJR)",
         "tiles": "2793,10016,0;2795,10017,0;2798,10018,0;2800,10020,0;2801,10015,0;2803,10017,0;2804,10019,0"
       },
       {
@@ -30423,7 +30423,7 @@
       },
       {
         "isMembers": true,
-        "location": "Piscatoris Hunter area ({{Fairycode|AKQ}})",
+        "location": "Piscatoris Hunter area (AKQ)",
         "tiles": "2315,3613,0;2311,3611,0;2321,3605,0;2316,3603,0;2325,3600,0;2328,3598,0;2319,3597,0;2324,3594,0;2338,3591,0;2334,3586,0;2358,3563,0;2362,3557,0;2349,3554,0;2352,3549,0;2361,3549,0;2339,3546,0;2334,3544,0;2331,3540,0;2342,3540,0;2320,3535,0;2326,3527,0;2343,3525,0"
       },
       {
@@ -30473,7 +30473,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Lithkren Vault<ref group=\"l\">Requires completion of Dragon Slayer II</ref>",
+        "location": "Lithkren Vault",
         "tiles": "1581,5072,0;1582,5079,0;1584,5066,0;1588,5080,0;1590,5067,0"
       }
     ],
@@ -30948,7 +30948,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Rellekka Hunter area ({{Fairycode|dks}})",
+        "location": "Rellekka Hunter area (DKS)",
         "tiles": "2705,3780,0;2715,3779,0;2711,3778,0;2717,3776,0;2707,3774,0;2712,3773,0;2714,3770,0;2716,3770,0;2711,3768,0;2715,3766,0;2715,3764,0;2720,3764,0"
       }
     ],
@@ -30958,7 +30958,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Rellekka Hunter area ({{Fairycode|dks}})",
+        "location": "Rellekka Hunter area (DKS)",
         "tiles": "2708,3796,0;2725,3791,0;2696,3790,0;2702,3790,0;2741,3790,0;2734,3780,0"
       }
     ],
@@ -31198,7 +31198,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Rellekka Hunter area {{fairycode|DKS}}",
+        "location": "Rellekka Hunter area DKS",
         "tiles": "2703,3822,0;2708,3822,0;2715,3808,0;2720,3805,0;2720,3834,0;2734,3823,0;2741,3783,0;2740,3778,0;2730,3778,0;2721,3778,0;2700,3782,0;2704,3797,0"
       },
       {
@@ -32658,7 +32658,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Asgarnian Ice Dungeon ({{Fairycode|AIQ}})",
+        "location": "Asgarnian Ice Dungeon (AIQ)",
         "tiles": "3025,9543,0;3025,9553,0;3033,9554,0;3039,9541,0;3045,9553,0;3057,9539,0;3063,9554,0;3066,9545,0;3040,9569,0;3042,9562,0;3047,9560,0;3066,9562,0;3070,9560,0;3070,9566,0;3070,9586,0;3071,9554,0;3071,9574,0;3071,9581,0;3076,9557,0;3076,9567,0;3076,9578,0;3078,9585,0"
       }
     ],
@@ -33868,12 +33868,12 @@
       },
       {
         "isMembers": true,
-        "location": "Rellekka Hunter area (Upper level) ({{Fairycode|dks}})",
+        "location": "Rellekka Hunter area (Upper level) (DKS)",
         "tiles": "2725,3833,1;2708,3815,1;2730,3806,1"
       },
       {
         "isMembers": true,
-        "location": "Rellekka Hunter area ({{Fairycode|dks}})",
+        "location": "Rellekka Hunter area (DKS)",
         "tiles": "2701,3804,0;2712,3797,0;2737,3792,0;2696,3786,0;2737,3778,0;2714,3777,0"
       },
       {
@@ -34438,7 +34438,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Feldip Hunter area ({{Fairycode|aks}})",
+        "location": "Feldip Hunter area (AKS)",
         "tiles": "2544,2910,0;2550,2904,0;2556,2895,0;2563,2888,0;2573,2883,0"
       }
     ],
@@ -34598,7 +34598,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris falconry area ({{Fairycode|akq}})",
+        "location": "Piscatoris falconry area (AKQ)",
         "tiles": "2391,3592,0;2370,3591,0;2370,3587,0;2384,3586,0;2379,3585,0;2372,3584,0;2382,3584,0"
       }
     ],
@@ -35023,7 +35023,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Avium Savannah ({{fairycode|AJP}})",
+        "location": "Avium Savannah (AJP)",
         "tiles": "1735,3008,0;1738,3003,0;1744,3006,0;1746,3011,0;1749,3016,0;1750,3001,0;1754,3006,0;1755,3013,0;1741,3015,0"
       }
     ],
@@ -35133,7 +35133,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Canifis Hunter area ({{Fairycode|alq}})",
+        "location": "Canifis Hunter area (ALQ)",
         "tiles": "3554,3453,0;3537,3451,0;3552,3450,0;3549,3449,0;3532,3446,0;3537,3445,0;3558,3444,0;3547,3442,0;3554,3440,0;3556,3438,0;3549,3437,0;3562,3435,0"
       },
       {
@@ -35358,7 +35358,7 @@
       },
       {
         "isMembers": true,
-        "location": "Etceteria (no logs)<ref group=n>Teak trees can only be chopped in Etceteria with Queen Sigrid's approval upon completion of Royal Trouble, Miscellania approval rating less than 100%, and '''does not''' reward logs.</ref>",
+        "location": "Etceteria (no logs)",
         "tiles": "2593,3893,0;2595,3893,0;2595,3895,0;2602,3896,0;2603,3897,0;2605,3896,0;2605,3898,0;2608,3899,0;2594,3890,0"
       },
       {
@@ -35368,12 +35368,12 @@
       },
       {
         "isMembers": true,
-        "location": "Kharazi Jungle<ref group=n>Players must partially complete Legends' Quest and get directions to the jungle first.</ref>",
+        "location": "Kharazi Jungle",
         "tiles": "2835,2905,0;2837,2907,0;2837,2911,0;2896,2897,0;2899,2901,0"
       },
       {
         "isMembers": true,
-        "location": "Hardwood Grove<ref group=n>Players must pay 100 trading sticks to Murcaily in order to enter. Free entry if the Elite Karamja Diary is completed.</ref>",
+        "location": "Hardwood Grove",
         "tiles": "2822,3078,0;2823,3088,0;2825,3087,0;2826,3084,0;2827,3080,0;2827,3085,0;2827,3088,0;2828,3079,0;2828,3082,0"
       },
       {
@@ -35413,7 +35413,7 @@
       },
       {
         "isMembers": true,
-        "location": "Fossil Island (hardwood patch)<ref group=n>Up to 3 spawns depending on how many teak trees are fully grown in the patches.</ref>",
+        "location": "Fossil Island (hardwood patch)",
         "tiles": "3702,3837,0;3708,3833,0;3715,3835,0"
       },
       {
@@ -35448,7 +35448,7 @@
       },
       {
         "isMembers": true,
-        "location": "Etceteria (no logs)<ref group=n>Teak trees can only be chopped in Etceteria with Queen Sigrid's approval upon completion of Royal Trouble, Miscellania approval rating less than 100%, and '''does not''' reward logs.</ref>",
+        "location": "Etceteria (no logs)",
         "tiles": "2593,3893,0;2595,3893,0;2595,3895,0;2602,3896,0;2603,3897,0;2605,3896,0;2605,3898,0;2608,3899,0;2594,3890,0"
       },
       {
@@ -35458,12 +35458,12 @@
       },
       {
         "isMembers": true,
-        "location": "Kharazi Jungle<ref group=n>Players must partially complete Legends' Quest and get directions to the jungle first.</ref>",
+        "location": "Kharazi Jungle",
         "tiles": "2835,2905,0;2837,2907,0;2837,2911,0;2896,2897,0;2899,2901,0"
       },
       {
         "isMembers": true,
-        "location": "Hardwood Grove<ref group=n>Players must pay 100 trading sticks to Murcaily in order to enter. Free entry if the Elite Karamja Diary is completed.</ref>",
+        "location": "Hardwood Grove",
         "tiles": "2822,3078,0;2823,3088,0;2825,3087,0;2826,3084,0;2827,3080,0;2827,3085,0;2827,3088,0;2828,3079,0;2828,3082,0"
       },
       {
@@ -35503,7 +35503,7 @@
       },
       {
         "isMembers": true,
-        "location": "Fossil Island (hardwood patch)<ref group=n>Up to 3 spawns depending on how many teak trees are fully grown in the patches.</ref>",
+        "location": "Fossil Island (hardwood patch)",
         "tiles": "3702,3837,0;3708,3833,0;3715,3835,0"
       },
       {
@@ -36613,7 +36613,7 @@
       },
       {
         "isMembers": true,
-        "location": "North-west of {{Fairycode|CKR}} (north-west of Shilo Village)",
+        "location": "North-west of CKR (north-west of Shilo Village)",
         "tiles": "2771,3014,0;2773,3017,0"
       }
     ],
@@ -36658,12 +36658,12 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Feldip Hunter area ({{Fairycode|aks}})",
+        "location": "Feldip Hunter area (AKS)",
         "tiles": "2523,2939,0;2526,2939,0;2525,2933,0;2511,2914,0;2515,2914,0;2513,2911,0;2502,2892,0;2499,2890,0;2504,2888,0;2543,2887,0;2538,2884,0;2545,2882,0"
       },
       {
         "isMembers": true,
-        "location": "The Great Conch ({{Fairycode|cjq}})",
+        "location": "The Great Conch (CJQ)",
         "tiles": "3138,2480,0;3136,2484,0;3138,2491,0;3141,2487,0;3143,2484,0;3145,2480,0;3143,2476,0;3147,2489,0;3150,2483,0"
       },
       {
@@ -36713,7 +36713,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Fremennik Slayer Dungeon ({{Fairycode|ajr}})",
+        "location": "Fremennik Slayer Dungeon (AJR)",
         "tiles": "2717,10007,0;2718,10006,0;2718,10008,0;2719,10011,0;2720,10003,0;2721,10003,0;2721,10009,0;2721,10014,0;2722,10008,0;2723,9994,0;2723,10002,0;2723,10010,0;2724,9996,0;2724,10013,0;2725,9995,0;2725,10012,0;2726,10010,0;2726,10013,0;2727,9995,0;2727,10011,0;2728,9996,0;2728,9997,0"
       }
     ],
@@ -36923,7 +36923,7 @@
       },
       {
         "isMembers": true,
-        "location": "Ardougne Zoo {{fairycode|BIS}}",
+        "location": "Ardougne Zoo BIS",
         "tiles": "2629,3266,0;2634,3265,0"
       },
       {
@@ -38008,7 +38008,7 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Piscatoris Hunter area({{Fairycode|akq}})",
+        "location": "Piscatoris Hunter area(AKQ)",
         "tiles": "2362,3578,0;2307,3577,0;2309,3577,0;2362,3577,0;2350,3563,0;2351,3563,0;2316,3560,0;2318,3560,0;2330,3552,0;2330,3550,0;2342,3544,0;2343,3544,0;2306,3541,0;2307,3541,0;2363,3540,0;2363,3537,0;2315,3526,0;2315,3523,0;2348,3523,0;2349,3523,0"
       },
       {
