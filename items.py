@@ -465,6 +465,17 @@ def template_params(template: Template) -> Dict[str, str]:
     return {param.name.strip(): param.value.strip() for param in template.params}
 
 
+def version_locations(locations: List[Dict], version: str) -> List[Dict]:
+    # LocLine "dropversion" lists the drop table versions found there, e.g. "Regular, Free-to-play, Level 86";
+    # keep the source's own version, or every location when none is tagged with it
+    wanted = version.strip().lower()
+    matching = [loc for loc in locations
+                if wanted in (v.strip().lower() for v in loc["dropversion"].split(","))]
+    for loc in locations:
+        del loc["dropversion"]
+    return matching if wanted and matching else locations
+
+
 def get_source_locations(drop_names: List[str]):
     print("Scraping drop source locations")
     file_name = "items-source-locations.json"
@@ -482,7 +493,6 @@ def get_source_locations(drop_names: List[str]):
 
         try:
             code = mw.parse(page, skip_style_tags=True)
-            # ponytail: every location on the page, not only the #version's; filter on "dropversion" if this routes wrong
             locations = []
             for line in code.filter_templates(matches=lambda t: t.name.matches("LocLine") or t.name.matches("ObjectLocLine")):
                 params: Dict[str, str] = {}
@@ -497,7 +507,10 @@ def get_source_locations(drop_names: List[str]):
                     "location": format_location(params.get("location", "")),
                     "isMembers": params.get("members", "").lower() in ("yes", "y"),
                     "tiles": ";".join(tiles),
+                    "dropversion": params.get("dropversion", ""),
                 })
+
+            locations = version_locations(locations, source.partition("#")[2])
 
             if not locations:
                 infobox = code.filter_templates(matches=lambda t: str(t.name).strip().startswith("Infobox"))

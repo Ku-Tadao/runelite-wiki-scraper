@@ -1,4 +1,4 @@
-from items import format_location, map_tiles, parse_tiles
+from items import format_location, map_tiles, parse_tiles, version_locations
 
 assert parse_tiles({"1": "3030,3637,qty:5", "name": "Air rune"}, "0") == ["3030,3637,0"]
 assert parse_tiles({"1": "2906,3538,respawn:45"}, "1") == ["2906,3538,1"]
@@ -15,4 +15,10 @@ assert format_location("{{FloorNumber|uk=0|caps=y}} of Dorgesh-Kaan") == "Ground
 assert format_location("1st floor of the Grand Tree. <br/> {{*}} East of the Gnomeball Field") == "1st floor of the Grand Tree. East of the Gnomeball Field"
 assert format_location("[[Varrock]] ({{Floor|2}})") == "Varrock (2nd floor)"
 assert format_location("[[Lumbridge Castle|the castle]]") == "the castle"
+def locs(*versions):
+    return [{"location": str(i), "dropversion": v} for i, v in enumerate(versions)]
+assert [l["location"] for l in version_locations(locs("Regular", "Regular, Free-to-Play", "Wilderness Slayer Cave"), "Free-to-play")] == ["1"]
+assert [l["location"] for l in version_locations(locs("Standard", "Wilderness Slayer Cave"), "Missing")] == ["0", "1"]
+assert [l["location"] for l in version_locations(locs("Standard", ""), "")] == ["0", "1"]
+assert "dropversion" not in version_locations(locs("a"), "a")[0]
 print("parse_tiles ok")
