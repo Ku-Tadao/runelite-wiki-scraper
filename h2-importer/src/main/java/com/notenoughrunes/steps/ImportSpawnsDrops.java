@@ -5,6 +5,8 @@ import com.notenoughrunes.model.NERDropItem;
 import com.notenoughrunes.model.NERDropSource;
 import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERSpawnGroup;
+import com.notenoughrunes.model.NERSourceLocation;
+import com.notenoughrunes.model.NERSourceLocations;
 import com.notenoughrunes.model.NERSpawnItem;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -18,8 +20,9 @@ public class ImportSpawnsDrops implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_SPAWN =
-		"INSERT INTO SPAWN_ITEMS (GROUP_ID, NAME, VERSION, ITEM_ID, COORDS, LOCATION, IS_MEMBERS, PLANE, MAP_ID) VALUES (" +
+		"INSERT INTO SPAWN_ITEMS (GROUP_ID, NAME, VERSION, ITEM_ID, COORDS, TILES, LOCATION, IS_MEMBERS, PLANE, MAP_ID) VALUES (" +
 			"(SELECT ID FROM ITEM_GROUPS WHERE NAME=?)," +
+			"?," +
 			"?," +
 			"?," +
 			"?," +
@@ -43,6 +46,10 @@ public class ImportSpawnsDrops implements ImportStep
 			"?," +
 			"?" +
 			")";
+
+	//language=SQL
+	private static final String INSERT_SOURCE_LOCATION =
+		"INSERT INTO SOURCE_LOCATIONS (SOURCE, LOCATION, IS_MEMBERS, TILES) VALUES (?, ?, ?, ?)";
 
 	@Override
 	public void run(Connection db) throws Exception
@@ -80,6 +87,25 @@ public class ImportSpawnsDrops implements ImportStep
 			ps.executeBatch();
 		}
 		db.commit();
+
+		try (PreparedStatement ps = db.prepareStatement(INSERT_SOURCE_LOCATION))
+		{
+			for (NERSourceLocations source : ReadJsonFiles.getSourceLocationData())
+			{
+				for (NERSourceLocation location : source.getLocations())
+				{
+					int ix = 1;
+					ps.setString(ix++, source.getSource());
+					ps.setString(ix++, location.getLocation());
+					ps.setBoolean(ix++, location.isMembers());
+					ps.setString(ix++, location.getTiles());
+					ps.addBatch();
+				}
+			}
+
+			ps.executeBatch();
+		}
+		db.commit();
 	}
 
 	private void writeSpawn(NERSpawnItem spawn, String group, PreparedStatement ps, Set<NERInfoItem> items) throws SQLException
@@ -90,6 +116,7 @@ public class ImportSpawnsDrops implements ImportStep
 		ps.setString(ix++, spawn.getVersion());
 		ps.setInt(ix++, H2Importer.getItemIdPrecise(items, spawn.getName(), spawn.getVersion()));
 		ps.setString(ix++, spawn.getCoords());
+		ps.setString(ix++, spawn.getTiles());
 		ps.setString(ix++, spawn.getLocation());
 		ps.setBoolean(ix++, spawn.isMembers());
 		ps.setString(ix++, spawn.getPlane());

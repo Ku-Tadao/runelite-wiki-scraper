@@ -268,22 +268,18 @@ def get_item_spawns(items: list[dict]):
                 for param in raw_page_spawn.params:
                     base[param.name.strip()] = param.value.strip()
 
-                coords = "?"
-                if "1" in base:
-                    coords = ""
-                    coord_list = base["1"].split(",")
-                    for item in coord_list:
-                        if ":" not in item:
-                            coords += item + ","
-                    coords = coords[:-1]
+                plane = base["plane"] if "plane" in base else "0"
+                tiles = parse_tiles(base, plane)
 
                 page_spawn = {
                     "name": base["name"],
                     "location": format_location(base["location"]),
                     "isMembers": True if base["members"] == "Yes" else False,
-                    "coords": coords,
+                    # first tile, kept for clients that predate "tiles"
+                    "coords": ",".join(tiles[0].split(",")[:2]) if tiles else "?",
+                    "tiles": ";".join(tiles),
                     "mapID": base["mapID"] if "mapID" in base else "0",
-                    "plane": base["plane"] if "plane" in base else "0",
+                    "plane": plane,
                 }
                 spawns.append(page_spawn)
                 item_names.append(base["name"])
@@ -428,6 +424,76 @@ def get_item_drops(items: list[dict]):
     with open(output_dir + min_name, "w+") as fi:
         json.dump(sorted_drops, fi, separators=(",", ":"), sort_keys=True)
 
+    return [source["source"] for item in sorted_drops for source in item["dropSources"]]
+
+
+def parse_tiles(params: Dict[str, str], plane: str) -> List[str]:
+    """
+    parse_tiles reads the positional tile params of ItemSpawnLine,
+    LocLine and ObjectLocLine ("3222,3218" or "x:3222,y:3218")
+    into "x,y,plane" strings
+    """
+    tiles = []
+    for key, value in params.items():
+        if not key.isdigit():
+            continue
+        # drop extras like "respawn:45" or "qty:5"
+        parts = [p.strip().removeprefix("x:").removeprefix("y:") for p in value.split(",")]
+        parts = [p for p in parts if ":" not in p]
+        if len(parts) == 2 and parts[0].isdigit() and parts[1].isdigit():
+            tiles.append(f"{parts[0].strip()},{parts[1].strip()},{plane}")
+    return tiles
+
+
+def get_source_locations(drop_names: List[str]):
+    print("Scraping drop source locations")
+    file_name = "items-source-locations.json"
+    min_name = "items-source-locations.min.json"
+
+    # drop sources are page names, sometimes with a #version anchor
+    pages = sorted({name.split("#")[0] for name in drop_names})
+    page_texts = api.query_pages(pages, "drop-source-pages")
+
+    source_locations = []
+    for source in sorted(set(drop_names)):
+        page = page_texts.get(source.split("#")[0])
+        if page is None:
+            continue
+
+        try:
+            code = mw.parse(page, skip_style_tags=True)
+            # ponytail: every location on the page, not only the #version's; filter on "dropversion" if this routes wrong
+            locations = []
+            for line in code.filter_templates(matches=lambda t: t.name.matches("LocLine") or t.name.matches("ObjectLocLine")):
+                params: Dict[str, str] = {}
+                for param in line.params:
+                    params[param.name.strip()] = param.value.strip()
+
+                tiles = parse_tiles(params, params.get("plane") or "0")
+                if not tiles:
+                    continue
+
+                locations.append({
+                    "location": format_location(params.get("location", "")),
+                    "isMembers": params.get("members", "").lower() in ("yes", "y"),
+                    "tiles": ";".join(tiles),
+                })
+
+            if locations:
+                source_locations.append({"source": source, "locations": locations})
+
+        except (KeyboardInterrupt, SystemExit):
+            raise
+        except:
+            print("Source {} failed:".format(source))
+            traceback.print_exc()
+
+    with open(output_dir + file_name, "w+") as fi:
+        json.dump(source_locations, fi, indent=2, sort_keys=True)
+
+    with open(output_dir + min_name, "w+") as fi:
+        json.dump(source_locations, fi, separators=(",", ":"), sort_keys=True)
+
 
 def generate_hashes():
     print("Generating checksums")
@@ -488,5 +554,5 @@ def run():
     get_production(items)
     get_item_spawns(items)
     get_shop_items(items)
-    get_item_drops(items)
+    get_source_locations(get_item_drops(items))
     generate_hashes()

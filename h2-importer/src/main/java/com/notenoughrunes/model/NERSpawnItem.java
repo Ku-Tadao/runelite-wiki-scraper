@@ -15,6 +15,10 @@ public class NERSpawnItem
 
 	private final String coords;
 
+	// "x,y,plane" tiles separated by ';'
+	@Nullable
+	private final String tiles;
+
 	private final String location;
 
 	private final boolean isMembers;

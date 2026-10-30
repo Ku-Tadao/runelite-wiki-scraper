@@ -9,6 +9,7 @@ import com.notenoughrunes.model.NERDropItem;
 import com.notenoughrunes.model.NERInfoItem;
 import com.notenoughrunes.model.NERProductionRecipe;
 import com.notenoughrunes.model.NERShop;
+import com.notenoughrunes.model.NERSourceLocations;
 import com.notenoughrunes.model.NERSpawnGroup;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -39,6 +40,9 @@ public class ReadJsonFiles implements ImportStep
 	@Getter
 	private static Set<NERDropItem> itemDropData;
 
+	@Getter
+	private static Set<NERSourceLocations> sourceLocationData;
+
 	@Override
 	public void run(Connection ignored) throws Exception
 	{
@@ -48,6 +52,7 @@ public class ReadJsonFiles implements ImportStep
 		itemShopData = readJsonFile("items-shopitems.min.json", new TypeToken<>() {});
 		itemSpawnData = readJsonFile("items-spawns.min.json", new TypeToken<>() {});
 		itemDropData = readJsonFile("items-drop-sources.min.json", new TypeToken<>() {});
+		sourceLocationData = readJsonFile("items-source-locations.min.json", new TypeToken<>() {});
 		// @formatter:on
 	}
 

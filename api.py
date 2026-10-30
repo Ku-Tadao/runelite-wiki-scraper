@@ -1,6 +1,8 @@
 import sys
 import os
 import json
+import time
+import urllib.error
 import urllib.request
 import urllib.parse
 from typing import *
@@ -9,13 +11,33 @@ use_cache: bool = True
 user_agent: dict[str, str] = {"User-Agent": "Item Atlas Scraper/1.0 (+https://github.com/Ku-Tadao/runelite-wiki-scraper)"}
 
 
+def fetch_json(url: str, attempts: int = 3) -> any:
+    """
+    fetch_json retries network and API errors with backoff, then
+    raises so a broken run fails instead of hanging or publishing
+    partial data
+    """
+    for attempt in range(attempts):
+        print("Grabbing " + url)
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent), timeout=60) as raw:
+                js = json.load(raw)
+            if "error" not in js:
+                return js
+            error = js["error"]
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
+            error = e
+        print(f"Attempt {attempt + 1} failed: {error}")
+        if attempt < attempts - 1:
+            time.sleep(5 * 2 ** attempt)
+    raise RuntimeError(f"Giving up on {url}: {error}")
+
+
 def get_wiki_api(args: dict[str, str], continue_key: str) -> Iterator[any]:
     args["format"] = "json"
     while True:
         url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args)
-        print("Grabbing " + url)
-        with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
-            js = json.load(raw)
+        js = fetch_json(url)
 
         yield js
         if "continue" in js:
@@ -31,21 +53,11 @@ def get_wiki_bucket_api(query: str, order_by: str) -> Iterator[any]:
     while True:
         args["query"] = f'{query}.limit(500).offset({offset}).orderBy("{order_by}", "asc").run()'
         url = "https://oldschool.runescape.wiki/api.php?" + urllib.parse.urlencode(args) + "&formatversion=2"
-        print("Grabbing " + url)
-        retries = 0
-        while retries < 3:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=user_agent)) as raw:
-                js = json.load(raw)
-
-            if "error" in js:
-                retries += 1
-            else:
-                yield js
-                if len(js["bucket"]) < 500:
-                    return
-                else:
-                    offset += 500
-                    break
+        js = fetch_json(url)
+        yield js
+        if len(js["bucket"]) < 500:
+            return
+        offset += 500
 
 
 def query_category(category_name: str) -> dict[str, dict[str, str]]:
@@ -223,3 +235,45 @@ def query_redirects(page_names: list[str], category: str, items: list[dict]) -> 
         json.dump(mismatches, fi, indent=2, sort_keys=True)
 
     return redirects
+
+
+def query_pages(titles: list[str], cache_name: str) -> dict[str, str]:
+    """
+    query_pages returns a dict of requested title to page wikitext,
+    following redirects. Missing pages are left out.
+    """
+    cache_file_name = cache_name + ".cache.json"
+    if use_cache and os.path.isfile(cache_file_name):
+        with open(cache_file_name, "r") as fi:
+            return json.load(fi)
+
+    pages = {}
+    for i in range(0, len(titles), 50):
+        batch = titles[i:i + 50]
+        # requested title -> final title, through normalization and redirects
+        final = {t: t for t in batch}
+        texts = {}
+        for res in get_wiki_api(
+                {
+                    "action": "query",
+                    "prop": "revisions",
+                    "rvprop": "content",
+                    "redirects": "1",
+                    "titles": "|".join(batch),
+                }, "rvcontinue"):
+            query = res["query"]
+            for hop in query.get("normalized", []) + query.get("redirects", []):
+                for t, cur in final.items():
+                    if cur == hop["from"]:
+                        final[t] = hop["to"]
+            for page in query["pages"].values():
+                if "revisions" in page:
+                    texts[page["title"]] = page["revisions"][0]["*"]
+        for t, cur in final.items():
+            if cur in texts:
+                pages[t] = texts[cur]
+
+    with open(cache_file_name, "w+") as fi:
+        json.dump(pages, fi)
+
+    return pages

@@ -32,6 +32,7 @@ jobs:
         pipenv install
     - name: Scrape wiki
       run: |
+        pipenv run python test_parse_tiles.py
         pipenv run python main.py
     - name: Run h2-importer
       run: |
@@ -46,6 +47,7 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git worktree add ../data origin/wiki-data
+        python check_output.py ../data/output/data.sqlite output/data.sqlite
         rm -rf ../data/output
         cp -r output ../data/output
         cd ../data
