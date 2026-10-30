@@ -8561,7 +8561,7 @@
         "source": "Ore stall (Port Roberts)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 22,
         "quantityLow": 22,
@@ -12013,7 +12013,7 @@
         "source": "Expert potion pack"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 1,
@@ -13008,7 +13008,7 @@
         "source": "Frozen cache"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 599,
         "quantityLow": 540,
@@ -13016,7 +13016,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 995,
         "quantityLow": 885,
@@ -13024,7 +13024,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 2060,
         "quantityLow": 1970,
@@ -13110,7 +13110,7 @@
         "source": "Frozen cache"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -27899,7 +27899,7 @@
         "source": "Kree'arra"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -45043,7 +45043,7 @@
         "source": "Pee Hat"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -54864,7 +54864,7 @@
         "source": "Manta ray (monster)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -56564,7 +56564,7 @@
         "source": "Penda"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 480,
         "quantityLow": 480,
@@ -57740,7 +57740,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -64014,7 +64014,7 @@
         "source": "Orca"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -65316,7 +65316,7 @@
         "source": "Paladin"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -67794,7 +67794,7 @@
         "source": "Pee Hat"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 163,
         "quantityLow": 163,
@@ -92829,7 +92829,7 @@
         "source": "Otherworldly being"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 428,
         "quantityLow": 428,
@@ -95763,7 +95763,7 @@
         "source": "Nex"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 89,
         "quantityLow": 89,
@@ -98517,7 +98517,7 @@
         "source": "Iron dragon#Standard"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
@@ -98851,7 +98851,7 @@
         "source": "Iron dragon#Standard"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -99421,7 +99421,7 @@
         "source": "Manta ray (monster)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -112271,7 +112271,7 @@
         "source": "Penda"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1964,
         "quantityLow": 1964,
@@ -115435,7 +115435,7 @@
         "source": "Frozen cache"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -119771,7 +119771,7 @@
         "source": "Ore stall (Port Roberts)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 180,
         "quantityLow": 180,
@@ -126716,7 +126716,7 @@
         "source": "Penda"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 6,
@@ -129450,7 +129450,7 @@
         "source": "Penda"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 6,
@@ -139870,7 +139870,7 @@
         "source": "Penda"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 6,
@@ -142636,7 +142636,7 @@
         "source": "Penda"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 6,
@@ -152008,7 +152008,7 @@
         "source": "Monumental chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 40,
         "quantityLow": 40,
@@ -172300,7 +172300,7 @@
         "source": "Pee Hat"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 146,
         "quantityLow": 146,
@@ -174606,7 +174606,7 @@
         "source": "Ogress Warrior"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 21,
         "quantityLow": 21,
@@ -180483,7 +180483,7 @@
         "source": "Monumental chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -181690,7 +181690,7 @@
         "source": "Monumental chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -182094,7 +182094,7 @@
         "source": "Flockleader Geerin"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 28,
         "quantityLow": 28,
@@ -182580,7 +182580,7 @@
         "source": "Manta ray (monster)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -192223,7 +192223,7 @@
         "source": "Monumental chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 89,
         "quantityLow": 89,
@@ -195317,7 +195317,7 @@
   {
     "dropSources": [
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -205052,7 +205052,7 @@
         "source": "Monumental chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
@@ -205060,7 +205060,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -205397,7 +205397,7 @@
         "source": "Manta ray (monster)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -211061,7 +211061,7 @@
         "source": "Ninja impling jar"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 2,
@@ -211939,7 +211939,7 @@
         "source": "Minotaur"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 2314,
         "quantityLow": 2314,
@@ -213847,7 +213847,7 @@
         "source": "Ogress Warrior"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -213855,7 +213855,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 5,
         "quantityLow": 5,
@@ -213863,7 +213863,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -214353,7 +214353,7 @@
         "source": "Kree'arra"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 1,
@@ -218621,7 +218621,7 @@
         "source": "Mutated Terrorbird"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 28,
         "quantityLow": 28,
@@ -221115,7 +221115,7 @@
         "source": "Manta ray (monster)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -228627,7 +228627,7 @@
         "source": "Mutated Tortoise"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -231192,7 +231192,7 @@
         "source": "Orca"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -232484,7 +232484,7 @@
         "source": "Nex"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -234360,7 +234360,7 @@
         "source": "Ore stall (Port Roberts)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 18,
         "quantityLow": 18,
@@ -238632,7 +238632,7 @@
         "source": "Nuclear smoke devil"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 4,
@@ -238822,7 +238822,7 @@
         "source": "Larran's big chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 56,
         "quantityLow": 56,
@@ -240310,7 +240310,7 @@
         "source": "Ore stall (Port Roberts)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 101,
         "quantityLow": 101,
@@ -242227,7 +242227,7 @@
         "source": "Nuclear smoke devil"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 314,
         "quantityLow": 314,
@@ -243727,7 +243727,7 @@
         "source": "Opulent salvage"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 5,
         "quantityLow": 5,
@@ -243735,7 +243735,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -246673,7 +246673,7 @@
         "source": "Nuclear smoke devil"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 380,
         "quantityLow": 380,
@@ -247817,7 +247817,7 @@
         "source": "Manta ray (monster)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -247825,7 +247825,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -253343,7 +253343,7 @@
         "source": "Nex"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 670,
         "quantityLow": 670,
@@ -260139,7 +260139,7 @@
         "source": "Growler"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 6,
         "quantityLow": 4,
@@ -261487,7 +261487,7 @@
         "source": "K'ril Tsutsaroth"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 2,
@@ -265543,7 +265543,7 @@
         "source": "Medium port reward bag"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 22,
         "quantityLow": 22,
@@ -265803,7 +265803,7 @@
         "source": "Manta ray (monster)"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -271942,7 +271942,7 @@
         "source": "Opulent salvage"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
@@ -271950,7 +271950,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -282535,7 +282535,7 @@
         "source": "Frozen cache"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
@@ -285919,7 +285919,7 @@
         "source": "Lunar Chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 21,
         "quantityLow": 21,
@@ -288743,7 +288743,7 @@
         "source": "Ogress Warrior"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 49,
         "quantityLow": 49,
@@ -292221,7 +292221,7 @@
         "source": "Nature impling jar"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,
@@ -295157,7 +295157,7 @@
         "source": "Monumental chest"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 2,
         "quantityLow": 2,
@@ -295165,7 +295165,7 @@
         "source": "Phantom Muspah"
       },
       {
-        "dropLevel": "741",
+        "dropLevel": "368,741",
         "dropType": "combat",
         "quantityHigh": 3,
         "quantityLow": 3,

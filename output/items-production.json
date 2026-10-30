@@ -20187,7 +20187,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">86,173,347</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">86,800,615</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -112904,7 +112904,7 @@
     "ticks": ""
   },
   {
-    "facilities": "Soul Altar",
+    "facilities": "Soul Altar (Kourend)",
     "materials": [
       {
         "image": "Dark essence fragments.png",
@@ -112935,7 +112935,7 @@
     "ticks": "1"
   },
   {
-    "facilities": "Soul Altar",
+    "facilities": "Soul Altar (Kourend)",
     "materials": [
       {
         "image": "Dark essence fragments.png",
