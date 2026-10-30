@@ -476,6 +476,52 @@ def required_key(code) -> str:
     return match.group(1)[0].upper() + match.group(1)[1:] if match else ""
 
 
+SKILLS = ("Attack|Strength|Defence|Ranged|Prayer|Magic|Runecraft|Construction|Hitpoints|Agility|Herblore|Thieving|"
+          "Crafting|Fletching|Slayer|Hunter|Mining|Smithing|Fishing|Cooking|Firemaking|Woodcutting|Farming|Sailing")
+
+
+def named_notes(page: str) -> Dict[str, str]:
+    # footnotes written once and reused by name, e.g. {{Refn|...|name=Taverley}} and later {{Refn|name=Taverley}}
+    notes = {m.group(1): m.group(2) for m in re.finditer(r"<ref[^>]*?name\s*=\s*\"?([^\">/]+?)\"?(?:\s[^>/]*)?>(.*?)</ref>", page, re.S)}
+    for template in mw.parse(page).filter_templates(matches=lambda t: t.name.matches("Refn")):
+        if template.has("name") and template.has("1"):
+            notes[str(template.get("name").value).strip()] = str(template.get("1").value)
+    return notes
+
+
+def location_requirements(location: str, named: Dict[str, str]) -> str:
+    """
+    Access requirements from a location's footnotes, one per line: "quest:<name>", "started:<name>"
+    (partial completion), "skill:<Skill>:<level>" and "note:<text>". Notes offering a choice
+    ("a dusty key or 70 Agility") are kept as a note only.
+    """
+    notes = []
+    for m in re.finditer(r"<ref([^>]*?)/>|<ref[^>]*>(.*?)</ref>", location, re.S):
+        name = re.search(r"name\s*=\s*\"?([^\"/>]+?)\"?\s*$", m.group(1) or "")
+        notes.append(m.group(2) if m.group(2) is not None else named.get(name.group(1), "") if name else "")
+    for template in mw.parse(location).filter_templates(recursive=False):
+        kind = template.name.strip().lower()
+        if kind in ("refn", "efn") and template.has("1"):
+            notes.append(str(template.get("1").value))
+        elif kind in ("refn", "efn", "namedref"):
+            param = "1" if kind == "namedref" else "name"
+            notes.append(named.get(str(template.get(param).value).strip(), "") if template.has(param) else "")
+
+    lines = []
+    for note in notes:
+        note = re.sub(r"\{\{SCP\|(\w+)\|(\d+)[^}]*\}\}", r"\2 [[\1]]", note)
+        text = format_location(note)
+        if not re.search(r"requir|must|complet|only", text, re.I):
+            continue  # trivia such as "a cannon can be placed"
+        if not re.search(r"\b(or|either)\b", text):
+            for partial, quest in re.findall(r"(partial(?:ly)? )?complet\w*(?: of)? (?:the )?\[\[([^\]|#]+)", note, re.I):
+                lines.append(("started:" if partial else "quest:") + quest.strip())
+            for level, skill in re.findall(r"(\d+) \[*(" + SKILLS + r")\b", note):
+                lines.append("skill:" + skill + ":" + level)
+        lines.append("note:" + text)
+    return "\n".join(dict.fromkeys(lines))
+
+
 def version_locations(locations: List[Dict], version: str) -> List[Dict]:
     # LocLine "dropversion" lists the drop table versions found there, e.g. "Regular, Free-to-play, Level 86";
     # keep the source's own version, or every location when none is tagged with it
@@ -504,6 +550,7 @@ def get_source_locations(drop_names: List[str]):
 
         try:
             code = mw.parse(page, skip_style_tags=True)
+            named = named_notes(page)
             locations = []
             for line in code.filter_templates(matches=lambda t: t.name.matches("LocLine") or t.name.matches("ObjectLocLine")):
                 params: Dict[str, str] = {}
@@ -516,6 +563,7 @@ def get_source_locations(drop_names: List[str]):
 
                 locations.append({
                     "location": format_location(params.get("location", "")),
+                    "requirements": location_requirements(params.get("location", ""), named),
                     "isMembers": params.get("members", "").lower() in ("yes", "y"),
                     "tiles": ";".join(tiles),
                     "dropversion": params.get("dropversion", ""),
@@ -533,6 +581,7 @@ def get_source_locations(drop_names: List[str]):
                 if tiles:
                     locations.append({
                         "location": format_location(info.get("location", "")),
+                        "requirements": location_requirements(info.get("location", ""), named),
                         "isMembers": info.get("members", "").lower() in ("yes", "y"),
                         "tiles": ";".join(dict.fromkeys(tiles)),
                     })

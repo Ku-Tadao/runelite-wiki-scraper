@@ -49,7 +49,7 @@ public class ImportSpawnsDrops implements ImportStep
 
 	//language=SQL
 	private static final String INSERT_SOURCE_LOCATION =
-		"INSERT INTO SOURCE_LOCATIONS (SOURCE, LOCATION, IS_MEMBERS, TILES, REQUIRED_ITEM) VALUES (?, ?, ?, ?, ?)";
+		"INSERT INTO SOURCE_LOCATIONS (SOURCE, LOCATION, IS_MEMBERS, TILES, REQUIRED_ITEM, REQUIREMENTS) VALUES (?, ?, ?, ?, ?, ?)";
 
 	@Override
 	public void run(Connection db) throws Exception
@@ -100,6 +100,7 @@ public class ImportSpawnsDrops implements ImportStep
 					ps.setBoolean(ix++, location.isMembers());
 					ps.setString(ix++, location.getTiles());
 					ps.setString(ix++, source.getRequiredItem() == null || source.getRequiredItem().isEmpty() ? null : source.getRequiredItem());
+					ps.setString(ix++, location.getRequirements() == null || location.getRequirements().isEmpty() ? null : location.getRequirements());
 					ps.addBatch();
 				}
 			}

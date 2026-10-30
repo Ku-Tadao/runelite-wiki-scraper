@@ -1,4 +1,4 @@
-from items import format_location, map_tiles, parse_tiles, required_key, version_locations
+from items import format_location, location_requirements, map_tiles, named_notes, parse_tiles, required_key, version_locations
 import mwparserfromhell as mw
 
 assert parse_tiles({"1": "3030,3637,qty:5", "name": "Air rune"}, "0") == ["3030,3637,0"]
@@ -25,4 +25,13 @@ assert "dropversion" not in version_locations(locs("a"), "a")[0]
 assert required_key(mw.parse("{{Infobox Scenery|name=Muddy chest}}\nIt can only be opened with a [[muddy key]].\n==Loot==\n[[Steel key]]")) == "Muddy key"
 assert required_key(mw.parse("{{Infobox Scenery|examine=a [[spare key]]}}\nAn open chest.\n==Loot==\n[[Steel key]]")) == ""
 assert required_key(mw.parse("{{Infobox Monster|name=Rat}}\nDrops a [[brass key]].")) == ""
+taverley = "Taverley Dungeon{{Refn|Requires a blue dragon [[Slayer task]].|group=l}}{{Refn|Requires {{SCP|Agility|70|link=yes}}.|name=Taverley|group=l}}"
+assert location_requirements(taverley, {}) == "note:Requires a blue dragon Slayer task.\nskill:Agility:70\nnote:Requires 70 Agility."
+assert location_requirements("Vault <ref group=\"l\">Requires completion of [[Dragon Slayer II]]</ref>", {}) == "quest:Dragon Slayer II\nnote:Requires completion of Dragon Slayer II"
+assert location_requirements("Basement{{Refn|Requires a [[rope]] and partial completion of [[Recipe for Disaster: Sir Amik Varze]]}}", {}).startswith("started:Recipe for Disaster: Sir Amik Varze\nnote:")
+assert location_requirements("Dungeon{{Refn|Requires either a [[dusty key]] or {{SCP|Agility|70}}.}}", {}) == "note:Requires either a dusty key or 70 Agility."
+assert location_requirements("Island{{Refn|A [[Dwarf multicannon]] can be placed.}}", {}) == ""
+page = "{{LocLine|location=A{{Refn|Requires 46 [[Thieving]].|name=t}}}}{{LocLine|location=B{{Refn|name=t}}}}<ref name=q>Requires completion of [[Watchtower]]</ref><ref name=q />"
+assert location_requirements("B{{Refn|name=t}}", named_notes(page)) == "skill:Thieving:46\nnote:Requires 46 Thieving."
+assert location_requirements("C<ref name=q />", named_notes(page)) == "quest:Watchtower\nnote:Requires completion of Watchtower"
 print("parse_tiles ok")
