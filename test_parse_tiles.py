@@ -8,6 +8,11 @@ assert parse_tiles({"1": "garbage"}, "0") == []
 assert parse_tiles({"1": "x:3091.5,y:9799"}, "0") == ["3091,9799,0"]
 assert map_tiles({"x": "3680", "y": "5152", "mtype": "pin"}, "0") == ["3680,5152,0"]
 assert map_tiles({"x": "3680", "y": "5152", "1": "x:3674,y:5148"}, "0") == ["3674,5148,0"]
+# Kalphite Lair is drawn west of where it is in game, and its upper cave is plane 2
+assert parse_tiles({"1": "x:3186,y:9424", "mapID": "42"}, "0") == ["3474,9496,0"]
+assert parse_tiles({"1": "x:3223,y:9499", "mapID": "42"}, "0") == ["3511,9499,2"]
+assert map_tiles({"x": "3186", "y": "9424", "mapID": "42"}, "0") == ["3474,9496,0"]
+assert parse_tiles({"1": "x:2278,y:10034", "mapID": "19"}, "0") == ["2278,10034,0"]
 assert format_location("Taverley Dungeon (Upper Level){{Refn|Requires a blue dragon Slayer task.|group=l}}{{Refn|Requires {{SCP|Agility|70|link=yes}}.|name=Taverley|group=l}}") == "Taverley Dungeon (Upper Level)"
 assert format_location('Lithkren Vault <ref group="l">Requires completion of Dragon Slayer II</ref>') == "Lithkren Vault"
 assert format_location('Corsair Cove Dungeon<ref group "l">Requires Dragon Slayer II</ref>') == "Corsair Cove Dungeon"

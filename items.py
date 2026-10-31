@@ -446,8 +446,27 @@ def parse_tiles(params: Dict[str, str], plane: str) -> List[str]:
         parts = [p.strip().removeprefix("x:").removeprefix("y:") for p in value.split(",")]
         parts = [p for p in parts if ":" not in p]
         if len(parts) == 2 and all(re.fullmatch(r"\d+(\.\d+)?", p) for p in parts):
-            tiles.append(f"{int(float(parts[0]))},{int(float(parts[1]))},{plane}")
+            tiles.append(game_tile(params.get("mapID"), int(float(parts[0])), int(float(parts[1])), plane))
     return tiles
+
+
+# wiki map ID -> "squareX,squareY" or "squareX,squareY,zoneX,zoneY" -> [dx, dy, level], from the game cache's
+# world map composites; maps drawn somewhere other than their game position (the Kalphite Lair) need it
+with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "worldmap-offsets.json")) as f:
+    WORLDMAP_OFFSETS: Dict[str, Dict[str, List[int]]] = json.load(f)
+
+
+def game_tile(map_id, x: int, y: int, plane: str) -> str:
+    """
+    game_tile turns a wiki map position into an "x,y,plane" game tile
+    """
+    offsets = WORLDMAP_OFFSETS.get(str(map_id).strip(), {})
+    offset = (offsets.get(f"{x >> 6},{y >> 6},{(x & 63) >> 3},{(y & 63) >> 3}")
+              or offsets.get(f"{x >> 6},{y >> 6}"))
+    if not offset:
+        return f"{x},{y},{plane}"
+    level = int(plane) + offset[2] if plane.isdigit() else plane
+    return f"{x + offset[0]},{y + offset[1]},{level}"
 
 
 def map_tiles(params: Dict[str, str], plane: str) -> List[str]:
@@ -457,7 +476,7 @@ def map_tiles(params: Dict[str, str], plane: str) -> List[str]:
     """
     tiles = parse_tiles(params, plane)
     if not tiles and params.get("x", "").isdigit() and params.get("y", "").isdigit():
-        tiles = [f"{params['x']},{params['y']},{plane}"]
+        tiles = [game_tile(params.get("mapID"), int(params["x"]), int(params["y"]), plane)]
     return tiles
 
 
