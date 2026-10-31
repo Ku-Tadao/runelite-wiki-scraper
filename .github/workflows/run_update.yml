@@ -44,9 +44,12 @@ jobs:
         pushd h2-importer
           ./gradlew run --args="../output ../output/data.sqlite"
         popd
-    - name: Generate H2 checksum
+    - name: Export JSON for the plugin
+      run: python export_json.py output/data.sqlite output/data.json.gz
+    - name: Generate checksums
       run: |
         sha256sum ./output/data.sqlite | cut -d " " -f 1 > ./output/data.sqlite.sha256
+        sha256sum ./output/data.json.gz | cut -d " " -f 1 > ./output/data.json.gz.sha256
     - name: Publish to wiki-data
       run: |
         git config user.name "github-actions[bot]"
