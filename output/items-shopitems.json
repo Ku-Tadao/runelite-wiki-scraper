@@ -3922,7 +3922,7 @@
   },
   {
     "coords": "3094,3357",
-    "isMembers": true,
+    "isMembers": false,
     "items": [
       {
         "buyPrice": "N/A",
@@ -3941,7 +3941,7 @@
   },
   {
     "coords": "3094,3357",
-    "isMembers": true,
+    "isMembers": false,
     "items": [
       {
         "buyPrice": "N/A",
@@ -6717,7 +6717,7 @@
     "name": "Cam Torum Blacksmith",
     "plane": "0",
     "sellMultiplier": "1000",
-    "tiles": "1449,9584,0"
+    "tiles": "1449,9584,1"
   },
   {
     "buyMultiplier": "400",
@@ -29103,7 +29103,7 @@
     "name": "Lundail's Arena-side Rune Shop.",
     "plane": "0",
     "sellMultiplier": "1000",
-    "tiles": "3109,10357,0"
+    "tiles": "2533,4717,0"
   },
   {
     "coords": "3600,3524",
@@ -29223,7 +29223,7 @@
     "name": "Mage Arena Staffs.",
     "plane": "0",
     "sellMultiplier": "1000",
-    "tiles": "3084,10336,0"
+    "tiles": "2508,4696,0"
   },
   {
     "buyMultiplier": "600",
@@ -29585,7 +29585,7 @@
     "mapID": "30",
     "name": "Mairin's Market",
     "plane": "0",
-    "tiles": "3765,10290,0"
+    "tiles": "3765,10290,1"
   },
   {
     "coords": "2918,3322",
@@ -34873,7 +34873,7 @@
     "name": "Prospector Percy's Nugget Shop",
     "plane": "0",
     "sellMultiplier": "1000",
-    "tiles": "3116,9698,0"
+    "tiles": "3756,5666,0"
   },
   {
     "coords": "3314,3243",
@@ -45191,7 +45191,7 @@
     "name": "Warrens Fish Monger",
     "plane": "0",
     "sellMultiplier": "1300",
-    "tiles": "1825,10145,0"
+    "tiles": "1761,10145,0"
   },
   {
     "buyMultiplier": "400",
@@ -45270,7 +45270,7 @@
     "name": "Warrens General Store",
     "plane": "0",
     "sellMultiplier": "1300",
-    "tiles": "1838,10149,0;1838,10146,0;1839,10145,0;1842,10145,0;1843,10146,0;1843,10149,0;1842,10150,0;1839,10150,0"
+    "tiles": "1774,10149,0;1774,10146,0;1775,10145,0;1778,10145,0;1779,10146,0;1779,10149,0;1778,10150,0;1775,10150,0"
   },
   {
     "buyMultiplier": "600",

@@ -182074,6 +182074,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 10,
+        "quantityLow": 10,
+        "rarity": "Always",
+        "source": "Pile of makeshift spears"
+      }
+    ],
+    "group": "Makeshift spear",
+    "name": "Makeshift spear"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "202",
         "dropType": "combat",
         "quantityHigh": 1,
