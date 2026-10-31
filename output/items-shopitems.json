@@ -1853,6 +1853,105 @@
     "tiles": "1250,3735,0"
   },
   {
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Alliance log",
+        "sellPrice": "N/A",
+        "stock": "inf",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Giant krill",
+        "sellPrice": "1",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Halibut",
+        "sellPrice": "2",
+        "stock": "5",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Leftovers",
+        "sellPrice": "0",
+        "stock": "Unknown",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Manta ray",
+        "sellPrice": "2",
+        "stock": "10",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Prayer potion",
+        "sellPrice": "2",
+        "stock": "4",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Prayer potion",
+        "sellPrice": "1",
+        "stock": "1",
+        "version": "2 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Ranging potion",
+        "sellPrice": "2",
+        "stock": "1",
+        "version": "2 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Saradomin brew",
+        "sellPrice": "3",
+        "stock": "6",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Super combat potion",
+        "sellPrice": "2",
+        "stock": "1",
+        "version": "2 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Supply Credits",
+        "name": "Super restore",
+        "sellPrice": "3",
+        "stock": "4",
+        "version": "4 dose"
+      }
+    ],
+    "location": "The Fractured Archive central chamber",
+    "mapID": "0",
+    "name": "Alliance Supplies",
+    "plane": "0",
+    "tiles": ""
+  },
+  {
     "coords": "1367,3635",
     "isMembers": true,
     "items": [
@@ -41493,6 +41592,105 @@
     "tiles": "1496,3223,0;1496,3229,0;1505,3229,0;1505,3226,0;1503,3226,0;1503,3223,0"
   },
   {
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Bandages (Theatre of Blood)",
+        "sellPrice": "N/A",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Manta ray",
+        "sellPrice": "2",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Message (Theatre of Blood)",
+        "sellPrice": "N/A",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Mushroom potato",
+        "sellPrice": "1",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Onion",
+        "sellPrice": "N/A",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Prayer potion",
+        "sellPrice": "2",
+        "stock": "\u221e",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Saradomin brew",
+        "sellPrice": "3",
+        "stock": "\u221e",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Sea turtle",
+        "sellPrice": "2",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Shark",
+        "sellPrice": "1",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Stamina potion",
+        "sellPrice": "1",
+        "stock": "\u221e",
+        "version": "4 dose"
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "Points",
+        "name": "Super restore",
+        "sellPrice": "3",
+        "stock": "\u221e",
+        "version": "4 dose"
+      }
+    ],
+    "location": "Theatre of Blood",
+    "mapID": "0",
+    "name": "Theatre of Blood Supplies",
+    "plane": "0",
+    "tiles": ""
+  },
+  {
     "coords": "3206,3416",
     "isMembers": false,
     "items": [
@@ -43627,6 +43825,73 @@
     "plane": "0",
     "sellMultiplier": "1300",
     "tiles": "2462,5125,0"
+  },
+  {
+    "coords": "?",
+    "isMembers": true,
+    "items": [
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Foul chunky potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Jar of congealed blood",
+        "sellPrice": "0",
+        "stock": "\u221e{{Refn|Only one allowed per inventory.|group=c}}",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Mysterious jerky",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Putrid sticky potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Rancid slimy potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Rank frothy potion",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      },
+      {
+        "buyPrice": "N/A",
+        "currency": "None",
+        "name": "Smelly kebab",
+        "sellPrice": "0",
+        "stock": "\u221e",
+        "version": null
+      }
+    ],
+    "location": "Castle Drakan, inside Vampyrium",
+    "mapID": "0",
+    "name": "Useful Supplies",
+    "plane": "0",
+    "tiles": ""
   },
   {
     "buyMultiplier": "400",

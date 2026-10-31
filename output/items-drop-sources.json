@@ -19039,6 +19039,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/798.5",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -23742,6 +23750,14 @@
         "quantityLow": 1,
         "rarity": "1/75.1",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/532.3",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -49245,6 +49261,14 @@
         "source": "Ali's Discount Wares."
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Aranei bucket dealer"
+      },
+      {
         "dropLevel": "24",
         "dropType": "combat",
         "quantityHigh": 2,
@@ -51829,6 +51853,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/798.5",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -52941,6 +52973,14 @@
         "quantityLow": 1,
         "rarity": "1/335.4",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/2,395.4",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -58171,6 +58211,14 @@
         "quantityLow": 1,
         "rarity": "8/128",
         "source": "TzHaar-Hur"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Workbench (Sugadinti's Hideout)"
       }
     ],
     "group": "Chisel",
@@ -94203,6 +94251,14 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (diamond)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 2,
         "rarity": "8/128",
@@ -101736,6 +101792,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/4,790.9",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -106709,6 +106773,20 @@
     ],
     "group": "Empty sack",
     "name": "Empty sack"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Chest (enchant diamond)"
+      }
+    ],
+    "group": "Enchant diamond",
+    "name": "Enchant diamond"
   },
   {
     "dropSources": [
@@ -124096,6 +124174,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/546.1",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -126836,6 +126922,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/819.2",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -129570,6 +129664,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,092.3",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -132134,6 +132236,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/102.4",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -134690,6 +134800,14 @@
         "quantityLow": 1,
         "rarity": "1/34.4",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/234.1",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -137270,6 +137388,14 @@
         "quantityLow": 1,
         "rarity": "1/60.2",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/409.6",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -139988,6 +140114,14 @@
         "quantityLow": 1,
         "rarity": "1/96.4",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/655.4",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -142748,6 +142882,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,092.3",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -145256,6 +145398,14 @@
         "quantityLow": 1,
         "rarity": "1/20.1",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/136.5",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -148082,6 +148232,14 @@
         "quantityLow": 1,
         "rarity": "1/43.8",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/297.9",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -151192,6 +151350,14 @@
         "quantityLow": 1,
         "rarity": "1/26.8",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/182",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -154392,6 +154558,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Workbench (Sugadinti's Hideout)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Wrecked boat"
       }
     ],
@@ -155371,6 +155545,14 @@
         "quantityLow": 1,
         "rarity": "Varies",
         "source": "Reward Cart"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/171.1",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -158802,6 +158984,14 @@
         "quantityLow": 1,
         "rarity": "1/72.5",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/532.3",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -164670,6 +164860,14 @@
         "source": "Pygmy kraken"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/104.1",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -167091,6 +167289,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Workbench (Sugadinti's Hideout)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Workbench (Trouble Brewing, tools)"
       },
       {
@@ -168319,6 +168525,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,064.6",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -169515,6 +169729,14 @@
         "quantityLow": 1,
         "rarity": "1/466.6",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/3,193.9",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -175338,6 +175560,14 @@
         "quantityLow": 3,
         "rarity": "10/128",
         "source": "Repugnant spectre"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/69.9",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -183408,6 +183638,14 @@
         "quantityLow": 1,
         "rarity": "1/181.1",
         "source": "Pygmy kraken"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/76.7",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -195851,6 +196089,14 @@
         "quantityLow": 1,
         "rarity": "1/780.6",
         "source": "Pygmy kraken"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/330.4",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -208414,6 +208660,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/737.1",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -209784,6 +210038,14 @@
         "quantityLow": 1,
         "rarity": "1/153.3",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,197.7",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -213901,6 +214163,14 @@
         "quantityLow": 4,
         "rarity": "3,180/21,600",
         "source": "Rewards Chest (Fortis Colosseum)#Wave 9"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/245.7",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -240446,6 +240716,14 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Crate (Silver sickle)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
         "rarity": "Once",
         "source": "Skeleton (Ancient Guthixian Temple)"
       }
@@ -243847,6 +244125,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/1,916.3",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -245657,6 +245943,14 @@
         "quantityLow": 3,
         "rarity": "1/536.6",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/239.5",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -259202,6 +259496,14 @@
         "source": "Rockslug"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/73.1",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -264741,6 +265043,14 @@
         "source": "Reward Cart"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/112.7",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -269064,6 +269374,14 @@
         "source": "Screaming twisted banshee"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/354.9",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -272004,6 +272322,14 @@
         "quantityLow": 1,
         "rarity": "1/1,192.5",
         "source": "Screaming twisted banshee"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/9,581.7",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
@@ -288807,6 +289133,14 @@
         "source": "Rockslug"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/152.1",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -290633,6 +290967,14 @@
         "source": "Pygmy kraken"
       },
       {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/281.8",
+        "source": "Sea Snake Hatchling"
+      },
+      {
         "dropLevel": "90",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -291375,6 +291717,14 @@
         "quantityLow": 1,
         "rarity": "1/272.7",
         "source": "Pygmy kraken"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/115.4",
+        "source": "Sea Snake Hatchling"
       },
       {
         "dropLevel": "90",
