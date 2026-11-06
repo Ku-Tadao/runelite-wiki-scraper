@@ -6790,6 +6790,180 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/256",
+        "source": "Benjamin"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/141.11",
+        "source": "Black Chest (black)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/141.02",
+        "source": "Black Chest (brown)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/141.07",
+        "source": "Black Chest (crimson)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/141.15",
+        "source": "Black Chest (purple)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/140.98",
+        "source": "Black Chest (red)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/2,625",
+        "source": "Elaborate lockbox"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/256",
+        "source": "Former Vampyre"
+      },
+      {
+        "dropLevel": "88",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Green dragon#Wilderness Slayer Cave"
+      },
+      {
+        "dropLevel": "67",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/62",
+        "source": "Ice giant#Wilderness Slayer Cave"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/256",
+        "source": "Liam"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/256",
+        "source": "Miala"
+      },
+      {
+        "dropLevel": "84",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Moss Giant (Iorwerth Dungeon)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "12/2,450",
+        "source": "Ornate lockbox"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/10,850",
+        "source": "Simple lockbox"
+      },
+      {
+        "dropLevel": "132",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/120",
+        "source": "Skeleton (Lucien's camp)"
+      },
+      {
+        "dropLevel": "132",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/120",
+        "source": "Skeleton (Shayzien Crypts)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/256",
+        "source": "Vampyre Juvinate"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/256",
+        "source": "Verak"
+      },
+      {
+        "dropLevel": "132",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/120",
+        "source": "Zombie (Shayzien Crypts)"
+      },
+      {
+        "dropLevel": "81,85,86,90,95,98,100",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Zombie (Tarn's Lair)#High level"
+      }
+    ],
+    "group": "Adamant shortsword",
+    "name": "Adamant shortsword"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "271",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -7197,180 +7371,6 @@
     ],
     "group": "Adamant sq shield",
     "name": "Adamant sq shield"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/256",
-        "source": "Benjamin"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/141.11",
-        "source": "Black Chest (black)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/141.02",
-        "source": "Black Chest (brown)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/141.07",
-        "source": "Black Chest (crimson)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/141.15",
-        "source": "Black Chest (purple)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/140.98",
-        "source": "Black Chest (red)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/2,625",
-        "source": "Elaborate lockbox"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/256",
-        "source": "Former Vampyre"
-      },
-      {
-        "dropLevel": "88",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "Green dragon#Wilderness Slayer Cave"
-      },
-      {
-        "dropLevel": "67",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/62",
-        "source": "Ice giant#Wilderness Slayer Cave"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/256",
-        "source": "Liam"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/256",
-        "source": "Miala"
-      },
-      {
-        "dropLevel": "84",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Moss Giant (Iorwerth Dungeon)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "12/2,450",
-        "source": "Ornate lockbox"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/10,850",
-        "source": "Simple lockbox"
-      },
-      {
-        "dropLevel": "132",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/120",
-        "source": "Skeleton (Lucien's camp)"
-      },
-      {
-        "dropLevel": "132",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/120",
-        "source": "Skeleton (Shayzien Crypts)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/256",
-        "source": "Vampyre Juvinate"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/256",
-        "source": "Verak"
-      },
-      {
-        "dropLevel": "132",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/120",
-        "source": "Zombie (Shayzien Crypts)"
-      },
-      {
-        "dropLevel": "81,85,86,90,95,98,100",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "Zombie (Tarn's Lair)#High level"
-      }
-    ],
-    "group": "Adamant sword",
-    "name": "Adamant sword"
   },
   {
     "dropSources": [
@@ -9458,6 +9458,14 @@
         "source": "Bryophyta#Members"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Always",
+        "source": "Captain Harlan"
+      },
+      {
         "dropLevel": "13",
         "dropType": "combat",
         "quantityHigh": 36,
@@ -9938,14 +9946,6 @@
         "source": "Magic Stall"
       },
       {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 30,
-        "quantityLow": 30,
-        "rarity": "Always",
-        "source": "Magic combat tutor"
-      },
-      {
         "dropLevel": "162",
         "dropType": "combat",
         "quantityHigh": 10,
@@ -10064,6 +10064,14 @@
         "quantityLow": 10,
         "rarity": "5/116",
         "source": "Ogress Warrior"
+      },
+      {
+        "dropLevel": "6",
+        "dropType": "combat",
+        "quantityHigh": 80,
+        "quantityLow": 80,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Mage"
       },
       {
         "dropLevel": "23,26,57",
@@ -16067,6 +16075,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Charles Charlington"
+      }
+    ],
+    "group": "Archaeologist's diary",
+    "name": "Archaeologist's diary"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "90,141,147,151,163",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -16519,7 +16541,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/16",
+        "rarity": "1/15",
         "source": "Chest (The Fractured Archive)#Standard"
       }
     ],
@@ -17381,7 +17403,7 @@
       },
       {
         "dropLevel": "",
-        "dropType": "combat",
+        "dropType": "reward",
         "quantityHigh": 2,
         "quantityLow": 1,
         "rarity": "Always",
@@ -19853,6 +19875,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Bandages"
+      }
+    ],
+    "group": "Bandages",
+    "name": "Bandages"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "57",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -20904,6 +20940,20 @@
     "group": "Barrel of demonic tallow",
     "name": "Barrel of demonic tallow (full)",
     "version": "Full"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Barricade"
+      }
+    ],
+    "group": "Barricade",
+    "name": "Barricade"
   },
   {
     "dropSources": [
@@ -25490,20 +25540,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "35",
-        "dropType": "woodcutting",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/268",
-        "source": "Undead tree"
-      }
-    ],
-    "group": "Bird nest",
-    "name": "Bird nest"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": -1,
@@ -25612,6 +25648,14 @@
         "quantityLow": 1,
         "rarity": "Very rare",
         "source": "Teak tree"
+      },
+      {
+        "dropLevel": "35",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Very rare",
+        "source": "Undead tree"
       },
       {
         "dropLevel": "30",
@@ -26583,6 +26627,14 @@
         "source": "Tern"
       },
       {
+        "dropLevel": "35",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Rare",
+        "source": "Undead tree"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 2,
@@ -27011,6 +27063,14 @@
         "quantityLow": 1,
         "rarity": "65/5,000",
         "source": "Tern"
+      },
+      {
+        "dropLevel": "35",
+        "dropType": "woodcutting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Rare",
+        "source": "Undead tree"
       },
       {
         "dropLevel": "",
@@ -30563,6 +30623,156 @@
   {
     "dropSources": [
       {
+        "dropLevel": "124",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Abyssal demon#Standard"
+      },
+      {
+        "dropLevel": "124",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/68",
+        "source": "Abyssal demon#Wilderness Slayer Cave"
+      },
+      {
+        "dropLevel": "172,178,184",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Black demon#Regular"
+      },
+      {
+        "dropLevel": "56,76",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/100",
+        "source": "Cyclops (Catacombs of Kourend)"
+      },
+      {
+        "dropLevel": "81",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/100",
+        "source": "Cyclops (God Wars Dungeon)"
+      },
+      {
+        "dropLevel": "56,76",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/100",
+        "source": "Cyclops#Warriors' Guild Rooftop"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "12/2,625",
+        "source": "Elaborate lockbox"
+      },
+      {
+        "dropLevel": "342",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Greater abyssal demon"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "36/2,450",
+        "source": "Ornate lockbox"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "11/8,856",
+        "source": "Reward casket (beginner)"
+      },
+      {
+        "dropLevel": "1",
+        "dropType": "smithing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/100",
+        "source": "Rusty sword#POH repair"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/100",
+        "source": "Rusty sword#Tindel Marchant"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "12/10,850",
+        "source": "Simple lockbox"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.46",
+        "source": "Steel Chest (black)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.39",
+        "source": "Steel Chest (brown)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.43",
+        "source": "Steel Chest (crimson)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.5",
+        "source": "Steel Chest (purple)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.35",
+        "source": "Steel Chest (red)"
+      }
+    ],
+    "group": "Black shortsword",
+    "name": "Black shortsword"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -30981,156 +31191,6 @@
     ],
     "group": "Black sq shield",
     "name": "Black sq shield"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "124",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Abyssal demon#Standard"
-      },
-      {
-        "dropLevel": "124",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/68",
-        "source": "Abyssal demon#Wilderness Slayer Cave"
-      },
-      {
-        "dropLevel": "172,178,184",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Black demon#Regular"
-      },
-      {
-        "dropLevel": "56,76",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/100",
-        "source": "Cyclops (Catacombs of Kourend)"
-      },
-      {
-        "dropLevel": "81",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/100",
-        "source": "Cyclops (God Wars Dungeon)"
-      },
-      {
-        "dropLevel": "56,76",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/100",
-        "source": "Cyclops#Warriors' Guild Rooftop"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "12/2,625",
-        "source": "Elaborate lockbox"
-      },
-      {
-        "dropLevel": "342",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Greater abyssal demon"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "36/2,450",
-        "source": "Ornate lockbox"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "11/8,856",
-        "source": "Reward casket (beginner)"
-      },
-      {
-        "dropLevel": "1",
-        "dropType": "smithing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/100",
-        "source": "Rusty sword#POH repair"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/100",
-        "source": "Rusty sword#Tindel Marchant"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "12/10,850",
-        "source": "Simple lockbox"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.46",
-        "source": "Steel Chest (black)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.39",
-        "source": "Steel Chest (brown)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.43",
-        "source": "Steel Chest (crimson)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.5",
-        "source": "Steel Chest (purple)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.35",
-        "source": "Steel Chest (red)"
-      }
-    ],
-    "group": "Black sword",
-    "name": "Black sword"
   },
   {
     "dropSources": [
@@ -41741,6 +41801,30 @@
         "source": "Outlaw (A Ruff Situation)"
       },
       {
+        "dropLevel": "6",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Mage"
+      },
+      {
+        "dropLevel": "6",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Ranger"
+      },
+      {
+        "dropLevel": "8",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Warrior"
+      },
+      {
         "dropLevel": "62",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -46065,6 +46149,14 @@
         "source": "Broken arrow"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Always",
+        "source": "Captain Harlan"
+      },
+      {
         "dropLevel": "4",
         "dropType": "combat",
         "quantityHigh": 7,
@@ -46433,6 +46525,14 @@
         "source": "Ocga"
       },
       {
+        "dropLevel": "6",
+        "dropType": "combat",
+        "quantityHigh": 80,
+        "quantityLow": 80,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Ranger"
+      },
+      {
         "dropLevel": "5",
         "dropType": "combat",
         "quantityHigh": 7,
@@ -46779,7 +46879,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Woodsman tutor"
+        "source": "Wilfred"
       },
       {
         "dropLevel": "",
@@ -48423,6 +48523,14 @@
         "source": "H.A.M. Member"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Monlum"
+      },
+      {
         "dropLevel": "20",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -48485,6 +48593,14 @@
         "quantityLow": 1,
         "rarity": "12/128",
         "source": "Swamp Crab"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Bronze pickaxe"
       },
       {
         "dropLevel": "",
@@ -48793,6 +48909,36 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Captain Harlan"
+      },
+      {
+        "dropLevel": "1",
+        "dropType": "smithing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "17/100",
+        "source": "Rusty sword#POH repair"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "17/100",
+        "source": "Rusty sword#Tindel Marchant"
+      }
+    ],
+    "group": "Bronze shortsword",
+    "name": "Bronze shortsword"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "74,92",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -48921,28 +49067,6 @@
     ],
     "group": "Bronze sq shield",
     "name": "Bronze sq shield"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "1",
-        "dropType": "smithing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "17/100",
-        "source": "Rusty sword#POH repair"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "17/100",
-        "source": "Rusty sword#Tindel Marchant"
-      }
-    ],
-    "group": "Bronze sword",
-    "name": "Bronze sword"
   },
   {
     "dropSources": [
@@ -49523,6 +49647,14 @@
         "quantityLow": 2,
         "rarity": "25/512",
         "source": "Svetlana"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Bucket"
       },
       {
         "dropLevel": "25",
@@ -54564,6 +54696,21 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Castlewars brew"
+      }
+    ],
+    "group": "Castlewars brew",
+    "name": "Castlewars brew(4)",
+    "version": "4 dose"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "1/1,133",
@@ -59104,6 +59251,20 @@
     ],
     "group": "Climbing boots (g)",
     "name": "Climbing boots (g)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Climbing rope"
+      }
+    ],
+    "group": "Climbing rope",
+    "name": "Climbing rope"
   },
   {
     "dropSources": [
@@ -63650,7 +63811,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "1/12",
+        "rarity": "1/10",
         "source": "Chest (The Fractured Archive)#Standard"
       },
       {
@@ -99157,6 +99318,36 @@
   {
     "dropSources": [
       {
+        "dropLevel": "95",
+        "dropType": "sailing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/8",
+        "source": "Lost ironwood crate"
+      },
+      {
+        "dropLevel": "259",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/2,000",
+        "source": "Shadow Wyrm"
+      },
+      {
+        "dropLevel": "97",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/10,000",
+        "source": "Wyrm"
+      }
+    ],
+    "group": "Dragon shortsword",
+    "name": "Dragon shortsword"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "318",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -99189,36 +99380,6 @@
     ],
     "group": "Dragon sq shield ornament kit",
     "name": "Dragon sq shield ornament kit"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "95",
-        "dropType": "sailing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/8",
-        "source": "Lost ironwood crate"
-      },
-      {
-        "dropLevel": "259",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/2,000",
-        "source": "Shadow Wyrm"
-      },
-      {
-        "dropLevel": "97",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/10,000",
-        "source": "Wyrm"
-      }
-    ],
-    "group": "Dragon sword",
-    "name": "Dragon sword"
   },
   {
     "dropSources": [
@@ -109180,6 +109341,20 @@
     ],
     "group": "Explorer backpack",
     "name": "Explorer backpack"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Explosive potion"
+      }
+    ],
+    "group": "Explosive potion",
+    "name": "Explosive potion"
   },
   {
     "dropSources": [
@@ -154369,6 +154544,14 @@
         "source": "Dwarf"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Feoras"
+      },
+      {
         "dropLevel": "5",
         "dropType": "thieving",
         "quantityHigh": 1,
@@ -154463,14 +154646,6 @@
         "quantityLow": 1,
         "rarity": "8/128",
         "source": "Imp"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Master smithing tutor"
       },
       {
         "dropLevel": "",
@@ -161284,6 +161459,14 @@
         "source": "Obor#Members"
       },
       {
+        "dropLevel": "8",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Warrior"
+      },
+      {
         "dropLevel": "70",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -163332,6 +163515,14 @@
         "source": "Ork"
       },
       {
+        "dropLevel": "8",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Warrior"
+      },
+      {
         "dropLevel": "",
         "dropType": "reward",
         "quantityHigh": 1,
@@ -163406,90 +163597,6 @@
     ],
     "group": "Iron scimitar",
     "name": "Iron scimitar"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "74,92",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/128",
-        "source": "Dagannoth"
-      },
-      {
-        "dropLevel": "28",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Hobgoblin#Unarmed"
-      },
-      {
-        "dropLevel": "53,58",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/129",
-        "source": "Jogre"
-      },
-      {
-        "dropLevel": "70",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/129",
-        "source": "Jungle horror"
-      },
-      {
-        "dropLevel": "107",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Ork"
-      },
-      {
-        "dropLevel": "40,63,72,77",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "5/128",
-        "source": "Skeleton (Tarn's Lair)#Medium level"
-      },
-      {
-        "dropLevel": "32",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/138",
-        "source": "Tribesman"
-      },
-      {
-        "dropLevel": "32",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/138",
-        "source": "Tribeswoman"
-      }
-    ],
-    "group": "Iron spear",
-    "name": "Iron spear"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "32/10,850",
-        "source": "Simple lockbox"
-      }
-    ],
-    "group": "Iron sq shield",
-    "name": "Iron sq shield"
   },
   {
     "dropSources": [
@@ -163606,8 +163713,92 @@
         "source": "Spiritual warrior"
       }
     ],
-    "group": "Iron sword",
-    "name": "Iron sword"
+    "group": "Iron shortsword",
+    "name": "Iron shortsword"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "74,92",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/128",
+        "source": "Dagannoth"
+      },
+      {
+        "dropLevel": "28",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Hobgoblin#Unarmed"
+      },
+      {
+        "dropLevel": "53,58",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/129",
+        "source": "Jogre"
+      },
+      {
+        "dropLevel": "70",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/129",
+        "source": "Jungle horror"
+      },
+      {
+        "dropLevel": "107",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Ork"
+      },
+      {
+        "dropLevel": "40,63,72,77",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "5/128",
+        "source": "Skeleton (Tarn's Lair)#Medium level"
+      },
+      {
+        "dropLevel": "32",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/138",
+        "source": "Tribesman"
+      },
+      {
+        "dropLevel": "32",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/138",
+        "source": "Tribeswoman"
+      }
+    ],
+    "group": "Iron spear",
+    "name": "Iron spear"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "32/10,850",
+        "source": "Simple lockbox"
+      }
+    ],
+    "group": "Iron sq shield",
+    "name": "Iron sq shield"
   },
   {
     "dropSources": [
@@ -184731,6 +184922,14 @@
         "source": "Brutus"
       },
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 40,
+        "quantityLow": 40,
+        "rarity": "Always",
+        "source": "Captain Harlan"
+      },
+      {
         "dropLevel": "4",
         "dropType": "combat",
         "quantityHigh": 9,
@@ -185107,14 +185306,6 @@
         "source": "Lundail#Medium Wilderness diary"
       },
       {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 30,
-        "quantityLow": 30,
-        "rarity": "Always",
-        "source": "Magic combat tutor"
-      },
-      {
         "dropLevel": "162",
         "dropType": "combat",
         "quantityHigh": 18,
@@ -185249,6 +185440,14 @@
         "quantityLow": 9,
         "rarity": "2/128",
         "source": "Outlaw"
+      },
+      {
+        "dropLevel": "6",
+        "dropType": "combat",
+        "quantityHigh": 80,
+        "quantityLow": 80,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Mage"
       },
       {
         "dropLevel": "5",
@@ -191382,6 +191581,132 @@
   {
     "dropSources": [
       {
+        "dropLevel": "128",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Bryophyta#Free-to-play"
+      },
+      {
+        "dropLevel": "128",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Bryophyta#Members"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/2,625",
+        "source": "Elaborate lockbox"
+      },
+      {
+        "dropLevel": "141",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Kalphite Guardian"
+      },
+      {
+        "dropLevel": "49",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/128",
+        "source": "Moonlight Cockatrice"
+      },
+      {
+        "dropLevel": "42,48",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Moss giant#Regular"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "18/2,450",
+        "source": "Ornate lockbox"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/100",
+        "source": "Rusty sword#Tindel Marchant"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/10,850",
+        "source": "Simple lockbox"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.46",
+        "source": "Steel Chest (black)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.39",
+        "source": "Steel Chest (brown)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.43",
+        "source": "Steel Chest (crimson)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.5",
+        "source": "Steel Chest (purple)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/134.35",
+        "source": "Steel Chest (red)"
+      },
+      {
+        "dropLevel": "40,42,47,50,56",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Zombie (Tarn's Lair)#Low level"
+      }
+    ],
+    "group": "Mithril shortsword",
+    "name": "Mithril shortsword"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "61",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -191989,132 +192314,6 @@
     ],
     "group": "Mithril sq shield",
     "name": "Mithril sq shield"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "128",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Bryophyta#Free-to-play"
-      },
-      {
-        "dropLevel": "128",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Bryophyta#Members"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/2,625",
-        "source": "Elaborate lockbox"
-      },
-      {
-        "dropLevel": "141",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Kalphite Guardian"
-      },
-      {
-        "dropLevel": "49",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/128",
-        "source": "Moonlight Cockatrice"
-      },
-      {
-        "dropLevel": "42,48",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Moss giant#Regular"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "18/2,450",
-        "source": "Ornate lockbox"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/100",
-        "source": "Rusty sword#Tindel Marchant"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/10,850",
-        "source": "Simple lockbox"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.46",
-        "source": "Steel Chest (black)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.39",
-        "source": "Steel Chest (brown)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.43",
-        "source": "Steel Chest (crimson)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.5",
-        "source": "Steel Chest (purple)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/134.35",
-        "source": "Steel Chest (red)"
-      },
-      {
-        "dropLevel": "40,42,47,50,56",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "Zombie (Tarn's Lair)#Low level"
-      }
-    ],
-    "group": "Mithril sword",
-    "name": "Mithril sword"
   },
   {
     "dropSources": [
@@ -204385,7 +204584,7 @@
         "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
-        "rarity": "Very rare",
+        "rarity": "1/750",
         "source": "Chest (The Fractured Archive)#Standard"
       }
     ],
@@ -222806,6 +223005,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Rock"
+      }
+    ],
+    "group": "Rock (Castle Wars)",
+    "name": "Rock (Castle Wars)"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "1",
         "dropType": "mining",
         "quantityHigh": 1,
@@ -222908,6 +223121,14 @@
         "quantityLow": 1,
         "rarity": "1/44,050",
         "source": "Amethyst crystals"
+      },
+      {
+        "dropLevel": "80",
+        "dropType": "mining",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/68,120",
+        "source": "Ascension rocks"
       },
       {
         "dropLevel": "22",
@@ -231904,6 +232125,20 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Rune pouch"
+      }
+    ],
+    "group": "Rune pouch (Castle Wars)",
+    "name": "Rune pouch (Castle Wars)"
+  },
+  {
+    "dropSources": [
+      {
         "dropLevel": "19",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -232428,202 +232663,6 @@
   {
     "dropSources": [
       {
-        "dropLevel": "97",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "Armadylean guard"
-      },
-      {
-        "dropLevel": "125",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "Bandosian guard"
-      },
-      {
-        "dropLevel": "204",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/52",
-        "source": "Basilisk Knight"
-      },
-      {
-        "dropLevel": "358",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/52",
-        "source": "Basilisk Sentinel"
-      },
-      {
-        "dropLevel": "318",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "10/128",
-        "source": "Brutal black dragon"
-      },
-      {
-        "dropLevel": "289",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "10/128",
-        "source": "Brutal red dragon"
-      },
-      {
-        "dropLevel": "304",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Mithril dragon"
-      },
-      {
-        "dropLevel": "64",
-        "dropType": "crafting",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "7/10",
-        "source": "Tarnished spear"
-      }
-    ],
-    "group": "Rune spear",
-    "name": "Rune spear"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/32",
-        "source": "Barbarian Assault/Gambles#Medium"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 5,
-        "quantityLow": 3,
-        "rarity": "1/230",
-        "source": "Casket (Reward pool)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/118",
-        "source": "Chest (Bryophyta's lair)#Free-to-play"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/118",
-        "source": "Chest (Bryophyta's lair)#Members"
-      },
-      {
-        "dropLevel": "350",
-        "dropType": "combat",
-        "quantityHigh": 2,
-        "quantityLow": 2,
-        "rarity": "2/56",
-        "source": "Eldric the Ice King"
-      },
-      {
-        "dropLevel": "200",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "7/128",
-        "source": "Greater Nechryael#Regular"
-      },
-      {
-        "dropLevel": "200",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "7/112",
-        "source": "Greater Nechryael#Wilderness Slayer Cave"
-      },
-      {
-        "dropLevel": "68,98,106",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "Locust rider"
-      },
-      {
-        "dropLevel": "65,75",
-        "dropType": "hunter",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/21",
-        "source": "Magpie impling"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/21",
-        "source": "Magpie impling jar"
-      },
-      {
-        "dropLevel": "103",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "3/513",
-        "source": "Mummy (Ancient Pyramid)"
-      },
-      {
-        "dropLevel": "300",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "7/128",
-        "source": "Nechryarch#Greater"
-      },
-      {
-        "dropLevel": "66,93,119",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "Scarab Mage"
-      },
-      {
-        "dropLevel": "200,250",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/100",
-        "source": "Scurrius#MVP"
-      },
-      {
-        "dropLevel": "464",
-        "dropType": "combat",
-        "quantityHigh": 4,
-        "quantityLow": 4,
-        "rarity": "2/126",
-        "source": "Venenatis"
-      }
-    ],
-    "group": "Rune sq shield",
-    "name": "Rune sq shield"
-  },
-  {
-    "dropSources": [
-      {
         "dropLevel": "350",
         "dropType": "combat",
         "quantityHigh": 3,
@@ -232840,8 +232879,204 @@
         "source": "Zombie pirate#Regular"
       }
     ],
-    "group": "Rune sword",
-    "name": "Rune sword"
+    "group": "Rune shortsword",
+    "name": "Rune shortsword"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "97",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Armadylean guard"
+      },
+      {
+        "dropLevel": "125",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Bandosian guard"
+      },
+      {
+        "dropLevel": "204",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/52",
+        "source": "Basilisk Knight"
+      },
+      {
+        "dropLevel": "358",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/52",
+        "source": "Basilisk Sentinel"
+      },
+      {
+        "dropLevel": "318",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "10/128",
+        "source": "Brutal black dragon"
+      },
+      {
+        "dropLevel": "289",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "10/128",
+        "source": "Brutal red dragon"
+      },
+      {
+        "dropLevel": "304",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Mithril dragon"
+      },
+      {
+        "dropLevel": "64",
+        "dropType": "crafting",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "7/10",
+        "source": "Tarnished spear"
+      }
+    ],
+    "group": "Rune spear",
+    "name": "Rune spear"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/32",
+        "source": "Barbarian Assault/Gambles#Medium"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 3,
+        "rarity": "1/230",
+        "source": "Casket (Reward pool)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/118",
+        "source": "Chest (Bryophyta's lair)#Free-to-play"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/118",
+        "source": "Chest (Bryophyta's lair)#Members"
+      },
+      {
+        "dropLevel": "350",
+        "dropType": "combat",
+        "quantityHigh": 2,
+        "quantityLow": 2,
+        "rarity": "2/56",
+        "source": "Eldric the Ice King"
+      },
+      {
+        "dropLevel": "200",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "7/128",
+        "source": "Greater Nechryael#Regular"
+      },
+      {
+        "dropLevel": "200",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "7/112",
+        "source": "Greater Nechryael#Wilderness Slayer Cave"
+      },
+      {
+        "dropLevel": "68,98,106",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Locust rider"
+      },
+      {
+        "dropLevel": "65,75",
+        "dropType": "hunter",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/21",
+        "source": "Magpie impling"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/21",
+        "source": "Magpie impling jar"
+      },
+      {
+        "dropLevel": "103",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "3/513",
+        "source": "Mummy (Ancient Pyramid)"
+      },
+      {
+        "dropLevel": "300",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "7/128",
+        "source": "Nechryarch#Greater"
+      },
+      {
+        "dropLevel": "66,93,119",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "Scarab Mage"
+      },
+      {
+        "dropLevel": "200,250",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/100",
+        "source": "Scurrius#MVP"
+      },
+      {
+        "dropLevel": "464",
+        "dropType": "combat",
+        "quantityHigh": 4,
+        "quantityLow": 4,
+        "rarity": "2/126",
+        "source": "Venenatis"
+      }
+    ],
+    "group": "Rune sq shield",
+    "name": "Rune sq shield"
   },
   {
     "dropSources": [
@@ -239690,12 +239925,28 @@
   {
     "dropSources": [
       {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Captain Harlan"
+      },
+      {
         "dropLevel": "100",
         "dropType": "combat",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "3/128",
         "source": "Giant skeleton (Tarn's Lair)"
+      },
+      {
+        "dropLevel": "6",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Ranger"
       },
       {
         "dropLevel": "",
@@ -242234,7 +242485,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Fishing tutor"
+        "source": "Finlay"
       },
       {
         "dropLevel": "20",
@@ -248412,6 +248663,14 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
+        "source": "Captain Harlan"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
         "source": "Combat path starter kit"
       },
       {
@@ -248461,6 +248720,14 @@
         "quantityLow": 1,
         "rarity": "2/65",
         "source": "Necromancer (Great Kourend)"
+      },
+      {
+        "dropLevel": "6",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Outlaw (Mudfoot's Big Adventure)#Mage"
       },
       {
         "dropLevel": "9",
@@ -257418,6 +257685,204 @@
         "source": "Bronze Chest (red)"
       },
       {
+        "dropLevel": "56,76",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/100",
+        "source": "Cyclops (Catacombs of Kourend)"
+      },
+      {
+        "dropLevel": "81",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/100",
+        "source": "Cyclops (God Wars Dungeon)"
+      },
+      {
+        "dropLevel": "56,76",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/100",
+        "source": "Cyclops#Warriors' Guild Rooftop"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "22/2,625",
+        "source": "Elaborate lockbox"
+      },
+      {
+        "dropLevel": "80",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Giant skeleton (Shadow Dungeon)"
+      },
+      {
+        "dropLevel": "53",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Ice giant#Regular"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Paladin"
+      },
+      {
+        "dropLevel": "1",
+        "dropType": "smithing",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/100",
+        "source": "Rusty sword#POH repair"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "6/100",
+        "source": "Rusty sword#Tindel Marchant"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "22/10,850",
+        "source": "Simple lockbox"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Sir Carl"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Sir Harry"
+      },
+      {
+        "dropLevel": "62",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "Sir Jerro"
+      },
+      {
+        "dropLevel": "40,50,60",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/128",
+        "source": "Skeleton fremennik"
+      },
+      {
+        "dropLevel": "115,123,125,134,158",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "7/127",
+        "source": "Spiritual warrior"
+      },
+      {
+        "dropLevel": "36",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "White Knight#Level 36"
+      },
+      {
+        "dropLevel": "38",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "1/128",
+        "source": "White Knight#Level 38"
+      },
+      {
+        "dropLevel": "39",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "White Knight#Level 39"
+      },
+      {
+        "dropLevel": "42",
+        "dropType": "combat",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "2/128",
+        "source": "White Knight#Level 42"
+      }
+    ],
+    "group": "Steel shortsword",
+    "name": "Steel shortsword"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/98.64",
+        "source": "Bronze Chest (black)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/98.59",
+        "source": "Bronze Chest (brown)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/98.62",
+        "source": "Bronze Chest (crimson)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/98.67",
+        "source": "Bronze Chest (purple)"
+      },
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "4/98.56",
+        "source": "Bronze Chest (red)"
+      },
+      {
         "dropLevel": "51",
         "dropType": "combat",
         "quantityHigh": 1,
@@ -257590,204 +258055,6 @@
     ],
     "group": "Steel studs",
     "name": "Steel studs"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/98.64",
-        "source": "Bronze Chest (black)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/98.59",
-        "source": "Bronze Chest (brown)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/98.62",
-        "source": "Bronze Chest (crimson)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/98.67",
-        "source": "Bronze Chest (purple)"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/98.56",
-        "source": "Bronze Chest (red)"
-      },
-      {
-        "dropLevel": "56,76",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/100",
-        "source": "Cyclops (Catacombs of Kourend)"
-      },
-      {
-        "dropLevel": "81",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/100",
-        "source": "Cyclops (God Wars Dungeon)"
-      },
-      {
-        "dropLevel": "56,76",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/100",
-        "source": "Cyclops#Warriors' Guild Rooftop"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "22/2,625",
-        "source": "Elaborate lockbox"
-      },
-      {
-        "dropLevel": "80",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Giant skeleton (Shadow Dungeon)"
-      },
-      {
-        "dropLevel": "53",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Ice giant#Regular"
-      },
-      {
-        "dropLevel": "62",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Paladin"
-      },
-      {
-        "dropLevel": "1",
-        "dropType": "smithing",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/100",
-        "source": "Rusty sword#POH repair"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "6/100",
-        "source": "Rusty sword#Tindel Marchant"
-      },
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "22/10,850",
-        "source": "Simple lockbox"
-      },
-      {
-        "dropLevel": "62",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Sir Carl"
-      },
-      {
-        "dropLevel": "62",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Sir Harry"
-      },
-      {
-        "dropLevel": "62",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "Sir Jerro"
-      },
-      {
-        "dropLevel": "40,50,60",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "4/128",
-        "source": "Skeleton fremennik"
-      },
-      {
-        "dropLevel": "115,123,125,134,158",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "7/127",
-        "source": "Spiritual warrior"
-      },
-      {
-        "dropLevel": "36",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "White Knight#Level 36"
-      },
-      {
-        "dropLevel": "38",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "1/128",
-        "source": "White Knight#Level 38"
-      },
-      {
-        "dropLevel": "39",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "White Knight#Level 39"
-      },
-      {
-        "dropLevel": "42",
-        "dropType": "combat",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "2/128",
-        "source": "White Knight#Level 42"
-      }
-    ],
-    "group": "Steel sword",
-    "name": "Steel sword"
   },
   {
     "dropSources": [
@@ -268241,7 +268508,7 @@
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "Always",
-        "source": "Woodsman tutor"
+        "source": "Wilfred"
       },
       {
         "dropLevel": "",
@@ -270574,6 +270841,20 @@
       {
         "dropLevel": "",
         "dropType": "reward",
+        "quantityHigh": 5,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Table (Castle Wars)#Toolkit"
+      }
+    ],
+    "group": "Toolkit (Castle Wars)",
+    "name": "Toolkit (Castle Wars)"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
         "quantityHigh": 1,
         "quantityLow": 1,
         "rarity": "23/640",
@@ -272877,62 +273158,6 @@
     ],
     "group": "Trading sticks",
     "name": "Trading sticks"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 25,
-        "quantityLow": 25,
-        "rarity": "Always",
-        "source": "Ranged combat tutor"
-      }
-    ],
-    "group": "Training arrows",
-    "name": "Training arrows"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Ranged combat tutor"
-      }
-    ],
-    "group": "Training bow",
-    "name": "Training bow"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Melee combat tutor"
-      }
-    ],
-    "group": "Training shield",
-    "name": "Training shield"
-  },
-  {
-    "dropSources": [
-      {
-        "dropLevel": "",
-        "dropType": "reward",
-        "quantityHigh": 1,
-        "quantityLow": 1,
-        "rarity": "Always",
-        "source": "Melee combat tutor"
-      }
-    ],
-    "group": "Training sword",
-    "name": "Training sword"
   },
   {
     "dropSources": [
@@ -293737,6 +293962,20 @@
     ],
     "group": "Woodcutting tome",
     "name": "Woodcutting tome"
+  },
+  {
+    "dropSources": [
+      {
+        "dropLevel": "",
+        "dropType": "reward",
+        "quantityHigh": 1,
+        "quantityLow": 1,
+        "rarity": "Always",
+        "source": "Captain Harlan"
+      }
+    ],
+    "group": "Wooden shield",
+    "name": "Wooden shield"
   },
   {
     "dropSources": [

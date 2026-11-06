@@ -3777,6 +3777,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Adamantite bar.png",
+        "name": "Adamantite bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Adamant shortsword.png",
+      "name": "Adamant shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "62.5",
+        "level": "74",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "image": "Adamant spear.png",
@@ -3920,32 +3946,6 @@
         "boostable": "Yes",
         "experience": "125",
         "level": "78",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Adamantite bar.png",
-        "name": "Adamantite bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Adamant sword.png",
-      "name": "Adamant sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "62.5",
-        "level": "74",
         "name": "Smithing"
       }
     ],
@@ -14528,7 +14528,7 @@
     "output": {
       "image": "Blade of Saeldor.png",
       "name": "Blade of Saeldor",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">86,737,561</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive blade plus the cost of charging it. The tradeable inactive blade is worth <span class=\"coins inventory-image coins-1000 coins-pos\">83,152,925</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -20453,7 +20453,7 @@
     "output": {
       "image": "Bow of Faerdhinen.png",
       "name": "Bow of Faerdhinen",
-      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">87,473,915</span>.",
+      "outputnote": "Starts with 10,000 charges. Value is that of an inactive bow plus the cost of charging it. The tradeable inactive bow is worth <span class=\"coins inventory-image coins-1000 coins-pos\">81,494,074</span>.",
       "quantity": "1"
     },
     "skills": [
@@ -24933,6 +24933,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Bronze bar.png",
+        "name": "Bronze bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Bronze shortsword.png",
+      "name": "Bronze shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "12.5",
+        "level": "4",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -25076,32 +25102,6 @@
         "boostable": "Yes",
         "experience": "25",
         "level": "8",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Bronze bar.png",
-        "name": "Bronze bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Bronze sword.png",
-      "name": "Bronze sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "12.5",
-        "level": "4",
         "name": "Smithing"
       }
     ],
@@ -43908,7 +43908,7 @@
     "skills": [
       {
         "boostable": "Yes",
-        "experience": "57",
+        "experience": "67",
         "level": "57",
         "name": "Magic"
       }
@@ -47928,6 +47928,28 @@
   {
     "materials": [
       {
+        "image": "Dragon shortsword.png",
+        "name": "Dragon shortsword",
+        "quantity": "1"
+      },
+      {
+        "image": "Bounty hunter ornament kit.png",
+        "name": "Bounty hunter ornament kit",
+        "quantity": "1"
+      }
+    ],
+    "members": true,
+    "output": {
+      "image": "Dragon shortsword (cr).png",
+      "name": "Dragon shortsword (cr)",
+      "quantity": "1"
+    },
+    "skills": [],
+    "ticks": "0"
+  },
+  {
+    "materials": [
+      {
         "image": "Dragon spear.png",
         "name": "Dragon spear",
         "quantity": "1"
@@ -48183,28 +48205,6 @@
     },
     "skills": [],
     "ticks": ""
-  },
-  {
-    "materials": [
-      {
-        "image": "Dragon sword.png",
-        "name": "Dragon sword",
-        "quantity": "1"
-      },
-      {
-        "image": "Bounty hunter ornament kit.png",
-        "name": "Bounty hunter ornament kit",
-        "quantity": "1"
-      }
-    ],
-    "members": true,
-    "output": {
-      "image": "Dragon sword (cr).png",
-      "name": "Dragon sword (cr)",
-      "quantity": "1"
-    },
-    "skills": [],
-    "ticks": "0"
   },
   {
     "materials": [
@@ -69740,6 +69740,32 @@
     "tools": ""
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Iron bar.png",
+        "name": "Iron bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Iron shortsword.png",
+      "name": "Iron shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "25",
+        "level": "19",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -69909,32 +69935,6 @@
         "boostable": "Yes",
         "experience": "50",
         "level": "23",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Iron bar.png",
-        "name": "Iron bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Iron sword.png",
-      "name": "Iron sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "25",
-        "level": "19",
         "name": "Smithing"
       }
     ],
@@ -81941,6 +81941,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Mithril bar.png",
+        "name": "Mithril bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Mithril shortsword.png",
+      "name": "Mithril shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "50",
+        "level": "54",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -82084,32 +82110,6 @@
         "boostable": "Yes",
         "experience": "100",
         "level": "58",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Mithril bar.png",
-        "name": "Mithril bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Mithril sword.png",
-      "name": "Mithril sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "50",
-        "level": "54",
         "name": "Smithing"
       }
     ],
@@ -89049,7 +89049,7 @@
     },
     "skills": [
       {
-        "boostable": "",
+        "boostable": "Yes",
         "experience": "94",
         "level": "86",
         "name": "Fletching"
@@ -103542,6 +103542,32 @@
     "tools": "Hammer, Chisel"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Runite bar.png",
+        "name": "Runite bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Rune shortsword.png",
+      "name": "Rune shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "75",
+        "level": "89",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "materials": [
       {
         "image": "Rune spear.png",
@@ -103685,32 +103711,6 @@
         "boostable": "Yes",
         "experience": "150",
         "level": "93",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Runite bar.png",
-        "name": "Runite bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Rune sword.png",
-      "name": "Rune sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "75",
-        "level": "89",
         "name": "Smithing"
       }
     ],
@@ -119439,6 +119439,32 @@
     "tools": "Hammer"
   },
   {
+    "facilities": "Anvil",
+    "materials": [
+      {
+        "image": "Steel bar.png",
+        "name": "Steel bar",
+        "quantity": "1"
+      }
+    ],
+    "members": false,
+    "output": {
+      "image": "Steel shortsword.png",
+      "name": "Steel shortsword",
+      "quantity": "1"
+    },
+    "skills": [
+      {
+        "boostable": "Yes",
+        "experience": "37.5",
+        "level": "34",
+        "name": "Smithing"
+      }
+    ],
+    "ticks": "5",
+    "tools": "Hammer"
+  },
+  {
     "facilities": "Barbarian anvil",
     "materials": [
       {
@@ -119608,32 +119634,6 @@
         "boostable": "Yes",
         "experience": "37.5",
         "level": "36",
-        "name": "Smithing"
-      }
-    ],
-    "ticks": "5",
-    "tools": "Hammer"
-  },
-  {
-    "facilities": "Anvil",
-    "materials": [
-      {
-        "image": "Steel bar.png",
-        "name": "Steel bar",
-        "quantity": "1"
-      }
-    ],
-    "members": false,
-    "output": {
-      "image": "Steel sword.png",
-      "name": "Steel sword",
-      "quantity": "1"
-    },
-    "skills": [
-      {
-        "boostable": "Yes",
-        "experience": "37.5",
-        "level": "34",
         "name": "Smithing"
       }
     ],

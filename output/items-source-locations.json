@@ -3081,7 +3081,7 @@
     "locations": [
       {
         "isMembers": false,
-        "location": "Ice Mountain",
+        "location": "Ice Mountain - Black Guard base",
         "requirements": "",
         "tiles": "3012,3444,0;3014,3447,0;3015,3445,0;3019,3446,0"
       }
@@ -5150,6 +5150,18 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "requirements": "",
+        "tiles": "3218,3238,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Captain Harlan"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Karamja",
         "requirements": "",
@@ -5578,6 +5590,18 @@
     ],
     "requiredItem": "",
     "source": "Chaos dwarf"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Fossil Island",
+        "requirements": "",
+        "tiles": "3655,3745,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Charles Charlington"
   },
   {
     "locations": [
@@ -6233,7 +6257,7 @@
         "isMembers": true,
         "location": "At Lumbridge Castle inside the room with the spinning wheel",
         "requirements": "",
-        "tiles": "3209,3217,1"
+        "tiles": "3211,3212,1"
       }
     ],
     "requiredItem": "",
@@ -10391,7 +10415,7 @@
         "isMembers": true,
         "location": "Varies",
         "requirements": "",
-        "tiles": "3052,3671,0;3273,3160,0;2994,3240,0;3068,3342,0;2848,3431,0;2729,3436,0;2912,3503,0;3294,3471,0;3045,3512,0;2621,3161,0"
+        "tiles": "3052,3671,0;3273,3160,0;1312,10199,0;2994,9544,0;2455,3086,0;2912,3503,0;1591,3038,0;2994,3240,0;3360,3744,0;3045,3512,0;2935,3073,0;2729,3436,0;3468,3304,0;2848,3431,0;2974,3731,0;3169,3147,0;3171,3905,0;1746,3037,0;3361,3601,0;2927,3429,0;3088,3648,0;2482,3352,0;3421,3547,2;2790,3461,0;3068,3342,0;2621,3161,0;3338,3481,0;3072,3936,0;3494,3484,0;2482,4371,0;3037,9814,0;2718,10006,0"
       }
     ],
     "requiredItem": "",
@@ -11637,7 +11661,7 @@
       },
       {
         "isMembers": true,
-        "location": "Woodcutting Guild Ent Dungeon",
+        "location": "Woodcutting Guild Ent cavern",
         "requirements": "",
         "tiles": "1548,9893,0;1550,9886,0;1552,9902,0;1554,9892,0;1557,9868,0;1559,9864,0;1559,9902,0;1561,9908,0;1562,9868,0;1568,9900,0;1568,9909,0;1571,9879,0;1571,9883,0;1574,9871,0;1575,9890,0;1577,9899,0;1578,9884,0;1579,9880,0;1579,9912,0;1580,9905,0;1587,9865,0;1590,9863,0;1592,9868,0"
       }
@@ -11942,6 +11966,18 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "requirements": "",
+        "tiles": "3226,3254,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Feoras"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Haunted Woods ALQ",
         "requirements": "",
@@ -11998,6 +12034,18 @@
     ],
     "requiredItem": "",
     "source": "Fever spider"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "North-east of the Lumbridge Swamp training mine",
+        "requirements": "",
+        "tiles": "3244,3157,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Finlay"
   },
   {
     "locations": [
@@ -13636,18 +13684,6 @@
     ],
     "requiredItem": "",
     "source": "Fishing spot (swamp)"
-  },
-  {
-    "locations": [
-      {
-        "isMembers": false,
-        "location": "North-east of the Lumbridge Swamp training mine",
-        "requirements": "",
-        "tiles": "3244,3157,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Fishing tutor"
   },
   {
     "locations": [
@@ -17079,13 +17115,13 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Gryphons (dungeon)",
+        "location": "Gryphon Caves",
         "requirements": "",
         "tiles": "3084,8868,0;3088,8864,0;3089,8870,0;3089,8878,0;3092,8874,0;3093,8865,0;3103,8856,0;3105,8851,0;3106,8875,0;3108,8847,0;3111,8870,0;3112,8852,0;3112,8857,0;3113,8875,0;3116,8869,0;3118,8855,0;3119,8877,0;3123,8865,0"
       },
       {
         "isMembers": true,
-        "location": "Gryphons (task-only dungeon)",
+        "location": "Gryphon Caves (task-only cave)",
         "requirements": "",
         "tiles": "3210,8844,0;3213,8871,0;3214,8851,0;3215,8846,0;3215,8865,0;3219,8841,0;3219,8854,0;3219,8870,0;3220,8847,0;3222,8875,0;3226,8871,0;3227,8877,0;3233,8859,0;3235,8865,0;3237,8854,0;3240,8861,0;3245,8857,0;3245,8865,0"
       }
@@ -21974,18 +22010,6 @@
   {
     "locations": [
       {
-        "isMembers": false,
-        "location": "Lumbridge",
-        "requirements": "",
-        "tiles": "3218,3238,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Magic combat tutor"
-  },
-  {
-    "locations": [
-      {
         "isMembers": true,
         "location": "Movario's base",
         "requirements": "",
@@ -22856,18 +22880,6 @@
   {
     "locations": [
       {
-        "isMembers": false,
-        "location": "Varrock",
-        "requirements": "",
-        "tiles": "3188,3424,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Master smithing tutor"
-  },
-  {
-    "locations": [
-      {
         "isMembers": true,
         "location": "Stalker Den (single-combat)",
         "requirements": "",
@@ -22912,18 +22924,6 @@
     ],
     "requiredItem": "",
     "source": "Me"
-  },
-  {
-    "locations": [
-      {
-        "isMembers": false,
-        "location": "Lumbridge",
-        "requirements": "",
-        "tiles": "3218,3238,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Melee combat tutor"
   },
   {
     "locations": [
@@ -23704,6 +23704,18 @@
     ],
     "requiredItem": "",
     "source": "Monkey Zombie"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "East Lumbridge Swamp mine",
+        "requirements": "",
+        "tiles": "3227,3146,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Monlum"
   },
   {
     "locations": [
@@ -26848,18 +26860,6 @@
     ],
     "requiredItem": "",
     "source": "Ranalph Devere"
-  },
-  {
-    "locations": [
-      {
-        "isMembers": false,
-        "location": "Lumbridge",
-        "requirements": "",
-        "tiles": "3218,3238,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Ranged combat tutor"
   },
   {
     "locations": [
@@ -32148,6 +32148,12 @@
         "location": "Ruins of Unkah - near Gita Prymes",
         "requirements": "",
         "tiles": "3167,2838,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Sunset Coast",
+        "requirements": "",
+        "tiles": "1523,2977,0"
       }
     ],
     "requiredItem": "",
@@ -33898,6 +33904,126 @@
     ],
     "requiredItem": "",
     "source": "Table (Black Knight Catacombs, supplies)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Bandages"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Barricade"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Bronze pickaxe"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Bucket"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Castlewars brew"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Climbing rope"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Explosive potion"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Rock"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Rune pouch"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Castle Wars",
+        "requirements": "",
+        "tiles": "2376,3128,1;2423,3078,1;2370,3133,0;2429,3073,0;2376,3133,0;2423,3073,0;2371,3127,0;2428,3079,0;2375,3129,0;2423,3078,0;2423,3073,1;2376,3133,1;2373,3133,0;2426,3073,0;2373,3131,0;2426,3075,0;2376,3131,0;2423,3075,0;2368,3127,1;2431,3080,1;2370,3131,0;2429,3075,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Table (Castle Wars)#Toolkit"
   },
   {
     "locations": [
@@ -37058,6 +37184,18 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Lumbridge",
+        "requirements": "",
+        "tiles": "3227,3246,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Wilfred"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "Fossil Island",
         "requirements": "",
@@ -37610,12 +37748,6 @@
         "tiles": "3211,3213,1"
       },
       {
-        "isMembers": false,
-        "location": "Draynor Village (1st floor)",
-        "requirements": "",
-        "tiles": "3097,3269,1"
-      },
-      {
         "isMembers": true,
         "location": "Shayzien",
         "requirements": "",
@@ -37666,18 +37798,6 @@
     ],
     "requiredItem": "",
     "source": "Woman (West Ardougne)"
-  },
-  {
-    "locations": [
-      {
-        "isMembers": false,
-        "location": "Lumbridge",
-        "requirements": "",
-        "tiles": "3227,3246,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Woodsman tutor"
   },
   {
     "locations": [
@@ -38073,6 +38193,12 @@
       },
       {
         "isMembers": false,
+        "location": "Lumbridge - next to Wilfred",
+        "requirements": "",
+        "tiles": "3230,3245,0"
+      },
+      {
+        "isMembers": false,
         "location": "West of Lumbridge",
         "requirements": "",
         "tiles": "3146,3254,0;3151,3230,0;3165,3219,0;3184,3226,0"
@@ -38367,6 +38493,12 @@
       },
       {
         "isMembers": false,
+        "location": "Lumbridge - next to Wilfred",
+        "requirements": "",
+        "tiles": "3230,3245,0"
+      },
+      {
+        "isMembers": false,
         "location": "West of Lumbridge",
         "requirements": "",
         "tiles": "3146,3254,0;3151,3230,0;3165,3219,0;3184,3226,0"
@@ -38658,6 +38790,12 @@
         "location": "Edgeville",
         "requirements": "",
         "tiles": "3085,3468,0;3085,3480,0"
+      },
+      {
+        "isMembers": false,
+        "location": "Lumbridge - next to Wilfred",
+        "requirements": "",
+        "tiles": "3230,3245,0"
       },
       {
         "isMembers": false,
