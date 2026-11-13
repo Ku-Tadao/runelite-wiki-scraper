@@ -2360,6 +2360,15 @@
         "tiles": "2521,2916,0"
       },
       {
+        "coords": "3585,3496",
+        "isMembers": true,
+        "location": "Haunted Woods - during A Shell of a Friend",
+        "mapID": "0",
+        "name": "Bronze axe",
+        "plane": "0",
+        "tiles": "3585,3496,0"
+      },
+      {
         "coords": "2778,10079",
         "isMembers": true,
         "location": "Kendal's Lair",
@@ -3473,7 +3482,7 @@
       {
         "coords": "2823,3449",
         "isMembers": true,
-        "location": "Catherby - house north of Hickton's Archery Emporium",
+        "location": "Catherby - Councillor Catherine's office",
         "mapID": "0",
         "name": "Bucket of water",
         "plane": "0",
@@ -3577,6 +3586,15 @@
         "name": "Bucket of water",
         "plane": "1",
         "tiles": "1388,2866,1"
+      },
+      {
+        "coords": "3307,3391",
+        "isMembers": true,
+        "location": "Southwest of the Digsite",
+        "mapID": "0",
+        "name": "Bucket of water",
+        "plane": "0",
+        "tiles": "3307,3391,0"
       },
       {
         "coords": "2885,3945",
@@ -5201,6 +5219,20 @@
     ]
   },
   {
+    "group": "Dew-covered branch",
+    "spawns": [
+      {
+        "coords": "3573,3485",
+        "isMembers": true,
+        "location": "Haunted Woods",
+        "mapID": "0",
+        "name": "Dew-covered branch",
+        "plane": "0",
+        "tiles": "3573,3485,0;3574,3486,0;3575,3483,0;3576,3482,0;3573,3478,0"
+      }
+    ]
+  },
+  {
     "group": "Diary (Witch's House)",
     "spawns": [
       {
@@ -5878,6 +5910,20 @@
     ]
   },
   {
+    "group": "Fresh leaves",
+    "spawns": [
+      {
+        "coords": "3573,3502",
+        "isMembers": true,
+        "location": "Haunted Woods",
+        "mapID": "0",
+        "name": "Fresh leaves",
+        "plane": "0",
+        "tiles": "3573,3502,0;3571,3506,0;3575,3508,0;3579,3511,0;3573,3513,0"
+      }
+    ]
+  },
+  {
     "group": "Garlic",
     "spawns": [
       {
@@ -6442,6 +6488,15 @@
         "tiles": "1953,4974,0"
       },
       {
+        "coords": "3223,3252",
+        "isMembers": false,
+        "location": "Lumbridge",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0",
+        "tiles": "3223,3252,0"
+      },
+      {
         "coords": "1401,2866",
         "isMembers": true,
         "location": "Mistrock",
@@ -6566,6 +6621,15 @@
         "name": "Hammer",
         "plane": "0",
         "tiles": "3176,2426,0"
+      },
+      {
+        "coords": "3186,3422",
+        "isMembers": false,
+        "location": "Varrock \u2013 Anvil building",
+        "mapID": "0",
+        "name": "Hammer",
+        "plane": "0",
+        "tiles": "3186,3422,0"
       }
     ]
   },
@@ -7612,7 +7676,7 @@
         "coords": "4119,5546",
         "isMembers": true,
         "location": "The Fractured Archive lobby",
-        "mapID": "0",
+        "mapID": "-1",
         "name": "Jug of wine",
         "plane": "0",
         "tiles": "4119,5546,0"
@@ -8683,7 +8747,7 @@
         "coords": "4114,5535",
         "isMembers": true,
         "location": "The Fractured Archive lobby",
-        "mapID": "0",
+        "mapID": "-1",
         "name": "Mithril pickaxe",
         "plane": "0",
         "tiles": "4114,5535,0"
@@ -11180,6 +11244,20 @@
     ]
   },
   {
+    "group": "Small fishing net (Evil Bob)",
+    "spawns": [
+      {
+        "coords": "2518,4768",
+        "isMembers": false,
+        "location": "ScapeRune",
+        "mapID": "10057",
+        "name": "Small fishing net (Evil Bob)",
+        "plane": "0",
+        "tiles": "2518,4768,0;2533,4769,0;2535,4772,0;2536,4783,0;2533,4784,0;2516,4784,0;2520,4786,0"
+      }
+    ]
+  },
+  {
     "group": "Smashed glass",
     "spawns": [
       {
@@ -11399,6 +11477,15 @@
         "name": "Spade",
         "plane": "0",
         "tiles": "3426,9958,3"
+      },
+      {
+        "coords": "3316,3385",
+        "isMembers": true,
+        "location": "Southwest of the Digsite",
+        "mapID": "0",
+        "name": "Spade",
+        "plane": "0",
+        "tiles": "3316,3385,0"
       },
       {
         "coords": "3218,3412",
@@ -11774,6 +11861,20 @@
         "name": "Strawberry",
         "plane": "0",
         "tiles": "1376,3503,0"
+      }
+    ]
+  },
+  {
+    "group": "Strong sticks",
+    "spawns": [
+      {
+        "coords": "3581,3479",
+        "isMembers": true,
+        "location": "Haunted Woods",
+        "mapID": "0",
+        "name": "Strong sticks",
+        "plane": "0",
+        "tiles": "3581,3479,0;3581,3483,0;3583,3486,0;3580,3488,0;3582,3497,0"
       }
     ]
   },

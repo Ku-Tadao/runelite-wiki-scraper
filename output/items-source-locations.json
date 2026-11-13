@@ -4215,6 +4215,126 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Chasm of Tears (earth)",
+        "requirements": "",
+        "tiles": "4056,4602,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (fire)",
+        "requirements": "",
+        "tiles": "4072,4604,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (air)",
+        "requirements": "",
+        "tiles": "4053,4589,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (water)",
+        "requirements": "",
+        "tiles": "4073,4588,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Brazier (Chasm of Tears)#Air brazier"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (earth)",
+        "requirements": "",
+        "tiles": "4056,4602,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (fire)",
+        "requirements": "",
+        "tiles": "4072,4604,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (air)",
+        "requirements": "",
+        "tiles": "4053,4589,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (water)",
+        "requirements": "",
+        "tiles": "4073,4588,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Brazier (Chasm of Tears)#Earth brazier"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (earth)",
+        "requirements": "",
+        "tiles": "4056,4602,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (fire)",
+        "requirements": "",
+        "tiles": "4072,4604,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (air)",
+        "requirements": "",
+        "tiles": "4053,4589,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (water)",
+        "requirements": "",
+        "tiles": "4073,4588,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Brazier (Chasm of Tears)#Fire brazier"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (earth)",
+        "requirements": "",
+        "tiles": "4056,4602,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (fire)",
+        "requirements": "",
+        "tiles": "4072,4604,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (air)",
+        "requirements": "",
+        "tiles": "4053,4589,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Chasm of Tears (water)",
+        "requirements": "",
+        "tiles": "4073,4588,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Brazier (Chasm of Tears)#Water brazier"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "God Wars Dungeon (Saradomin boss room)",
         "requirements": "",
         "tiles": "2902,5274,0"
@@ -4795,6 +4915,12 @@
   },
   {
     "locations": [
+      {
+        "isMembers": false,
+        "location": "Bea's farm",
+        "requirements": "",
+        "tiles": "3310,3385,0;3311,3385,0;3312,3385,0;3313,3385,0;3310,3384,0;3311,3384,0;3312,3384,0;3313,3384,0"
+      },
       {
         "isMembers": true,
         "location": "Taverley",
@@ -6612,12 +6738,6 @@
         "location": "Tal Teklan",
         "requirements": "",
         "tiles": "1236,3138,0;1237,3136,0;1241,3139,0;1242,3136,0;1244,3137,0"
-      },
-      {
-        "isMembers": true,
-        "location": "Goblin Cave when searching boxes or crates",
-        "requirements": "",
-        "tiles": "2622,3393,0"
       },
       {
         "isMembers": true,
@@ -8739,6 +8859,18 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Gloomthorn Trail",
+        "requirements": "",
+        "tiles": "1388,3216,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Crate (Gloomthorn Trail)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Kruk's Dungeon",
         "requirements": "",
         "tiles": "2204,5467,0;2209,5468,0;2209,5467,0;2205,5467,0;2210,5467,0"
@@ -8753,7 +8885,7 @@
         "isMembers": true,
         "location": "Goblin Cave",
         "requirements": "",
-        "tiles": "2562,9848,0;2562,9850,0;2563,9833,0;2563,9843,0;2563,9844,0;2564,9842,0;2565,9841,0;2566,9845,0;2566,9852,0;2567,9841,0;2567,9846,0;2569,9853,0;2571,9848,0;2562,9835,0;2563,9845,0;2563,9846,0;2564,9844,0;2565,9833,0;2565,9852,0;2567,9851,0;2570,9848,0;2572,9846,0;2579,9853,0;2581,9834,0"
+        "tiles": "2564,9853,0;2580,9853,0;2567,9852,0;2568,9852,0;2562,9851,0;2562,9849,0;2571,9849,0;2563,9847,0;2566,9847,0;2571,9847,0;2567,9845,0;2564,9843,0;2562,9834,0;2564,9833,0;2569,9853,0;2566,9852,0;2562,9850,0;2562,9848,0;2571,9848,0;2567,9846,0;2566,9845,0;2563,9844,0;2563,9843,0;2564,9842,0;2565,9841,0;2567,9841,0;2563,9833,0"
       }
     ],
     "requiredItem": "",
@@ -8770,6 +8902,18 @@
     ],
     "requiredItem": "",
     "source": "Crate (Goblin Temple)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Goblin Temple",
+        "requirements": "",
+        "tiles": "3757,4342,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Crate (Goblin Temple, sphere)"
   },
   {
     "locations": [
@@ -9094,6 +9238,18 @@
     ],
     "requiredItem": "",
     "source": "Crate (Zanaris)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Zul-Andra",
+        "requirements": "",
+        "tiles": "2197,3053,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Crate (Zul-Andra)"
   },
   {
     "locations": [
@@ -9646,6 +9802,18 @@
     ],
     "requiredItem": "",
     "source": "Cupboard (Heroes' Quest)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "East Ardougne",
+        "requirements": "",
+        "tiles": "2611,3326,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Cupboard (Jerico's house)"
   },
   {
     "locations": [
@@ -11685,6 +11853,18 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "South-east of Varrock",
+        "requirements": "",
+        "tiles": "3315,3376,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Equipment crate"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Puro Puro",
         "requirements": "",
         "tiles": "2574,4317,0;2576,4337,0;2585,4298,0;2601,4343,0;2612,4318,0"
@@ -13664,6 +13844,144 @@
   {
     "locations": [
       {
+        "isMembers": false,
+        "location": "Al Kharid",
+        "requirements": "",
+        "tiles": "3267,3148,0;3275,3140,0"
+      },
+      {
+        "isMembers": false,
+        "location": "Draynor Village",
+        "requirements": "",
+        "tiles": "3086,3227,0;3085,3230,0"
+      },
+      {
+        "isMembers": false,
+        "location": "Lumbridge Swamp",
+        "requirements": "",
+        "tiles": "3246,3155,0;3240,3147,0;3240,3146,0;3244,3150,0;3245,3152,0"
+      },
+      {
+        "isMembers": false,
+        "location": "Musa Point",
+        "requirements": "",
+        "tiles": "2924,3181,0;2926,3180,0;2923,3179,0"
+      },
+      {
+        "isMembers": false,
+        "location": "West of Port Sarim",
+        "requirements": "",
+        "tiles": "2996,3158,0;2986,3176,0"
+      },
+      {
+        "isMembers": false,
+        "location": "Wilderness Bandit Camp",
+        "requirements": "",
+        "tiles": "3050,3704,0"
+      },
+      {
+        "isMembers": true,
+        "location": "West of Land's End",
+        "requirements": "",
+        "tiles": "1485,3431,0;1485,3432,0;1494,3443,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Port Piscarilius",
+        "requirements": "",
+        "tiles": "1761,3796,0;1764,3796,0;1765,3796,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Barbarian Outpost",
+        "requirements": "",
+        "tiles": "2498,3547,0;2511,3562,0;2516,3575,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Catherby",
+        "requirements": "",
+        "tiles": "2838,3431,0;2836,3431,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Entrana",
+        "requirements": "",
+        "tiles": "2875,3342,0;2876,3331,0;2877,3331,0;2877,3342,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Southern Feldip Hills",
+        "requirements": "",
+        "tiles": "2515,2838,0;2509,2838,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Fishing Platform",
+        "requirements": "",
+        "tiles": "2790,3273,0;2789,3273,0;2794,3283,0;2795,3279,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Hosidius",
+        "requirements": "",
+        "tiles": "1827,3605,0;1819,3603,0;1828,3614,0;1840,3595,0;1674,3469,0;1675,3469,0"
+      },
+      {
+        "isMembers": true,
+        "location": "East of Land's End",
+        "requirements": "",
+        "tiles": "1536,3414,0;1542,3417,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Rellekka",
+        "requirements": "",
+        "tiles": "2633,3687,0;2633,3690,0;2633,3693,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Isle of Souls",
+        "requirements": "",
+        "tiles": "2161,2782,0;2162,2782,0;2164,2782,0;2166,2781,0"
+      },
+      {
+        "isMembers": true,
+        "location": "East of Stonecutter Outpost",
+        "requirements": "",
+        "tiles": "1776,2984,0;1774,2989,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Shipwreck Cove",
+        "requirements": "",
+        "tiles": "1565,3327,0;1570,3325,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Aldarin",
+        "requirements": "",
+        "tiles": "1313,2962,0;1313,2959,0;1375,2986,0;1382,2987,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Kastori",
+        "requirements": "",
+        "tiles": "1324,3011,0;1336,3010,0;1341,3009,0"
+      },
+      {
+        "isMembers": true,
+        "location": "The Pandemonium",
+        "requirements": "",
+        "tiles": "3033,2999,0;3032,2995,0;3032,2994,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Fishing spot (small net, bait)#Varlamore"
+  },
+  {
+    "locations": [
+      {
         "isMembers": true,
         "location": "North of the Abandoned Mine",
         "requirements": "",
@@ -13899,18 +14217,6 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Dognose Island",
-        "requirements": "",
-        "tiles": "3048,2632,0;3057,2633,0;3053,2632,0;3051,2632,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Floatsam"
-  },
-  {
-    "locations": [
-      {
-        "isMembers": true,
         "location": "God Wars Dungeon (Armadyl boss room)",
         "requirements": "",
         "tiles": "2828,5299,2"
@@ -13918,6 +14224,18 @@
     ],
     "requiredItem": "",
     "source": "Flockleader Geerin"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Dognose Island",
+        "requirements": "",
+        "tiles": "3048,2632,0;3057,2633,0;3053,2632,0;3051,2632,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Flotsam"
   },
   {
     "locations": [
@@ -14026,6 +14344,18 @@
     ],
     "requiredItem": "",
     "source": "Fountain (witch's house)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": false,
+        "location": "Level 47-48 Wilderness, South of the Blighted Volcano",
+        "requirements": "",
+        "tiles": "3366,3899,0;3367,3899,0;3367,3898,0;3368,3898,0;3368,3897,0;3369,3897,0;3369,3896,0;3368,3896,0;3368,3893,0;3367,3893,0;3367,3890,0;3377,3890,0;3377,3889,0;3378,3889,0;3378,3888,0;3379,3888,0;3379,3887,0;3380,3887,0;3380,3886,0;3381,3886,0;3381,3885,0;3388,3885,0;3388,3895,0;3387,3896,0;3386,3897,0;3385,3898,0;3384,3899,0;3383,3900,0;3382,3901,0;3381,3902,0;3380,3903,0;3366,3903,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Fountain of Rune"
   },
   {
     "locations": [
@@ -15561,6 +15891,18 @@
     "locations": [
       {
         "isMembers": true,
+        "location": "Glough's house in the Tree Gnome Stronghold",
+        "requirements": "",
+        "tiles": "2485,3467,3"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Gnome crates (Monkey Madness II)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
         "location": "Entrance to Tree Gnome Stronghold",
         "requirements": "",
         "tiles": "2459,3385,0;2460,3382,0;2462,3382,0;2463,3385,0;2459,3392,0;2459,3395,0;2462,3392,0;2462,3395,0"
@@ -15984,12 +16326,6 @@
         "location": "West of Varrock",
         "requirements": "",
         "tiles": "3118,3432,0;3119,3444,0;3121,3422,0;3126,3431,0;3126,3450,0"
-      },
-      {
-        "isMembers": true,
-        "location": "The Digsite",
-        "requirements": "",
-        "tiles": "3311,3375,0"
       },
       {
         "isMembers": false,
@@ -25034,6 +25370,12 @@
         "tiles": "3188,3266,0;3188,3267,0;3188,3268,0;3189,3266,0;3189,3267,0;3189,3268,0;3190,3266,0;3190,3267,0;3190,3268,0;3191,3266,0;3191,3267,0;3191,3268,0"
       },
       {
+        "isMembers": false,
+        "location": "Bea's farm",
+        "requirements": "",
+        "tiles": "3307,3385,0;3308,3385,0;3309,3385,0;3307,3384,0;3308,3384,0;3309,3384,0"
+      },
+      {
         "isMembers": true,
         "location": "South of Mount Quidamortem",
         "requirements": "",
@@ -26246,6 +26588,12 @@
         "tiles": "3243,3302,0;3244,3301,0;3244,3304,0;3245,3303,0;3246,3302,0;3246,3305,0;3247,3304,0;3247,3307,0;3248,3303,0;3248,3306,0;3249,3302,0;3249,3305,0;3249,3308,0;3250,3301,0;3250,3304,0;3250,3307,0;3250,3310,0;3251,3303,0;3251,3306,0;3251,3309,0;3252,3302,0;3252,3305,0;3252,3308,0;3252,3311,0;3253,3301,0;3253,3304,0;3253,3307,0;3253,3310,0;3253,3313,0;3254,3303,0;3254,3306,0;3254,3309,0;3254,3312,0;3255,3302,0;3255,3305,0;3255,3308,0;3255,3311,0;3255,3314,0;3256,3301,0;3256,3304,0;3256,3307,0;3256,3310,0;3256,3313,0;3256,3316,0;3257,3303,0;3257,3306,0;3257,3309,0;3257,3312,0;3257,3315,0;3257,3318,0;3258,3302,0;3258,3305,0;3258,3308,0;3258,3311,0;3258,3314,0;3258,3317,0;3259,3304,0;3259,3307,0;3259,3310,0;3259,3313,0;3259,3316,0;3259,3319,0;3260,3303,0;3260,3306,0;3260,3309,0;3260,3312,0;3260,3315,0;3261,3305,0;3261,3308,0;3261,3311,0;3261,3314,0;3261,3317,0;3262,3301,0;3262,3304,0;3262,3307,0;3262,3310,0;3262,3313,0;3262,3316,0;3263,3300,0;3263,3303,0;3263,3306,0;3263,3309,0;3263,3312,0;3263,3315,0"
       },
       {
+        "isMembers": false,
+        "location": "Bea's farm",
+        "requirements": "",
+        "tiles": "3307,3389,0;3308,3389,0;3309,3389,0;3310,3389,0;3311,3389,0;3312,3389,0;3313,3389,0;3307,3388,0;3308,3388,0;3309,3388,0;3310,3388,0;3311,3388,0;3312,3388,0;3313,3388,0"
+      },
+      {
         "isMembers": true,
         "location": "Entrana",
         "requirements": "",
@@ -27021,7 +27369,7 @@
       },
       {
         "isMembers": true,
-        "location": "Lunar Isle Ship",
+        "location": "Lady Zay",
         "requirements": "",
         "tiles": "2223,3793,0;2226,3800,0"
       },
@@ -30700,6 +31048,18 @@
     ],
     "requiredItem": "",
     "source": "Sheep (Zanaris)"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Varies",
+        "requirements": "",
+        "tiles": "3481,3279,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Shelf (Shades of Mort'ton)"
   },
   {
     "locations": [
@@ -35619,7 +35979,7 @@
       },
       {
         "isMembers": true,
-        "location": "Isle of Serpents",
+        "location": "Isle of Serpents (inaccessible)",
         "requirements": "",
         "tiles": "1855,2410,0"
       }
@@ -35871,7 +36231,7 @@
       }
     ],
     "requiredItem": "",
-    "source": "Undead tree"
+    "source": "Undead tree#Members"
   },
   {
     "locations": [
@@ -37739,7 +38099,7 @@
         "isMembers": false,
         "location": "Lumbridge",
         "requirements": "",
-        "tiles": "3217,3205,0;3235,3206,0;3236,3203,0;3244,3211,0"
+        "tiles": "3217,3205,0;3235,3206,0;3234,3196,0;3244,3211,0"
       },
       {
         "isMembers": false,
