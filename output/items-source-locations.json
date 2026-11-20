@@ -8160,6 +8160,12 @@
         "location": "Anglers' Retreat",
         "requirements": "",
         "tiles": "2480,2699,0;2477,2700,0;2484,2704,0;2476,2697,0;2482,2702,0"
+      },
+      {
+        "isMembers": true,
+        "location": "North of Falador",
+        "requirements": "",
+        "tiles": "2983,3401,0;2988,3401,0;2991,3404,0;2985,3405,0;2981,3406,0;2988,3409,0"
       }
     ],
     "requiredItem": "",
@@ -9482,18 +9488,6 @@
   {
     "locations": [
       {
-        "isMembers": false,
-        "location": "Rimmington",
-        "requirements": "",
-        "tiles": "2968,3217,0"
-      }
-    ],
-    "requiredItem": "",
-    "source": "Crate of onions (2026 Halloween event)"
-  },
-  {
-    "locations": [
-      {
         "isMembers": true,
         "location": "Shipyard",
         "requirements": "",
@@ -9502,6 +9496,18 @@
     ],
     "requiredItem": "",
     "source": "Crate of saws"
+  },
+  {
+    "locations": [
+      {
+        "isMembers": true,
+        "location": "Dishop Dennis's house south east of the Farming Guild",
+        "requirements": "",
+        "tiles": "1296,3724,0"
+      }
+    ],
+    "requiredItem": "",
+    "source": "Crates (Dishop Dennis's house)"
   },
   {
     "locations": [
@@ -9617,7 +9623,13 @@
         "isMembers": true,
         "location": "North-east Tlati Rainforest",
         "requirements": "",
-        "tiles": "1371,3135,0;1371,3127,0;1371,3134,0;1372,3131,0;1372,3133,0;1374,3134,0"
+        "tiles": "1371,3127,0;1371,3134,0;1371,3135,0;1372,3131,0;1372,3133,0;1374,3134,0"
+      },
+      {
+        "isMembers": true,
+        "location": "West of Musa Point",
+        "requirements": "",
+        "tiles": "2882,3172,0;2886,3172,0;2884,3173,0;2882,3175,0;2886,3175,0"
       }
     ],
     "requiredItem": "",
@@ -9627,19 +9639,19 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Along the River Elid",
+        "location": "South of Pollnivneach",
         "requirements": "",
         "tiles": "3337,2922,0;3364,2937,0;3345,2921,0;3342,2933,0;3355,2933,0;3347,2927,0;3360,2928,0"
       },
       {
         "isMembers": true,
-        "location": "Along the River Elid",
+        "location": "Middle of the River Elid",
         "requirements": "",
         "tiles": "3296,2912,0;3297,2919,0;3301,2920,0;3308,2916,0"
       },
       {
         "isMembers": true,
-        "location": "Along the River Elid",
+        "location": "North of Sophanem and Menaphos",
         "requirements": "",
         "tiles": "3264,2886,0;3267,2891,0;3268,2881,0;3269,2885,0;3258,2868,0;3259,2823,0;3259,2845,0;3260,2830,0;3260,2859,0;3261,2819,0;3261,2851,0;3268,2854,0;3269,2827,0;3269,2866,0;3269,2875,0;3270,2818,0;3272,2841,0;3276,2842,0;3282,2839,0;3290,2847,0"
       },
@@ -9663,19 +9675,19 @@
     "locations": [
       {
         "isMembers": true,
-        "location": "Along the River Elid",
+        "location": "South of Pollnivneach",
         "requirements": "",
         "tiles": "3337,2922,0;3364,2937,0;3345,2921,0;3342,2933,0;3355,2933,0;3347,2927,0;3360,2928,0"
       },
       {
         "isMembers": true,
-        "location": "Along the River Elid",
+        "location": "Middle of the River Elid",
         "requirements": "",
         "tiles": "3296,2912,0;3297,2919,0;3301,2920,0;3308,2916,0"
       },
       {
         "isMembers": true,
-        "location": "Along the River Elid",
+        "location": "North of Sophanem and Menaphos",
         "requirements": "",
         "tiles": "3264,2886,0;3267,2891,0;3268,2881,0;3269,2885,0;3258,2868,0;3259,2823,0;3259,2845,0;3260,2830,0;3260,2859,0;3261,2819,0;3261,2851,0;3268,2854,0;3269,2827,0;3269,2866,0;3269,2875,0;3270,2818,0;3272,2841,0;3276,2842,0;3282,2839,0;3290,2847,0"
       },
@@ -16716,6 +16728,12 @@
         "location": "Uzer Hunter area",
         "requirements": "",
         "tiles": "3396,3158,0;3406,3152,0;3400,3149,0;3408,3147,0;3404,3144,0;3395,3143,0;3406,3097,0;3402,3095,0;3407,3085,0;3410,3085,0"
+      },
+      {
+        "isMembers": true,
+        "location": "East of Al Kharid mine",
+        "requirements": "",
+        "tiles": "3321,3294,0;3323,3295,0;3326,3294,0;3327,3298,0;3321,3298,0;3323,3301,0;3325,3302,0"
       }
     ],
     "requiredItem": "",
@@ -29610,6 +29628,12 @@
         "location": "Anglers' Retreat",
         "requirements": "",
         "tiles": "2472,2714,0;2473,2722,0;2471,2708,0;2482,2700,0;2485,2706,0;2483,2713,0;2480,2717,0;2475,2701,0"
+      },
+      {
+        "isMembers": true,
+        "location": "North of Falador",
+        "requirements": "",
+        "tiles": "2994,3400,0;2985,3401,0;2994,3403,0;2988,3405,0;2991,3407,0;2985,3409,0"
       }
     ],
     "requiredItem": "",
@@ -30864,6 +30888,12 @@
         "location": "Catacombs of Kourend",
         "requirements": "",
         "tiles": "1603,10040,0;1604,10037,0;1604,10045,0;1605,10032,0;1606,10035,0;1606,10043,0;1608,10024,0;1612,10024,0;1615,10020,0;1618,10015,0;1620,10017,0"
+      },
+      {
+        "isMembers": true,
+        "location": "Ancient asylum",
+        "requirements": "",
+        "tiles": "1382,4781,0;1399,4780,0;1399,4765,0;1391,4762,0;1389,4745,0;1382,4747,0;1377,4750,0;1366,4751,0;1359,4759,0;1353,4755,0"
       }
     ],
     "requiredItem": "",
@@ -35976,6 +36006,12 @@
         "location": "Minotaurs' Rest",
         "requirements": "",
         "tiles": "1959,3105,0;1962,3103,0;1967,3105,0;1965,3100,0;1970,3102,0;1973,3104,0"
+      },
+      {
+        "isMembers": true,
+        "location": "West of Musa Point",
+        "requirements": "",
+        "tiles": "2854,3143,0;2857,3144,0;2861,3146,0;2851,3147,0;2855,3148,0;2852,3149,0;2860,3149,0"
       },
       {
         "isMembers": true,

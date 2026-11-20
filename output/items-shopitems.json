@@ -2468,37 +2468,6 @@
     "tiles": "1210,3096,0"
   },
   {
-    "buyMultiplier": "550",
-    "coords": "1210,3096",
-    "isMembers": true,
-    "items": [
-      {
-        "currency": "Coins",
-        "name": "Bronze knife",
-        "stock": "2000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Iron knife",
-        "stock": "1000",
-        "version": null
-      },
-      {
-        "currency": "Coins",
-        "name": "Steel knife",
-        "stock": "800",
-        "version": null
-      }
-    ],
-    "location": "Tal Teklan",
-    "mapID": "0",
-    "name": "Arcuani's Archery Supplies Demonic Pacts League",
-    "plane": "0",
-    "sellMultiplier": "1000",
-    "tiles": "1210,3096,0"
-  },
-  {
     "buyMultiplier": "800",
     "coords": "2656,3310",
     "isMembers": true,
@@ -5155,7 +5124,7 @@
         "version": "Unlit"
       }
     ],
-    "location": "North west of Exam Centre",
+    "location": "Bea's farm",
     "mapID": "0",
     "name": "Bea's Hunting Gear",
     "plane": "0",
